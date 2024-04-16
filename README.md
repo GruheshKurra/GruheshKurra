@@ -11,9 +11,7 @@
 
 - 🤝 I’m looking for help with [My Startup Zynthetix](https://www.zynthetix.com/)
 
-- 👨‍💻 All of my projects are available at [https://karthik-portfolio.com/](https://karthik-portfolio.com/)
-
-- 📝 I regularly write articles on [https://karthik-portfolio.com/blogs](https://karthik-portfolio.com/blogs)
+- 👨‍💻 All of my projects are available at [https://karthik-portfolio.com/](https://karthikportfolio.online/)
 
 - 💬 Ask me about **Programming Languages (C, C++, Python, Java, R, HTML, CSS) Web Development (React.js, JavaScript, TypeScript) Cloud Technologies (Amazon Web Services (AWS), Oracle Cloud Infrastructure) Database Management (SQL, PostgreSQL, MongoDB, Firebase, Supabase) Data Analysis (Pandas, NumPy, Matplotlib, SeaBorn, Tableau) Machine Learning (TensorFlow, Keras, Scikit Learn) Engineering Experience (Prompt Engineering with ChatGPT, DALL-E)**
 
