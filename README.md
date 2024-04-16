@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **gruheshkurraintern@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAF-nIpWs7w/RoTG5TUa74EOJJNLnYdQ4g/edit?utm_content=DAF-nIpWs7w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAF-nIpWs7w/RoTG5TUa74EOJJNLnYdQ4g/edit?utm_content=DAF-nIpWs7w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [https://projects.karthikproject.in/Resume.pdf](https://projects.karthikproject.in/Resume.pdf)
 
 - ⚡ Fun fact **I like to say that I teach computers to learn so I can eventually become a student of their wisdom. Also, I'm convinced my sense of humor improves algorithm efficiency by at least 10%.**
 
