@@ -378,6 +378,96 @@ Currently pursuing my B.Tech in Computer Science at KL University with a **9.69 
 - Developed **automated data processing pipelines** reducing manual effort by **80%**
 - **Technologies**: Python, Pandas, SQL, Power BI, ETL Pipelines
 
+## 🚀 Additional AI/ML Projects & Research
+
+### 🔗 [MySQL Query Generator](https://github.com/GruheshKurra/nl2sql-pretrained)
+**GPT-style transformer model trained from scratch for MySQL query generation**
+- **Architecture**: Implemented GPT-style transformer architecture for natural language to SQL conversion
+- **Performance**: Achieved final perplexity of 1.42 with 29.8M parameters in 12-minute training time
+- **Specialization**: Created MySQL-specific training pipeline with domain-specific optimization
+- **Deployment**: Built lightweight model for efficient deployment and practical application
+- **Technologies**: PyTorch, NLP, Transformers, SQL Generation, Language Models, Database
+
+### 🔍 [Anomaly Detection Suite](https://github.com/GruheshKurra/AnomalyDetection)
+**Comprehensive comparison of 5 anomaly detection algorithms on synthetic datasets**
+- **Algorithms**: Z-score, Isolation Forest, One-Class SVM, LOF, and Autoencoder implementations
+- **Evaluation**: Comprehensive metrics including AUC, precision, recall, and F1-score
+- **Framework**: Complete comparison system with detailed visualizations and synthetic dataset generation
+- **Expertise**: Demonstrated proficiency in both statistical and deep learning approaches
+- **Technologies**: Python, Machine Learning, Statistical Analysis, Jupyter, Data Visualization
+
+### 🧠 [Attention Mechanisms & Transformers](https://github.com/GruheshKurra/AttentionMechanisms)
+**Complete transformer architecture implementation from scratch with educational content**
+- **Implementation**: Multi-head attention mechanism with positional encoding and residual connections
+- **Performance**: Achieved 96%+ accuracy on Iris classification with ~15K parameters
+- **Education**: Mathematical foundations and detailed explanations for transformer concepts
+- **Architecture**: Complete transformer blocks with layer normalization and feed-forward networks
+- **Technologies**: PyTorch, Deep Learning, Attention Mechanisms, Transformers, NLP
+
+### 📊 [Clustering Algorithms for Customer Segmentation](https://github.com/GruheshKurra/ClusteringAlgorithms)
+**Implementation of 4 clustering algorithms with comprehensive evaluation framework**
+- **Algorithms**: K-Means, Hierarchical Clustering, DBSCAN, and Gaussian Mixture Models
+- **Evaluation**: Elbow method and silhouette analysis for optimal cluster selection
+- **Application**: Practical customer segmentation use cases with synthetic dataset creation
+- **Visualization**: Comprehensive comparison system with detailed performance plots
+- **Technologies**: Python, Machine Learning, Clustering, Customer Segmentation, Data Analysis
+
+### 🎨 [Diffusion Models from Scratch](https://github.com/GruheshKurra/DiffusionModelFromScratch)
+**Complete DDPM implementation with forward and reverse diffusion processes**
+- **Architecture**: U-Net encoder-decoder structure with skip connections for image generation
+- **Performance**: Training completion in ~30 minutes on GPU with ~130K parameters
+- **Visualization**: Step-by-step diffusion process visualization and comprehensive logging
+- **Implementation**: Forward noise addition and neural network-based reverse denoising
+- **Technologies**: PyTorch, Deep Learning, Generative AI, Diffusion Models, Computer Vision
+
+### 🎯 [GAN Implementation - MNIST Digit Generation](https://github.com/GruheshKurra/GAN_Implementation)
+**Complete GAN architecture with multiple training modes and cross-platform support**
+- **Architecture**: Generator and Discriminator networks with adversarial training
+- **Scalability**: Multiple training modes (576K to 3.5M parameters) for different requirements
+- **Compatibility**: Cross-platform GPU support for MPS, CUDA, and CPU execution
+- **Monitoring**: Comprehensive logging system for stable training process
+- **Technologies**: PyTorch, Deep Learning, GANs, Computer Vision, Generative Models
+
+### 🌐 [Graph Neural Networks Suite](https://github.com/GruheshKurra/GraphNeuralNetworks-GNN-)
+**Implementation and comparison of GCN, GraphSAGE, and Graph Attention Networks**
+- **Architectures**: Three major GNN approaches with comprehensive evaluation on Cora dataset
+- **Performance**: GAT achieved 81.9% accuracy, GCN 79.3%, GraphSAGE 76.8%
+- **Visualization**: t-SNE plots of learned node representations and training curves
+- **Analysis**: Comparative framework for different graph neural network approaches
+- **Technologies**: PyTorch, PyTorch Geometric, Graph Neural Networks, Node Classification
+
+### 🔄 [Sequence Modeling Suite](https://github.com/GruheshKurra/SequenceModeling)
+**Implementation of RNNs, LSTMs, GRUs, and Transformers for sequential data processing**
+- **Architectures**: Comprehensive framework covering basic to advanced sequence modeling
+- **Comparison**: Performance analysis across different sequence modeling approaches
+- **Education**: Educational content for understanding sequence modeling techniques
+- **Applications**: Sequential data processing and analysis implementations
+- **Technologies**: Python, Deep Learning, RNN, LSTM, GRU, Transformers
+
+### 🔬 [Transformers from Scratch](https://github.com/GruheshKurra/TransformersFromScratch)
+**Complete Transformer implementation based on 'Attention Is All You Need' paper**
+- **Implementation**: Multi-head attention, positional encoding, and transformer blocks
+- **Performance**: 85%+ accuracy on sentiment classification with ~200K parameters
+- **Efficiency**: 10-minute training time with optimized implementation
+- **Education**: Mathematical foundations and detailed implementation explanations
+- **Technologies**: PyTorch, Deep Learning, Transformers, NLP, Text Classification
+
+### 🎭 [Variational Autoencoders Implementation](https://github.com/GruheshKurra/VariationalAutoencoders)
+**Complete VAE with encoder, decoder, and reparameterization trick**
+- **Architecture**: Encoder-decoder structure with latent space analysis and visualization
+- **Performance**: Clear digit reconstructions with ~400K parameters
+- **Innovation**: Reparameterization trick enabling backpropagation through stochastic layers
+- **Analysis**: Comprehensive latent space organization and reconstruction quality assessment
+- **Technologies**: PyTorch, Deep Learning, VAE, Generative Models, Latent Space Analysis
+
+### 📈 [Dimensionality Reduction Suite](https://github.com/GruheshKurra/dimensionality-reduction)
+**Comprehensive comparison of PCA, t-SNE, UMAP, and Autoencoders**
+- **Methods**: Four different dimensionality reduction approaches with performance comparison
+- **Datasets**: Evaluation on Iris and Digits datasets with detailed analysis
+- **Education**: Mathematical foundations and comprehensive evaluation framework
+- **Visualization**: Detailed performance analysis across linear and non-linear methods
+- **Technologies**: Python, Machine Learning, PCA, t-SNE, UMAP, Autoencoders
+
 ## 🌟 Featured AI/LLM Projects & Research
 
 ### 🧠 [GPT-2 Implementation from Scratch](https://github.com/GruheshKurra/GPT-2-from-Scratch)
@@ -479,6 +569,8 @@ Currently pursuing my B.Tech in Computer Science at KL University with a **9.69 
 - **Custom Nodes**: Developed custom N8N nodes for specialized AI operations
 - **Performance**: Processing 10,000+ documents daily with 99.9% uptime
 - **Technologies**: N8N, AI APIs, Webhook Integration, Custom Node Development
+
+
 
 ## 📊 Research Publications & Innovation
 
