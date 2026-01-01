@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gruhesh%20Sri%20Sai%20Karthik%20Kurra&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20•%20LLM%20Researcher%20•%20Transformer%20Architect&descAlignY=52&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gruhesh%20Sri%20Sai%20Karthik%20Kurra&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Integration%20Engineer%20•%20Published%20Researcher%20•%20Founder%20@Zynthetix&descAlignY=52&descSize=18"/>
 
 <!-- Profile Picture with Glow Effect -->
 <a href="https://karthik.zynthetix.in/">
@@ -11,13 +11,14 @@
 <br/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=🧠+Building+GPT+from+Scratch;🔬+3+Published+Research+Papers;🚀+99.8%25+Accuracy+Vision+Transformers" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=🧠+Building+AI+from+Scratch;🔬+6%2B+Published+Research+Papers;🚀+98.62%25+DeepGuard+iOS+Detection;📱+44%2B+Open+Source+Projects" alt="Typing SVG" />
 
 <br/>
 
 <!-- Quick Stats Badges -->
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-karthik.zynthetix.in-6366F1?style=for-the-badge)](https://karthik.zynthetix.in/)
+[![Blog](https://img.shields.io/badge/📝_Tech_Blog-ML_From_Scratch-22C55E?style=for-the-badge)](https://blog.karthik.zynthetix.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gruhesh-sri-sai-karthik-kurra-178249227)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gruheshkurra2@gmail.com)
 
@@ -26,8 +27,9 @@
 <!-- Profile Metrics -->
 <img src="https://komarev.com/ghpvc/?username=gruheshkurra&label=Profile%20Views&color=6366F1&style=flat-square" />
 <img src="https://img.shields.io/github/followers/gruheshkurra?label=Followers&style=flat-square&color=6366F1" />
-<img src="https://img.shields.io/badge/Research_Papers-3-22C55E?style=flat-square" />
-<img src="https://img.shields.io/badge/Certifications-9+-F59E0B?style=flat-square" />
+<img src="https://img.shields.io/badge/Research_Papers-6+-22C55E?style=flat-square" />
+<img src="https://img.shields.io/badge/Certifications-16+-F59E0B?style=flat-square" />
+<img src="https://img.shields.io/badge/Projects-44+-A855F7?style=flat-square" />
 
 </div>
 
@@ -41,15 +43,19 @@
 
 ### 👨‍💻 Who I Am
 
-I'm an **AI & LLM Research Specialist** with hands-on experience building transformer architectures and enterprise AI solutions. Currently pursuing **B.Tech in Computer Science** at KL University with a **9.69 CGPA**.
+**AI Integration Engineer at InfoAjax** | **Founder of Zynthetix** | **Research Intern at IIIT Hyderabad**
+
+Specializing in AI-driven integration frameworks, LLM optimization, and synthetic data generation. Published researcher with **6+ international publications** in AI optimization, neural network compression, and distributed systems.
 
 ### 🔥 What Sets Me Apart
 
 - 🧠 **Built GPT-2 from scratch** (124M parameters)
-- 📚 **3 Published Research Papers** in international journals
-- 🎯 **99.8% accuracy** Vision Transformer implementations
-- 🏢 **Research Intern @ IIIT Hyderabad**
-- 🔧 **WSO2 API Developer @ InfoAjax Consulting**
+- 📚 **6+ Published Research Papers** including IEEE Conference
+- 🏆 **Best Paper Award** at IEEE ICACCS 2024
+- 📱 **DeepGuard iOS App** — 98.62% accuracy on-device detection
+- 🔬 **40× Compression** via BIE encoding research
+- 🏢 **Founder @ Zynthetix** — Synthetic Data Platform
+- 🎓 **9.72 CGPA** — KL University (B.Tech CSE)
 
 </td>
 <td width="50%">
@@ -70,23 +76,23 @@ I'm an **AI & LLM Research Specialist** with hands-on experience building transf
 <tr>
 <td align="center" width="33%">
 
+**🤖 AI Integration Framework**
+<br/>
+Agent-based system using Azure OpenAI for automated schema mapping & intelligent orchestration
+
+</td>
+<td align="center" width="33%">
+
 **🔬 IIIT Hyderabad Research**
 <br/>
-Layout-Preserving Document Translation with Vision Transformers
+Layout-Preserving Document Translation with Vision Transformers (92% accuracy)
 
 </td>
 <td align="center" width="33%">
 
-**🔧 Enterprise APIs**
+**📝 ML From Scratch Blog**
 <br/>
-WSO2 API Gateway & Microservices Orchestration
-
-</td>
-<td align="center" width="33%">
-
-**🧠 LLM Research**
-<br/>
-Advanced Transformer Architectures & Model Optimization
+12+ algorithm implementations with step-by-step tutorials
 
 </td>
 </tr>
@@ -98,11 +104,14 @@ Advanced Transformer Architectures & Model Optimization
 
 <div align="center">
 
-| 📄 Paper                                                                        | 🏢 Journal | 📅 Date  | 🔗 Link                                              |
-| ------------------------------------------------------------------------------- | ---------- | -------- | ---------------------------------------------------- |
-| **Dynamic Auto-Finetuning of LLMs via Confidence-Driven Knowledge Integration** | IJNRD      | Dec 2024 | [📖 Read](https://ijnrd.org/papers/IJNRD2411189.pdf) |
-| **Global Remote RAM Sharing: A Novel Distributed Computing Framework**          | IJNRD      | Dec 2024 | [📖 Read](https://ijnrd.org/papers/IJNRD2412277.pdf) |
-| **Voice-Activated AI for Seamless Computer Interaction**                        | IJNRD      | Jan 2025 | [📖 Read](https://ijnrd.org/papers/IJNRD2501080.pdf) |
+| 📄 Paper                                                                        | 🏢 Venue          | 📅 Date  | 🔗 Link                                              |
+| ------------------------------------------------------------------------------- | ----------------- | -------- | ---------------------------------------------------- |
+| **🏆 Morphology-Aware Nested Character Embeddings for Word Representation**     | IEEE ICCCMLA 2025 | 2025     | Accepted                                             |
+| **BIE: Bit-Index Encoding for Neural Network Weight Compression**               | Zenodo            | Sep 2025 | [📖 Read](https://zenodo.org/records/17217218)       |
+| **Hybrid RAG-Enhanced Deepfake Detection**                                      | Zenodo            | Aug 2024 | [📖 Read](https://zenodo.org/records/16732053)       |
+| **Dynamic Auto-Finetuning of LLMs via Confidence-Driven Knowledge Integration** | IJNRD             | Nov 2024 | [📖 Read](https://ijnrd.org/papers/IJNRD2411189.pdf) |
+| **Global Remote RAM Sharing: A Novel Distributed Computing Framework**          | IJNRD             | Dec 2024 | [📖 Read](https://ijnrd.org/papers/IJNRD2412277.pdf) |
+| **Voice-Activated AI for Seamless Computer Interaction**                        | IJNRD             | Jan 2025 | [📖 Read](https://ijnrd.org/papers/IJNRD2501080.pdf) |
 
 </div>
 
@@ -158,17 +167,17 @@ Advanced Transformer Architectures & Model Optimization
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Core_ML-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
 </details>
@@ -223,17 +232,20 @@ Advanced Transformer Architectures & Model Optimization
 
 <div align="center">
 
-| 🏅 Certification                          | 🏢 Provider          | 📅 Year |
-| ----------------------------------------- | -------------------- | ------- |
-| 🔥 **TensorFlow Developer**               | Google               | 2024    |
-| ☁️ **AWS Cloud Practitioner**             | Amazon               | 2024    |
-| 🏗️ **AWS Solutions Architect Associate**  | Amazon               | 2024    |
-| 🤖 **OCI Generative AI Professional**     | Oracle               | 2024    |
-| 🏛️ **OCI Architect Associate**            | Oracle               | 2023    |
-| 🚀 **Advanced Automation Professional**   | Automation Anywhere  | 2024    |
-| 🐧 **Enterprise Application Developer**   | Red Hat              | 2024    |
-| 🧠 **Build LLMs from Scratch**            | Manning Publications | 2024    |
-| 🔗 **WSO2 Micro Integrator Practitioner** | WSO2                 | 2024    |
+| 🏅 Certification                          | 🏢 Provider         | 📅 Year |
+| ----------------------------------------- | ------------------- | ------- |
+| 🔥 **TensorFlow Developer**               | Google              | 2023    |
+| ☁️ **AWS Cloud Practitioner**             | Amazon              | 2023    |
+| 🏗️ **AWS Solutions Architect Associate**  | Amazon              | 2023    |
+| 🏛️ **OCI Architect Associate**            | Oracle              | 2023    |
+| 🚀 **Advanced Automation Professional**   | Automation Anywhere | 2024    |
+| 🐧 **Enterprise Application Developer**   | Red Hat             | 2024    |
+| 🧠 **Build LLMs from Scratch**            | Visuara             | 2024    |
+| 🔗 **WSO2 Micro Integrator Developer**    | WSO2                | 2024    |
+| 🔗 **WSO2 Micro Integrator Practitioner** | WSO2                | 2025    |
+| 🤗 **Hugging Face MCP Unit 1 & 3**        | Hugging Face        | 2024    |
+| 📜 **IIIT Hyderabad 6-Month Training**    | IIIT Hyderabad      | 2024    |
+| 🌐 **Google GDG Certificate**             | Google              | 2025    |
 
 </div>
 
@@ -243,8 +255,14 @@ Advanced Transformer Architectures & Model Optimization
 
 <div align="center">
 
+<a href="https://github.com/GruheshKurra/deepguard-detection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gruheshkurra&repo=deepguard-detection&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
 <a href="https://github.com/GruheshKurra/GPT-2-from-Scratch">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=gruheshkurra&repo=GPT-2-from-Scratch&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+<a href="https://github.com/GruheshKurra/bit-index-encoding-research-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gruheshkurra&repo=bit-index-encoding-research-&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 <a href="https://github.com/GruheshKurra/TransformersFromScratch">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=gruheshkurra&repo=TransformersFromScratch&theme=tokyonight&hide_border=true&bg_color=0d1117" />
@@ -254,12 +272,6 @@ Advanced Transformer Architectures & Model Optimization
 </a>
 <a href="https://github.com/GruheshKurra/DiffusionModelFromScratch">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=gruheshkurra&repo=DiffusionModelFromScratch&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-<a href="https://github.com/GruheshKurra/AttentionMechanisms">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gruheshkurra&repo=AttentionMechanisms&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-<a href="https://github.com/GruheshKurra/GAN_Implementation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gruheshkurra&repo=GAN_Implementation&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
 </div>
@@ -309,54 +321,105 @@ Advanced Transformer Architectures & Model Optimization
 
 ---
 
+## 📝 ML From Scratch Blog
+
+<div align="center">
+
+I write comprehensive tutorials teaching machine learning algorithms from scratch with step-by-step implementations.
+
+**[🌐 Visit My Blog](https://blog.karthik.zynthetix.in/)**
+
+</div>
+
+| 📊 Algorithm                                                                                       | 🔗 Repository | 📚 Category              |
+| -------------------------------------------------------------------------------------------------- | ------------- | ------------------------ |
+| **[UMAP Dimensionality Reduction](https://github.com/GruheshKurra/umap-dimensionality-reduction)** | From Scratch  | Dimensionality Reduction |
+| **[t-SNE Implementation](https://github.com/GruheshKurra/tsne-from-scratch)**                      | From Scratch  | Dimensionality Reduction |
+| **[Hierarchical Clustering](https://github.com/GruheshKurra/hierarchical-clustering)**             | From Scratch  | Clustering               |
+| **[DBSCAN Clustering](https://github.com/GruheshKurra/dbscan-clustering)**                         | From Scratch  | Clustering               |
+| **[K-Means Clustering](https://github.com/GruheshKurra/k-means-clustering)**                       | From Scratch  | Clustering               |
+| **[KNN Implementation](https://github.com/GruheshKurra/knn-implementation)**                       | From Scratch  | Classification           |
+| **[SVM Implementation](https://github.com/GruheshKurra/SVM-Implementation-From-Scratch)**          | From Scratch  | Classification           |
+| **[Naive Bayes](https://github.com/GruheshKurra/naive-bayes-implementation)**                      | From Scratch  | Classification           |
+| **[Random Forest](https://github.com/GruheshKurra/random-forest-from-scratch)**                    | From Scratch  | Ensemble Learning        |
+| **[Decision Trees](https://github.com/GruheshKurra/decision-trees-from-scratch)**                  | From Scratch  | Classification           |
+| **[Logistic Regression](https://github.com/GruheshKurra/logistic-regression-impl)**                | From Scratch  | Classification           |
+| **[Linear Regression](https://github.com/GruheshKurra/linear-regression-impl)**                    | From Scratch  | Regression               |
+
+---
+
 ## 💼 Experience
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔬 Research Intern — IIIT Hyderabad
+### 🤖 AI Integration Engineer — InfoAjax
 
-**Dec 2024 – Feb 2025**
+**Oct 2025 – Present**
 
-- Layout-preserving document translation system
-- Vision Transformer achieving **99.8% accuracy**
-- FastAPI + React + Supabase architecture
+- AI-driven integration framework using **Azure OpenAI**
+- Agent-based automated schema mapping
+- React 18 + FastAPI + WebSocket real-time monitoring
 
 </td>
 <td width="50%">
 
-### 🔧 WSO2 API Developer — InfoAjax
+### 🚀 Founder & CEO — Zynthetix
 
-**Oct 2024 – Feb 2025**
+**Mar 2024 – Jan 2025**
 
-- Enterprise API architecture
-- Microservices orchestration
-- OAuth 2.0 & JWT authentication
+- Synthetic data generation platform (GANs, VAEs)
+- Meta-controller architecture with 200+ child models
+- **98.5% PII detection** accuracy
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🧠 AI/ML Training — IIIT Hyderabad
+### 🔬 Research Intern — IIIT Hyderabad
 
-**Jun 2024 – Dec 2024**
+**Dec 2024 – Jun 2025**
 
-- 6-month intensive program
-- Neural networks, CNNs, optimization
-- From-scratch algorithm implementations
+- Layout-preserving document translation system
+- Vision Transformer achieving **92% accuracy**
+- Presented at IIIT Hyderabad research expo (May 2025)
 
 </td>
 <td width="50%">
 
-### 📊 Data Analyst — XtraLeap India
+### 🔧 WSO2 API Developer — InfoAjax
+
+**Oct 2024 – Jun 2025**
+
+- RESTful APIs for PLDT (Philippines telecom)
+- WSO2 Integration Studio + Choreo cloud
+- Production assistance with strict SLAs
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧠 AI/ML Research Training — iHub-Data, IIITH
+
+**May 2024 – Oct 2024**
+
+- 6-month intensive AI research program
+- LLM fundamentals, fine-tuning, quantization
+- Document analysis & OCR systems
+
+</td>
+<td width="50%">
+
+### 📊 Intern — XtraLeap India
 
 **Jul 2023 – Oct 2023**
 
-- BI dashboards & data pipelines
-- **80% automation** in data processing
-- Privacy protection measures
+- Data science & analytics projects
+- Python (pandas, NumPy, scikit-learn)
+- Customer segmentation & retail analytics
 
 </td>
 </tr>
@@ -394,18 +457,19 @@ Advanced Transformer Architectures & Model Optimization
 
 <div align="center">
 
-| 🏆 Metric                       | 📈 Value                  |
-| ------------------------------- | ------------------------- |
-| **GPT-2 Parameters**            | 124M (from scratch)       |
-| **Vision Transformer Accuracy** | 99.8%                     |
-| **Clinical AI Precision**       | 99.5%                     |
-| **DeepFake Detection**          | 96.8%                     |
-| **Voice Recognition**           | 98% accuracy, <500ms      |
-| **Research Papers**             | 3 Published               |
-| **Certifications**              | 9+                        |
-| **Model Improvement**           | 23% via novel fine-tuning |
-| **Memory Optimization**         | 40% reduction             |
-| **Daily Docs Processed**        | 10,000+                   |
+| 🏆 Metric                      | 📈 Value                    |
+| ------------------------------ | --------------------------- |
+| **GPT-2 Parameters**           | 124M (from scratch)         |
+| **DeepGuard iOS Detection**    | 98.62% accuracy, <500ms     |
+| **BIE Compression Ratio**      | 40× with MSE <10⁻⁶          |
+| **Layout Detection (LPDT)**    | 92% accuracy                |
+| **Clinical AI Precision**      | 99.5%                       |
+| **Research Papers**            | 6+ Published                |
+| **IEEE Best Paper Award**      | ICACCS 2024                 |
+| **Certifications**             | 16+                         |
+| **Open Source Projects**       | 44+                         |
+| **ML From Scratch Blog Posts** | 12+                         |
+| **NER Improvement (German)**   | 58.3% via nested embeddings |
 
 </div>
 
@@ -415,21 +479,22 @@ Advanced Transformer Architectures & Model Optimization
 
 <div align="center">
 
-I'm always open to collaborating on **AI/ML research**, **transformer architectures**, and **innovative AI applications**.
+I'm always open to collaborating on **AI/ML research**, **transformer architectures**, **iOS AI apps**, and **innovative AI applications**.
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-6366F1?style=for-the-badge)](https://karthik.zynthetix.in/)
+[![Blog](https://img.shields.io/badge/📝_Blog-ML_From_Scratch-22C55E?style=for-the-badge)](https://blog.karthik.zynthetix.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gruhesh-sri-sai-karthik-kurra-178249227)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gruheshkurra2@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/GruheshKurra)
-[![Research](https://img.shields.io/badge/Research-Read_My_Papers-00D4AA?style=for-the-badge&logo=researchgate&logoColor=white)](https://ijnrd.org/author/karthik-kurra)
+[![Hugging Face](https://img.shields.io/badge/🤗_HuggingFace-Profile-FFD21E?style=for-the-badge)](https://huggingface.co/karthik-2905)
 
 <br/>
 
 ### 🔬 Open to Collaborate On
 
-**🧠 Transformer Research** • **🤖 LLM Development** • **👁️ Vision-Language Models** • **🏥 AI for Healthcare** • **🔒 Privacy-Preserving AI**
+**🧠 Transformer Research** • **🤖 LLM Development** • **📱 iOS AI Apps** • **👁️ Vision-Language Models** • **🔒 Privacy-Preserving AI** • **🔬 Neural Compression**
 
 </div>
 
