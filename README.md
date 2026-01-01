@@ -172,10 +172,18 @@ Privacy-first deepfake detection with **98.62% accuracy** & <500ms inference
 
 <div align="center">
 
-[![DeepGuard](https://github-readme-stats.vercel.app/api/pin/?username=gruheshkurra&repo=deepguard-detection&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=22C55E)](https://github.com/GruheshKurra/deepguard-detection)
-[![GPT-2](https://github-readme-stats.vercel.app/api/pin/?username=gruheshkurra&repo=GPT-2-from-Scratch&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=22C55E)](https://github.com/GruheshKurra/GPT-2-from-Scratch)
-[![BIE Research](https://github-readme-stats.vercel.app/api/pin/?username=gruheshkurra&repo=bit-index-encoding-research-&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=22C55E)](https://github.com/GruheshKurra/bit-index-encoding-research-)
-[![Transformers](https://github-readme-stats.vercel.app/api/pin/?username=gruheshkurra&repo=TransformersFromScratch&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=22C55E)](https://github.com/GruheshKurra/TransformersFromScratch)
+<a href="https://github.com/GruheshKurra/deepguard-detection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GruheshKurra&repo=deepguard-detection&theme=tokyonight&hide_border=true" width="47%" />
+</a>
+<a href="https://github.com/GruheshKurra/GPT-2-from-Scratch">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GruheshKurra&repo=GPT-2-from-Scratch&theme=tokyonight&hide_border=true" width="47%" />
+</a>
+<a href="https://github.com/GruheshKurra/bit-index-encoding-research-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GruheshKurra&repo=bit-index-encoding-research-&theme=tokyonight&hide_border=true" width="47%" />
+</a>
+<a href="https://github.com/GruheshKurra/TransformersFromScratch">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GruheshKurra&repo=TransformersFromScratch&theme=tokyonight&hide_border=true" width="47%" />
+</a>
 
 </div>
 
@@ -272,20 +280,24 @@ timeline
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gruheshkurra&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=22C55E&text_color=ffffff" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gruheshkurra&theme=radical&hide_border=true&background=0d1117&ring=6366F1&fire=22C55E&currStreakLabel=ffffff" width="49%" />
+<a href="https://github.com/GruheshKurra">
+  <img src="https://github-readme-stats.vercel.app/api?username=GruheshKurra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+</a>
+<a href="https://github.com/GruheshKurra">
+  <img src="https://streak-stats.demolab.com?user=GruheshKurra&theme=tokyonight&hide_border=true" width="48%" />
+</a>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gruheshkurra&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=ffffff&langs_count=8" width="40%" />
+<a href="https://github.com/GruheshKurra">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GruheshKurra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
+</a>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=gruheshkurra&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gruheshkurra&theme=react-dark&hide_border=true&bg_color=0d1117&color=6366F1&line=22C55E&point=ffffff&area=true" width="100%" />
+<a href="https://github.com/GruheshKurra">
+  <img src="https://github-profile-trophy.vercel.app/?username=GruheshKurra&theme=tokyonight&no-frame=true&column=7&margin-w=10" width="100%" />
+</a>
 
 </div>
 
