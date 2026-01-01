@@ -172,17 +172,17 @@ Privacy-first deepfake detection with **98.62% accuracy** & <500ms inference
 
 <div align="center">
 
-<a href="https://github.com/GruheshKurra/deepguard-detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GruheshKurra&repo=deepguard-detection&theme=tokyonight&hide_border=true" width="47%" />
+<a href="https://github.com/GruheshKurra/deepguard-ios">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GruheshKurra&repo=deepguard-ios&theme=tokyonight&hide_border=true" width="47%" />
 </a>
-<a href="https://github.com/GruheshKurra/GPT-2-from-Scratch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GruheshKurra&repo=GPT-2-from-Scratch&theme=tokyonight&hide_border=true" width="47%" />
+<a href="https://github.com/GruheshKurra/FirstGPTFromScratch">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GruheshKurra&repo=FirstGPTFromScratch&theme=tokyonight&hide_border=true" width="47%" />
 </a>
 <a href="https://github.com/GruheshKurra/bit-index-encoding-research-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GruheshKurra&repo=bit-index-encoding-research-&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GruheshKurra&repo=bit-index-encoding-research-&theme=tokyonight&hide_border=true" width="47%" />
 </a>
 <a href="https://github.com/GruheshKurra/TransformersFromScratch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GruheshKurra&repo=TransformersFromScratch&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GruheshKurra&repo=TransformersFromScratch&theme=tokyonight&hide_border=true" width="47%" />
 </a>
 
 </div>
@@ -195,7 +195,7 @@ Privacy-first deepfake detection with **98.62% accuracy** & <500ms inference
 
 | Project                                                                              | Description                                | Highlight                      |
 | ------------------------------------------------------------------------------------ | ------------------------------------------ | ------------------------------ |
-| [GPT-2 from Scratch](https://github.com/GruheshKurra/GPT-2-from-Scratch)             | Complete 124M parameter implementation     | Built transformer from scratch |
+| [FirstGPTFromScratch](https://github.com/GruheshKurra/FirstGPTFromScratch)           | Complete 124M parameter implementation     | Built transformer from scratch |
 | [Transformers from Scratch](https://github.com/GruheshKurra/TransformersFromScratch) | "Attention Is All You Need" implementation | 85%+ accuracy                  |
 | [NL2SQL Generator](https://github.com/GruheshKurra/nl2sql-pretrained)                | Natural Language to SQL                    | Perplexity: 1.42               |
 | [Attention Mechanisms](https://github.com/GruheshKurra/AttentionMechanisms)          | Multi-head attention educational           | 96%+ accuracy                  |
@@ -281,7 +281,7 @@ timeline
 <div align="center">
 
 <a href="https://github.com/GruheshKurra">
-  <img src="https://github-readme-stats.vercel.app/api?username=GruheshKurra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GruheshKurra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
 </a>
 <a href="https://github.com/GruheshKurra">
   <img src="https://streak-stats.demolab.com?user=GruheshKurra&theme=tokyonight&hide_border=true" width="48%" />
@@ -290,7 +290,7 @@ timeline
 <br/>
 
 <a href="https://github.com/GruheshKurra">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GruheshKurra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GruheshKurra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
 </a>
 
 <br/><br/>
