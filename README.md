@@ -18,7 +18,7 @@
 <!-- Quick Stats Badges -->
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-karthik.zynthetix.in-6366F1?style=for-the-badge)](https://karthik.zynthetix.in/)
-[![Blog](https://img.shields.io/badge/📝_Tech_Blog-ML_From_Scratch-22C55E?style=for-the-badge)](https://blog.karthik.zynthetix.in/)
+[![Blog](https://img.shields.io/badge/📝_Tech_Blog-ML_From_Scratch-22C55E?style=for-the-badge)](https://blogs.zynthetix.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gruhesh-sri-sai-karthik-kurra-178249227)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gruheshkurra2@gmail.com)
 
