@@ -100,7 +100,7 @@ Vision Transformer-based document analysis with **92% accuracy**
 </td>
 <td width="33%" align="center">
 
-### � DeepGuard iOS
+### 🛡️ DeepGuard iOS
 
 **On-Device Detection**
 
@@ -118,14 +118,14 @@ Privacy-first deepfake detection with **98.62% accuracy** & <500ms inference
 
 <div align="center">
 
-| 📄 Paper                                                                                                                     | �️ Venue          | 📅 Year |
-| :--------------------------------------------------------------------------------------------------------------------------- | :---------------- | :------ |
-| **Morphology-Aware Nested Character Embeddings for Word Representation**                                                     | IEEE ICCCMLA 2025 | 2025    |
-| **[BIE: Bit-Index Encoding for Neural Network Weight Compression](https://zenodo.org/records/17217218)**                     | Zenodo            | 2025    |
-| **[Hybrid RAG-Enhanced Deepfake Detection](https://zenodo.org/records/16732053)**                                            | Zenodo            | 2024    |
-| **[Dynamic Auto-Finetuning of LLMs via Confidence-Driven Knowledge Integration](https://ijnrd.org/papers/IJNRD2411189.pdf)** | IJNRD             | 2024    |
-| **[Global Remote RAM Sharing: A Novel Distributed Computing Framework](https://ijnrd.org/papers/IJNRD2412277.pdf)**          | IJNRD             | 2024    |
-| **[Voice-Activated AI for Seamless Computer Interaction](https://ijnrd.org/papers/IJNRD2501080.pdf)**                        | IJNRD             | 2025    |
+| 📄 Paper | 🏛️ Venue | 📅 Year |
+| :--- | :--- | :--- |
+| **Morphology-Aware Nested Character Embeddings for Word Representation** | IEEE ICCCMLA 2025 | 2025 |
+| **[BIE: Bit-Index Encoding for Neural Network Weight Compression](https://zenodo.org/records/17217218)** | Zenodo | 2025 |
+| **[Hybrid RAG-Enhanced Deepfake Detection](https://zenodo.org/records/16732053)** | Zenodo | 2024 |
+| **[Dynamic Auto-Finetuning of LLMs via Confidence-Driven Knowledge Integration](https://ijnrd.org/papers/IJNRD2411189.pdf)** | IJNRD | 2024 |
+| **[Global Remote RAM Sharing: A Novel Distributed Computing Framework](https://ijnrd.org/papers/IJNRD2412277.pdf)** | IJNRD | 2024 |
+| **[Voice-Activated AI for Seamless Computer Interaction](https://ijnrd.org/papers/IJNRD2501080.pdf)** | IJNRD | 2025 |
 
 </div>
 
@@ -172,8 +172,8 @@ Privacy-first deepfake detection with **98.62% accuracy** & <500ms inference
 
 <div align="center">
 
-<a href="https://github.com/GruheshKurra/deepguard-ios">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GruheshKurra&repo=deepguard-ios&theme=tokyonight&hide_border=true" width="47%" />
+<a href="https://github.com/GruheshKurra/nl2sql-pretrained">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GruheshKurra&repo=nl2sql-pretrained&theme=tokyonight&hide_border=true" width="47%" />
 </a>
 <a href="https://github.com/GruheshKurra/FirstGPTFromScratch">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GruheshKurra&repo=FirstGPTFromScratch&theme=tokyonight&hide_border=true" width="47%" />
@@ -193,28 +193,28 @@ Privacy-first deepfake detection with **98.62% accuracy** & <500ms inference
 
 ### 🧠 LLM & Transformer Projects
 
-| Project                                                                              | Description                                | Highlight                      |
-| ------------------------------------------------------------------------------------ | ------------------------------------------ | ------------------------------ |
-| [FirstGPTFromScratch](https://github.com/GruheshKurra/FirstGPTFromScratch)           | Complete 124M parameter implementation     | Built transformer from scratch |
-| [Transformers from Scratch](https://github.com/GruheshKurra/TransformersFromScratch) | "Attention Is All You Need" implementation | 85%+ accuracy                  |
-| [NL2SQL Generator](https://github.com/GruheshKurra/nl2sql-pretrained)                | Natural Language to SQL                    | Perplexity: 1.42               |
-| [Attention Mechanisms](https://github.com/GruheshKurra/AttentionMechanisms)          | Multi-head attention educational           | 96%+ accuracy                  |
+| Project | Description | Highlight |
+| :--- | :--- | :--- |
+| [FirstGPTFromScratch](https://github.com/GruheshKurra/FirstGPTFromScratch) | Complete 124M parameter implementation | Built transformer from scratch |
+| [Transformers from Scratch](https://github.com/GruheshKurra/TransformersFromScratch) | "Attention Is All You Need" implementation | 85%+ accuracy |
+| [NL2SQL Generator](https://github.com/GruheshKurra/nl2sql-pretrained) | Natural Language to SQL | Perplexity: 1.42 |
+| [Attention Mechanisms](https://github.com/GruheshKurra/AttentionMechanisms) | Multi-head attention educational | 96%+ accuracy |
 
 ### 🎨 Generative AI
 
-| Project                                                                       | Description                  | Highlight               |
-| ----------------------------------------------------------------------------- | ---------------------------- | ----------------------- |
-| [Diffusion Models](https://github.com/GruheshKurra/DiffusionModelFromScratch) | Complete DDPM implementation | ~130K params            |
-| [GAN Implementation](https://github.com/GruheshKurra/GAN_Implementation)      | MNIST generation             | Multiple training modes |
-| [VAE Implementation](https://github.com/GruheshKurra/VariationalAutoencoders) | Latent space analysis        | Clear reconstructions   |
+| Project | Description | Highlight |
+| :--- | :--- | :--- |
+| [Diffusion Models](https://github.com/GruheshKurra/DiffusionModelFromScratch) | Complete DDPM implementation | ~130K params |
+| [GAN Implementation](https://github.com/GruheshKurra/GAN_Implementation) | MNIST generation | Multiple training modes |
+| [VAE Implementation](https://github.com/GruheshKurra/VariationalAutoencoders) | Latent space analysis | Clear reconstructions |
 
 ### 🔬 Research & Analysis
 
-| Project                                                                                       | Description           | Highlight       |
-| --------------------------------------------------------------------------------------------- | --------------------- | --------------- |
-| [Clinical Trial Analysis](https://github.com/GruheshKurra/Clinical-Trial-Similarity-Analysis) | PubMedBERT similarity | 99.5% accuracy  |
-| [Graph Neural Networks](https://github.com/GruheshKurra/GraphNeuralNetworks-GNN-)             | GCN, GraphSAGE, GAT   | 81.9% accuracy  |
-| [Dimensionality Reduction](https://github.com/GruheshKurra/dimensionality-reduction)          | PCA, t-SNE, UMAP      | Full comparison |
+| Project | Description | Highlight |
+| :--- | :--- | :--- |
+| [Clinical Trial Analysis](https://github.com/GruheshKurra/Clinical-Trial-Similarity-Analysis) | PubMedBERT similarity | 99.5% accuracy |
+| [Graph Neural Networks](https://github.com/GruheshKurra/GraphNeuralNetworks-GNN-) | GCN, GraphSAGE, GAT | 81.9% accuracy |
+| [Dimensionality Reduction](https://github.com/GruheshKurra/dimensionality-reduction) | PCA, t-SNE, UMAP | Full comparison |
 
 </details>
 
@@ -230,14 +230,14 @@ I write comprehensive tutorials teaching ML algorithms from the ground up.
 
 </div>
 
-| Algorithm                                                                          | Category                 | Algorithm                                                                     | Category                 |
-| :--------------------------------------------------------------------------------- | :----------------------- | :---------------------------------------------------------------------------- | :----------------------- |
-| [UMAP](https://github.com/GruheshKurra/umap-dimensionality-reduction)              | Dimensionality Reduction | [t-SNE](https://github.com/GruheshKurra/tsne-from-scratch)                    | Dimensionality Reduction |
-| [Hierarchical Clustering](https://github.com/GruheshKurra/hierarchical-clustering) | Clustering               | [DBSCAN](https://github.com/GruheshKurra/dbscan-clustering)                   | Clustering               |
-| [K-Means](https://github.com/GruheshKurra/k-means-clustering)                      | Clustering               | [KNN](https://github.com/GruheshKurra/knn-implementation)                     | Classification           |
-| [SVM](https://github.com/GruheshKurra/SVM-Implementation-From-Scratch)             | Classification           | [Naive Bayes](https://github.com/GruheshKurra/naive-bayes-implementation)     | Classification           |
-| [Random Forest](https://github.com/GruheshKurra/random-forest-from-scratch)        | Ensemble                 | [Decision Trees](https://github.com/GruheshKurra/decision-trees-from-scratch) | Classification           |
-| [Logistic Regression](https://github.com/GruheshKurra/logistic-regression-impl)    | Classification           | [Linear Regression](https://github.com/GruheshKurra/linear-regression-impl)   | Regression               |
+| Algorithm | Category | Algorithm | Category |
+| :--- | :--- | :--- | :--- |
+| [UMAP](https://github.com/GruheshKurra/umap-dimensionality-reduction) | Dimensionality Reduction | [t-SNE](https://github.com/GruheshKurra/tsne-from-scratch) | Dimensionality Reduction |
+| [Hierarchical Clustering](https://github.com/GruheshKurra/hierarchical-clustering) | Clustering | [DBSCAN](https://github.com/GruheshKurra/dbscan-clustering) | Clustering |
+| [K-Means](https://github.com/GruheshKurra/k-means-clustering) | Clustering | [KNN](https://github.com/GruheshKurra/knn-implementation) | Classification |
+| [SVM](https://github.com/GruheshKurra/SVM-Implementation-From-Scratch) | Classification | [Naive Bayes](https://github.com/GruheshKurra/naive-bayes-implementation) | Classification |
+| [Random Forest](https://github.com/GruheshKurra/random-forest-from-scratch) | Ensemble | [Decision Trees](https://github.com/GruheshKurra/decision-trees-from-scratch) | Classification |
+| [Logistic Regression](https://github.com/GruheshKurra/logistic-regression-impl) | Classification | [Linear Regression](https://github.com/GruheshKurra/linear-regression-impl) | Regression |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -263,14 +263,14 @@ timeline
 
 <div align="center">
 
-| Certification           | Provider            | Certification            | Provider     |
-| :---------------------- | :------------------ | :----------------------- | :----------- |
-| TensorFlow Developer    | Google              | AWS Cloud Practitioner   | Amazon       |
-| AWS Solutions Architect | Amazon              | OCI Architect Associate  | Oracle       |
-| Advanced Automation Pro | Automation Anywhere | Enterprise App Developer | Red Hat      |
-| Build LLMs from Scratch | Visuara             | WSO2 MI Developer        | WSO2         |
-| WSO2 MI Practitioner    | WSO2                | HuggingFace MCP          | Hugging Face |
-| 6-Month AI Training     | IIIT Hyderabad      | Google GDG               | Google       |
+| Certification | Provider | Certification | Provider |
+| :--- | :--- | :--- | :--- |
+| TensorFlow Developer | Google | AWS Cloud Practitioner | Amazon |
+| AWS Solutions Architect | Amazon | OCI Architect Associate | Oracle |
+| Advanced Automation Pro | Automation Anywhere | Enterprise App Developer | Red Hat |
+| Build LLMs from Scratch | Visuara | WSO2 MI Developer | WSO2 |
+| WSO2 MI Practitioner | WSO2 | HuggingFace MCP | Hugging Face |
+| 6-Month AI Training | IIIT Hyderabad | Google GDG | Google |
 
 </div>
 
@@ -284,16 +284,16 @@ timeline
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GruheshKurra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
 </a>
 <a href="https://github.com/GruheshKurra">
-  <img src="https://streak-stats.demolab.com?user=GruheshKurra&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GruheshKurra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
 </a>
 
 <br/>
 
 <a href="https://github.com/GruheshKurra">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GruheshKurra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GruheshKurra&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/GruheshKurra">
   <img src="https://github-profile-trophy.vercel.app/?username=GruheshKurra&theme=tokyonight&no-frame=true&column=7&margin-w=10" width="100%" />
@@ -307,13 +307,13 @@ timeline
 
 <div align="center">
 
-| 🏆 Metric                | 📈 Value            | 🏆 Metric            | 📈 Value           |
-| :----------------------- | :------------------ | :------------------- | :----------------- |
-| **GPT-2 Parameters**     | 124M (from scratch) | **DeepGuard iOS**    | 98.62% accuracy    |
-| **BIE Compression**      | 40× with MSE <10⁻⁶  | **Layout Detection** | 92% accuracy       |
-| **Research Papers**      | 6+ Published        | **Certifications**   | 16+                |
-| **Open Source Projects** | 44+                 | **Blog Tutorials**   | 12+                |
-| **PII Detection**        | 98.5% (Zynthetix)   | **German NER**       | +58.3% improvement |
+| 🏆 Metric | 📈 Value | 🏆 Metric | 📈 Value |
+| :--- | :--- | :--- | :--- |
+| **GPT-2 Parameters** | 124M (from scratch) | **DeepGuard iOS** | 98.62% accuracy |
+| **BIE Compression** | 40× with MSE <10⁻⁶ | **Layout Detection** | 92% accuracy |
+| **Research Papers** | 6+ Published | **Certifications** | 16+ |
+| **Open Source Projects** | 44+ | **Blog Tutorials** | 12+ |
+| **PII Detection** | 98.5% (Zynthetix) | **German NER** | +58.3% improvement |
 
 </div>
 
