@@ -18,6 +18,9 @@
 <a href="mailto:gruheshkurra2@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&labelColor=000000&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
+<a href="https://huggingface.co/karthik-2905">
+  <img src="https://img.shields.io/badge/HuggingFace-Models_%26_Spaces-FFD21E?style=for-the-badge&labelColor=000000&logo=huggingface&logoColor=FFD21E" alt="HuggingFace"/>
+</a>
 
 <br/><br/>
 
@@ -118,9 +121,18 @@ Privacy-first deepfake detection with **98.62% accuracy** & <500ms inference
 
 <div align="center">
 
+<a href="https://zenodo.org/search?q=karthik+kurra&l=list&p=1&s=bestmatch&sort=bestmatch">
+  <img src="https://img.shields.io/badge/Zenodo-Preprints-024DCA?style=for-the-badge&logo=zenodo&logoColor=white" alt="Zenodo"/>
+</a>
+<a href="https://ijnrd.org/viewpaperforall.php?paper=IJNRD2411189">
+  <img src="https://img.shields.io/badge/IJNRD-Publications-8B5CF6?style=for-the-badge&logo=academia&logoColor=white" alt="IJNRD"/>
+</a>
+
+<br/><br/>
+
 | 📄 Paper | 🏛️ Venue | 📅 Year |
 | :--- | :--- | :--- |
-| **Morphology-Aware Nested Character Embeddings for Word Representation** | IEEE ICCCMLA 2025 | 2025 |
+| **[Morphology-Aware Nested Character Embeddings for Word Representation](https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=Morphology-Aware+Nested+Character+Embeddings)** | IEEE ICCCMLA 2025 | 2025 |
 | **[BIE: Bit-Index Encoding for Neural Network Weight Compression](https://zenodo.org/records/17217218)** | Zenodo | 2025 |
 | **[Hybrid RAG-Enhanced Deepfake Detection](https://zenodo.org/records/16732053)** | Zenodo | 2024 |
 | **[Dynamic Auto-Finetuning of LLMs via Confidence-Driven Knowledge Integration](https://ijnrd.org/papers/IJNRD2411189.pdf)** | IJNRD | 2024 |
@@ -220,24 +232,51 @@ Privacy-first deepfake detection with **98.62% accuracy** & <500ms inference
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🤗 HuggingFace Models & Spaces
+
+<div align="center">
+
+<a href="https://huggingface.co/karthik-2905">
+  <img src="https://img.shields.io/badge/🤗_HuggingFace-karthik--2905-FFD21E?style=for-the-badge&labelColor=1a1a2e" alt="HuggingFace Profile"/>
+</a>
+
+<br/><br/>
+
+Explore fine-tuned models, datasets, and interactive demos built for real-world AI tasks.
+
+| 🤖 Area | 🔗 Explore |
+| :--- | :--- |
+| Fine-tuned LLMs & NLP Models | [huggingface.co/karthik-2905](https://huggingface.co/karthik-2905?tab=models) |
+| Interactive AI Spaces & Demos | [huggingface.co/karthik-2905](https://huggingface.co/karthik-2905?tab=spaces) |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 📝 ML From Scratch Blog
 
 <div align="center">
 
-I write comprehensive tutorials teaching ML algorithms from the ground up.
+I write comprehensive tutorials teaching ML algorithms from the ground up — math, intuition, and full Python implementations.
 
 ### **[🌐 Visit blogs.zynthetix.in](https://blogs.zynthetix.in/)**
 
 </div>
 
-| Algorithm | Category | Algorithm | Category |
-| :--- | :--- | :--- | :--- |
-| [UMAP](https://github.com/GruheshKurra/umap-dimensionality-reduction) | Dimensionality Reduction | [t-SNE](https://github.com/GruheshKurra/tsne-from-scratch) | Dimensionality Reduction |
-| [Hierarchical Clustering](https://github.com/GruheshKurra/hierarchical-clustering) | Clustering | [DBSCAN](https://github.com/GruheshKurra/dbscan-clustering) | Clustering |
-| [K-Means](https://github.com/GruheshKurra/k-means-clustering) | Clustering | [KNN](https://github.com/GruheshKurra/knn-implementation) | Classification |
-| [SVM](https://github.com/GruheshKurra/SVM-Implementation-From-Scratch) | Classification | [Naive Bayes](https://github.com/GruheshKurra/naive-bayes-implementation) | Classification |
-| [Random Forest](https://github.com/GruheshKurra/random-forest-from-scratch) | Ensemble | [Decision Trees](https://github.com/GruheshKurra/decision-trees-from-scratch) | Classification |
-| [Logistic Regression](https://github.com/GruheshKurra/logistic-regression-impl) | Classification | [Linear Regression](https://github.com/GruheshKurra/linear-regression-impl) | Regression |
+| 📘 Algorithm | 🏷️ Category | 🔗 Code |
+| :--- | :--- | :--- |
+| UMAP | Dimensionality Reduction | [GitHub](https://github.com/GruheshKurra/umap-dimensionality-reduction) |
+| t-SNE | Dimensionality Reduction | [GitHub](https://github.com/GruheshKurra/tsne-from-scratch) |
+| Hierarchical Clustering | Clustering | [GitHub](https://github.com/GruheshKurra/hierarchical-clustering) |
+| DBSCAN | Clustering | [GitHub](https://github.com/GruheshKurra/dbscan-clustering) |
+| K-Means | Clustering | [GitHub](https://github.com/GruheshKurra/k-means-clustering) |
+| KNN | Classification | [GitHub](https://github.com/GruheshKurra/knn-implementation) |
+| SVM | Classification | [GitHub](https://github.com/GruheshKurra/SVM-Implementation-From-Scratch) |
+| Naive Bayes | Classification | [GitHub](https://github.com/GruheshKurra/naive-bayes-implementation) |
+| Random Forest | Ensemble | [GitHub](https://github.com/GruheshKurra/random-forest-from-scratch) |
+| Decision Trees | Classification | [GitHub](https://github.com/GruheshKurra/decision-trees-from-scratch) |
+| Logistic Regression | Classification | [GitHub](https://github.com/GruheshKurra/logistic-regression-impl) |
+| Linear Regression | Regression | [GitHub](https://github.com/GruheshKurra/linear-regression-impl) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -270,7 +309,9 @@ timeline
 | Advanced Automation Pro | Automation Anywhere | Enterprise App Developer | Red Hat |
 | Build LLMs from Scratch | Visuara | WSO2 MI Developer | WSO2 |
 | WSO2 MI Practitioner | WSO2 | HuggingFace MCP | Hugging Face |
-| 6-Month AI Training | IIIT Hyderabad | Google GDG | Google |
+| 6-Month AI/ML Training | IIIT Hyderabad | Google GDG | Google |
+| Azure AI Fundamentals | Microsoft | Azure Data Fundamentals | Microsoft |
+| Deep Learning Specialization | DeepLearning.AI | Machine Learning Specialization | DeepLearning.AI |
 
 </div>
 
@@ -290,6 +331,12 @@ timeline
 <br/>
 
 <a href="https://github.com/GruheshKurra">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GruheshKurra&theme=tokyonight&hide_border=true" width="70%" />
+</a>
+
+<br/>
+
+<a href="https://github.com/GruheshKurra">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GruheshKurra&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </a>
 
@@ -298,6 +345,15 @@ timeline
 <a href="https://github.com/GruheshKurra">
   <img src="https://github-profile-trophy.vercel.app/?username=GruheshKurra&theme=tokyonight&no-frame=true&column=7&margin-w=10" width="100%" />
 </a>
+
+<br/>
+
+<!-- Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GruheshKurra/GruheshKurra/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GruheshKurra/GruheshKurra/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GruheshKurra/GruheshKurra/output/github-snake.svg" width="100%" />
+</picture>
 
 </div>
 
@@ -314,6 +370,38 @@ timeline
 | **Research Papers** | 6+ Published | **Certifications** | 16+ |
 | **Open Source Projects** | 44+ | **Blog Tutorials** | 12+ |
 | **PII Detection** | 98.5% (Zynthetix) | **German NER** | +58.3% improvement |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🔭 What's Next
+
+<div align="center">
+
+| 🎯 Goal | 📋 Status |
+| :--- | :--- |
+| Publish BIE compression paper at IEEE/ACM venue | 🔄 In Progress |
+| Release DeepGuard iOS app on App Store | 🔄 In Progress |
+| Launch Zynthetix PII Detection API publicly | 🔄 In Progress |
+| Complete layout-preserving translation research @ IIITH | 🔄 In Progress |
+| Expand ML From Scratch blog to 20+ tutorials | 📅 Planned |
+| Build a multimodal vision-language model from scratch | 📅 Planned |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💡 Fun Facts
+
+<div align="center">
+
+- 🧠 Built a **GPT-2 equivalent (124M parameters)** entirely from scratch — no shortcuts
+- 🗜️ Achieved **40× neural network compression** using my own BIE encoding with MSE < 10⁻⁶
+- 📱 My iOS app detects deepfakes **in under 500ms on-device**, with zero data sent to a server
+- 🌍 My research spans **5 countries' papers**, including IEEE, Zenodo, and IJNRD
+- ✍️ I write every blog post with full mathematical derivations **and** working Python code
+- 🚀 Founded **Zynthetix** while still in my 3rd year of undergrad
 
 </div>
 
