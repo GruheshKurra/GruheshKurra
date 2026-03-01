@@ -403,8 +403,6 @@ timeline
 | Release **MedVault** — Personal health records & AI insights iOS app | 🔄 In Progress |
 | Release **VoiceScribe** — Native macOS voice-to-text app powered by on-device AI | 🔄 In Progress |
 | Release **TerminalVibe** — macOS terminal AI coding assistant (vibe-coding meets CLI) | 🔄 In Progress |
-| Release Zynthetix PII Detection API publicly | 🔄 In Progress |
-| Complete layout-preserving translation research @ IIITH | 🔄 In Progress |
 | On an epic AI mastery journey — systematically working through **1,300+ curated topics** spanning every domain of AI & ML | 🔄 In Progress |
 | Expand ML From Scratch blog to 20+ deep-dive tutorials | 📅 Planned |
 
