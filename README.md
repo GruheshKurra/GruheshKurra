@@ -18,12 +18,15 @@
 <a href="mailto:gruheshkurra2@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&labelColor=000000&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
+<a href="https://huggingface.co/karthik-2905">
+  <img src="https://img.shields.io/badge/HuggingFace-Models_%26_Spaces-FFD21E?style=for-the-badge&labelColor=000000&logo=huggingface&logoColor=FFD21E" alt="HuggingFace"/>
+</a>
 
 <br/><br/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E2%9C%A8+Building+AI+Systems+from+Scratch;%F0%9F%94%AC+6%2B+Published+Research+Papers;%F0%9F%9A%80+44%2B+Open+Source+Projects;%F0%9F%93%B1+DeepGuard+iOS+%7C+98.62%25+Accuracy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E2%9C%A8+Building+AI+Systems+from+Scratch;%F0%9F%94%AC+6%2B+Published+Research+Papers;%F0%9F%9A%80+50%2B+Open+Source+Projects;%F0%9F%93%B1+DeepGuard+iOS+%7C+98.62%25+Accuracy" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -31,7 +34,7 @@
 <!-- Animated Stats Cards -->
 <img src="https://img.shields.io/badge/Research_Papers-6+-8B5CF6?style=flat-square&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/Certifications-16+-F59E0B?style=flat-square&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/Projects-44+-22C55E?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Projects-50+-22C55E?style=flat-square&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/CGPA-9.72-6366F1?style=flat-square&labelColor=1a1a2e" />
 <img src="https://komarev.com/ghpvc/?username=gruheshkurra&label=Profile+Views&color=blueviolet&style=flat-square" />
 
@@ -63,7 +66,7 @@ const karthik = {
 
   achievements: {
     publications: 6,
-    projects: 44,
+    projects: 50,
     certifications: 16,
     compression: "40× via BIE encoding",
   },
@@ -76,7 +79,7 @@ const karthik = {
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ### 🤖 AI Integration
 
@@ -87,7 +90,7 @@ Agent-based system using Azure OpenAI for automated schema mapping & intelligent
 `React 18` `FastAPI` `WebSocket`
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ### 🔬 IIIT Hyderabad
 
@@ -98,7 +101,7 @@ Vision Transformer-based document analysis with **92% accuracy**
 `ViT` `Tesseract OCR` `FastAPI`
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ### 🛡️ DeepGuard iOS
 
@@ -107,6 +110,17 @@ Vision Transformer-based document analysis with **92% accuracy**
 Privacy-first deepfake detection with **98.62% accuracy** & <500ms inference
 
 `Swift` `Core ML` `EfficientNet`
+
+</td>
+<td width="25%" align="center">
+
+### 🏥 Medical AI Dashboard
+
+**Healthcare AI Platform**
+
+Pregnancy risk prediction **(100% acc.)** & fetal ultrasound classification **(91.69% acc.)**
+
+`PyTorch` `ViT` `React` `Flask`
 
 </td>
 </tr>
@@ -118,9 +132,18 @@ Privacy-first deepfake detection with **98.62% accuracy** & <500ms inference
 
 <div align="center">
 
+<a href="https://zenodo.org/search?q=karthik+kurra&l=list&p=1&s=bestmatch&sort=bestmatch">
+  <img src="https://img.shields.io/badge/Zenodo-Preprints-024DCA?style=for-the-badge&logo=zenodo&logoColor=white" alt="Zenodo"/>
+</a>
+<a href="https://ijnrd.org/viewpaperforall.php?paper=IJNRD2411189">
+  <img src="https://img.shields.io/badge/IJNRD-Publications-8B5CF6?style=for-the-badge&logo=academia&logoColor=white" alt="IJNRD"/>
+</a>
+
+<br/><br/>
+
 | 📄 Paper | 🏛️ Venue | 📅 Year |
 | :--- | :--- | :--- |
-| **Morphology-Aware Nested Character Embeddings for Word Representation** | IEEE ICCCMLA 2025 | 2025 |
+| **[Morphology-Aware Nested Character Embeddings for Word Representation](https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=Morphology-Aware+Nested+Character+Embeddings)** | IEEE ICCCMLA 2025 | 2025 |
 | **[BIE: Bit-Index Encoding for Neural Network Weight Compression](https://zenodo.org/records/17217218)** | Zenodo | 2025 |
 | **[Hybrid RAG-Enhanced Deepfake Detection](https://zenodo.org/records/16732053)** | Zenodo | 2024 |
 | **[Dynamic Auto-Finetuning of LLMs via Confidence-Driven Knowledge Integration](https://ijnrd.org/papers/IJNRD2411189.pdf)** | IJNRD | 2024 |
@@ -178,17 +201,17 @@ Privacy-first deepfake detection with **98.62% accuracy** & <500ms inference
 <a href="https://github.com/GruheshKurra/FirstGPTFromScratch">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GruheshKurra&repo=FirstGPTFromScratch&theme=tokyonight&hide_border=true" width="47%" />
 </a>
-<a href="https://github.com/GruheshKurra/bit-index-encoding-research-">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GruheshKurra&repo=bit-index-encoding-research-&theme=tokyonight&hide_border=true" width="47%" />
+<a href="https://github.com/GruheshKurra/radar_deepfake">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GruheshKurra&repo=radar_deepfake&theme=tokyonight&hide_border=true" width="47%" />
 </a>
-<a href="https://github.com/GruheshKurra/TransformersFromScratch">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GruheshKurra&repo=TransformersFromScratch&theme=tokyonight&hide_border=true" width="47%" />
+<a href="https://github.com/GruheshKurra/healthcareAI">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GruheshKurra&repo=healthcareAI&theme=tokyonight&hide_border=true" width="47%" />
 </a>
 
 </div>
 
 <details>
-<summary><b>📁 View All 44+ Projects</b></summary>
+<summary><b>📁 View All 50+ Projects</b></summary>
 <br/>
 
 ### 🧠 LLM & Transformer Projects
@@ -212,11 +235,40 @@ Privacy-first deepfake detection with **98.62% accuracy** & <500ms inference
 
 | Project | Description | Highlight |
 | :--- | :--- | :--- |
+| [RADAR Deepfake Detection](https://github.com/GruheshKurra/radar_deepfake) | Dual-module deepfake detection with iterative evidence refinement | 95.6% AUC, 90.1% accuracy |
+| [Medical AI Dashboard](https://github.com/GruheshKurra/healthcareAI) | Pregnancy risk + fetal ultrasound classification | 100% / 91.69% accuracy |
 | [Clinical Trial Analysis](https://github.com/GruheshKurra/Clinical-Trial-Similarity-Analysis) | PubMedBERT similarity | 99.5% accuracy |
 | [Graph Neural Networks](https://github.com/GruheshKurra/GraphNeuralNetworks-GNN-) | GCN, GraphSAGE, GAT | 81.9% accuracy |
 | [Dimensionality Reduction](https://github.com/GruheshKurra/dimensionality-reduction) | PCA, t-SNE, UMAP | Full comparison |
 
+### 🌾 Applied AI
+
+| Project | Description | Highlight |
+| :--- | :--- | :--- |
+| [FarmCare](https://github.com/GruheshKurra/Farmcare) | AI-powered farm management: plant disease, pest & soil analysis | Multi-language, Supabase backend |
+
 </details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🤗 HuggingFace Models & Spaces
+
+<div align="center">
+
+<a href="https://huggingface.co/karthik-2905">
+  <img src="https://img.shields.io/badge/🤗_HuggingFace-karthik--2905-FFD21E?style=for-the-badge&labelColor=1a1a2e" alt="HuggingFace Profile"/>
+</a>
+
+<br/><br/>
+
+Explore fine-tuned models, datasets, and interactive demos built for real-world AI tasks.
+
+| 🤖 Area | 🔗 Explore |
+| :--- | :--- |
+| Fine-tuned LLMs & NLP Models | [huggingface.co/karthik-2905](https://huggingface.co/karthik-2905?tab=models) |
+| Interactive AI Spaces & Demos | [huggingface.co/karthik-2905](https://huggingface.co/karthik-2905?tab=spaces) |
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -224,20 +276,26 @@ Privacy-first deepfake detection with **98.62% accuracy** & <500ms inference
 
 <div align="center">
 
-I write comprehensive tutorials teaching ML algorithms from the ground up.
+I write comprehensive tutorials teaching ML algorithms from the ground up — math, intuition, and full Python implementations.
 
 ### **[🌐 Visit blogs.zynthetix.in](https://blogs.zynthetix.in/)**
 
 </div>
 
-| Algorithm | Category | Algorithm | Category |
-| :--- | :--- | :--- | :--- |
-| [UMAP](https://github.com/GruheshKurra/umap-dimensionality-reduction) | Dimensionality Reduction | [t-SNE](https://github.com/GruheshKurra/tsne-from-scratch) | Dimensionality Reduction |
-| [Hierarchical Clustering](https://github.com/GruheshKurra/hierarchical-clustering) | Clustering | [DBSCAN](https://github.com/GruheshKurra/dbscan-clustering) | Clustering |
-| [K-Means](https://github.com/GruheshKurra/k-means-clustering) | Clustering | [KNN](https://github.com/GruheshKurra/knn-implementation) | Classification |
-| [SVM](https://github.com/GruheshKurra/SVM-Implementation-From-Scratch) | Classification | [Naive Bayes](https://github.com/GruheshKurra/naive-bayes-implementation) | Classification |
-| [Random Forest](https://github.com/GruheshKurra/random-forest-from-scratch) | Ensemble | [Decision Trees](https://github.com/GruheshKurra/decision-trees-from-scratch) | Classification |
-| [Logistic Regression](https://github.com/GruheshKurra/logistic-regression-impl) | Classification | [Linear Regression](https://github.com/GruheshKurra/linear-regression-impl) | Regression |
+| 📘 Algorithm | 🏷️ Category | 🔗 Code |
+| :--- | :--- | :--- |
+| UMAP | Dimensionality Reduction | [GitHub](https://github.com/GruheshKurra/umap-dimensionality-reduction) |
+| t-SNE | Dimensionality Reduction | [GitHub](https://github.com/GruheshKurra/tsne-from-scratch) |
+| Hierarchical Clustering | Clustering | [GitHub](https://github.com/GruheshKurra/hierarchical-clustering) |
+| DBSCAN | Clustering | [GitHub](https://github.com/GruheshKurra/dbscan-clustering) |
+| K-Means | Clustering | [GitHub](https://github.com/GruheshKurra/k-means-clustering) |
+| KNN | Classification | [GitHub](https://github.com/GruheshKurra/knn-implementation) |
+| SVM | Classification | [GitHub](https://github.com/GruheshKurra/SVM-Implementation-From-Scratch) |
+| Naive Bayes | Classification | [GitHub](https://github.com/GruheshKurra/naive-bayes-implementation) |
+| Random Forest | Ensemble | [GitHub](https://github.com/GruheshKurra/random-forest-from-scratch) |
+| Decision Trees | Classification | [GitHub](https://github.com/GruheshKurra/decision-trees-from-scratch) |
+| Logistic Regression | Classification | [GitHub](https://github.com/GruheshKurra/logistic-regression-impl) |
+| Linear Regression | Regression | [GitHub](https://github.com/GruheshKurra/linear-regression-impl) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -270,7 +328,9 @@ timeline
 | Advanced Automation Pro | Automation Anywhere | Enterprise App Developer | Red Hat |
 | Build LLMs from Scratch | Visuara | WSO2 MI Developer | WSO2 |
 | WSO2 MI Practitioner | WSO2 | HuggingFace MCP | Hugging Face |
-| 6-Month AI Training | IIIT Hyderabad | Google GDG | Google |
+| 6-Month AI/ML Training | IIIT Hyderabad | Google GDG | Google |
+| Azure AI Fundamentals | Microsoft | Azure Data Fundamentals | Microsoft |
+| Deep Learning Specialization | DeepLearning.AI | Machine Learning Specialization | DeepLearning.AI |
 
 </div>
 
@@ -290,6 +350,12 @@ timeline
 <br/>
 
 <a href="https://github.com/GruheshKurra">
+  <img src="https://streak-stats.demolab.com/?user=GruheshKurra&theme=tokyonight&hide_border=true" width="70%" />
+</a>
+
+<br/>
+
+<a href="https://github.com/GruheshKurra">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GruheshKurra&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </a>
 
@@ -297,6 +363,13 @@ timeline
 
 <a href="https://github.com/GruheshKurra">
   <img src="https://github-profile-trophy.vercel.app/?username=GruheshKurra&theme=tokyonight&no-frame=true&column=7&margin-w=10" width="100%" />
+</a>
+
+<br/>
+
+<!-- Contribution Summary -->
+<a href="https://github.com/GruheshKurra">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GruheshKurra&theme=tokyonight" width="100%" alt="Contribution Summary"/>
 </a>
 
 </div>
@@ -312,8 +385,44 @@ timeline
 | **GPT-2 Parameters** | 124M (from scratch) | **DeepGuard iOS** | 98.62% accuracy |
 | **BIE Compression** | 40× with MSE <10⁻⁶ | **Layout Detection** | 92% accuracy |
 | **Research Papers** | 6+ Published | **Certifications** | 16+ |
-| **Open Source Projects** | 44+ | **Blog Tutorials** | 12+ |
-| **PII Detection** | 98.5% (Zynthetix) | **German NER** | +58.3% improvement |
+| **Open Source Projects** | 50+ | **Blog Tutorials** | 12+ |
+| **PII Detection** | 98.5% (Zynthetix) | **RADAR Deepfake** | 95.6% AUC |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🔭 What's Next
+
+<div align="center">
+
+| 🎯 Goal | 📋 Status |
+| :--- | :--- |
+| Release **DeepGuard** iOS app on the App Store | 🔄 In Progress |
+| Release **DeepCut** — AI-powered video cut detection iOS app | 🔄 In Progress |
+| Release **MedVault** — Personal health records & AI insights iOS app | 🔄 In Progress |
+| Release **VoiceScribe** — Native macOS voice-to-text app powered by on-device AI | 🔄 In Progress |
+| Release **TerminalVibe** — macOS terminal AI coding assistant (vibe-coding meets CLI) | 🔄 In Progress |
+| Release Zynthetix PII Detection API publicly | 🔄 In Progress |
+| Complete layout-preserving translation research @ IIITH | 🔄 In Progress |
+| On an epic AI mastery journey — systematically working through **1,300+ curated topics** spanning every domain of AI & ML | 🔄 In Progress |
+| Expand ML From Scratch blog to 20+ deep-dive tutorials | 📅 Planned |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💡 Fun Facts
+
+<div align="center">
+
+- 🧠 Built a **GPT-2 equivalent (124M parameters)** entirely from scratch — no shortcuts
+- 🗜️ Achieved **40× neural network compression** using my own BIE encoding with MSE < 10⁻⁶
+- 📱 My iOS app detects deepfakes **in under 500ms on-device**, with zero data sent to a server
+- 🌍 My research spans multiple publication venues — IEEE, Zenodo, and IJNRD
+- ✍️ I write every blog post with full mathematical derivations **and** working Python code
+- 🚀 Founded **Zynthetix** while still in my 3rd year of undergrad
+- 📚 On a relentless mission to master AI end-to-end — working through **1,300+ curated topics** from linear algebra and probability all the way to cutting-edge research
 
 </div>
 
