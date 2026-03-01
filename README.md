@@ -26,7 +26,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E2%9C%A8+Building+AI+Systems+from+Scratch;%F0%9F%94%AC+6%2B+Published+Research+Papers;%F0%9F%9A%80+44%2B+Open+Source+Projects;%F0%9F%93%B1+DeepGuard+iOS+%7C+98.62%25+Accuracy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E2%9C%A8+Building+AI+Systems+from+Scratch;%F0%9F%94%AC+6%2B+Published+Research+Papers;%F0%9F%9A%80+50%2B+Open+Source+Projects;%F0%9F%93%B1+DeepGuard+iOS+%7C+98.62%25+Accuracy" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -34,7 +34,7 @@
 <!-- Animated Stats Cards -->
 <img src="https://img.shields.io/badge/Research_Papers-6+-8B5CF6?style=flat-square&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/Certifications-16+-F59E0B?style=flat-square&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/Projects-44+-22C55E?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Projects-50+-22C55E?style=flat-square&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/CGPA-9.72-6366F1?style=flat-square&labelColor=1a1a2e" />
 <img src="https://komarev.com/ghpvc/?username=gruheshkurra&label=Profile+Views&color=blueviolet&style=flat-square" />
 
@@ -66,7 +66,7 @@ const karthik = {
 
   achievements: {
     publications: 6,
-    projects: 44,
+    projects: 50,
     certifications: 16,
     compression: "40× via BIE encoding",
   },
@@ -79,7 +79,7 @@ const karthik = {
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ### 🤖 AI Integration
 
@@ -90,7 +90,7 @@ Agent-based system using Azure OpenAI for automated schema mapping & intelligent
 `React 18` `FastAPI` `WebSocket`
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ### 🔬 IIIT Hyderabad
 
@@ -101,7 +101,7 @@ Vision Transformer-based document analysis with **92% accuracy**
 `ViT` `Tesseract OCR` `FastAPI`
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ### 🛡️ DeepGuard iOS
 
@@ -110,6 +110,17 @@ Vision Transformer-based document analysis with **92% accuracy**
 Privacy-first deepfake detection with **98.62% accuracy** & <500ms inference
 
 `Swift` `Core ML` `EfficientNet`
+
+</td>
+<td width="25%" align="center">
+
+### 🏥 Medical AI Dashboard
+
+**Healthcare AI Platform**
+
+Pregnancy risk prediction **(100% acc.)** & fetal ultrasound classification **(91.69% acc.)**
+
+`PyTorch` `ViT` `React` `Flask`
 
 </td>
 </tr>
@@ -190,17 +201,17 @@ Privacy-first deepfake detection with **98.62% accuracy** & <500ms inference
 <a href="https://github.com/GruheshKurra/FirstGPTFromScratch">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GruheshKurra&repo=FirstGPTFromScratch&theme=tokyonight&hide_border=true" width="47%" />
 </a>
-<a href="https://github.com/GruheshKurra/bit-index-encoding-research-">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GruheshKurra&repo=bit-index-encoding-research-&theme=tokyonight&hide_border=true" width="47%" />
+<a href="https://github.com/GruheshKurra/radar_deepfake">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GruheshKurra&repo=radar_deepfake&theme=tokyonight&hide_border=true" width="47%" />
 </a>
-<a href="https://github.com/GruheshKurra/TransformersFromScratch">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GruheshKurra&repo=TransformersFromScratch&theme=tokyonight&hide_border=true" width="47%" />
+<a href="https://github.com/GruheshKurra/healthcareAI">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GruheshKurra&repo=healthcareAI&theme=tokyonight&hide_border=true" width="47%" />
 </a>
 
 </div>
 
 <details>
-<summary><b>📁 View All 44+ Projects</b></summary>
+<summary><b>📁 View All 50+ Projects</b></summary>
 <br/>
 
 ### 🧠 LLM & Transformer Projects
@@ -224,9 +235,17 @@ Privacy-first deepfake detection with **98.62% accuracy** & <500ms inference
 
 | Project | Description | Highlight |
 | :--- | :--- | :--- |
+| [RADAR Deepfake Detection](https://github.com/GruheshKurra/radar_deepfake) | Dual-module deepfake detection with iterative evidence refinement | 95.6% AUC, 90.1% accuracy |
+| [Medical AI Dashboard](https://github.com/GruheshKurra/healthcareAI) | Pregnancy risk + fetal ultrasound classification | 100% / 91.69% accuracy |
 | [Clinical Trial Analysis](https://github.com/GruheshKurra/Clinical-Trial-Similarity-Analysis) | PubMedBERT similarity | 99.5% accuracy |
 | [Graph Neural Networks](https://github.com/GruheshKurra/GraphNeuralNetworks-GNN-) | GCN, GraphSAGE, GAT | 81.9% accuracy |
 | [Dimensionality Reduction](https://github.com/GruheshKurra/dimensionality-reduction) | PCA, t-SNE, UMAP | Full comparison |
+
+### 🌾 Applied AI
+
+| Project | Description | Highlight |
+| :--- | :--- | :--- |
+| [FarmCare](https://github.com/GruheshKurra/Farmcare) | AI-powered farm management: plant disease, pest & soil analysis | Multi-language, Supabase backend |
 
 </details>
 
@@ -331,7 +350,7 @@ timeline
 <br/>
 
 <a href="https://github.com/GruheshKurra">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GruheshKurra&theme=tokyonight&hide_border=true" width="70%" />
+  <img src="https://streak-stats.demolab.com/?user=GruheshKurra&theme=tokyonight&hide_border=true" width="70%" />
 </a>
 
 <br/>
@@ -348,12 +367,10 @@ timeline
 
 <br/>
 
-<!-- Contribution Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GruheshKurra/GruheshKurra/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GruheshKurra/GruheshKurra/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GruheshKurra/GruheshKurra/output/github-snake.svg" width="100%" />
-</picture>
+<!-- Contribution Summary -->
+<a href="https://github.com/GruheshKurra">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GruheshKurra&theme=tokyonight" width="100%" alt="Contribution Summary"/>
+</a>
 
 </div>
 
@@ -368,8 +385,8 @@ timeline
 | **GPT-2 Parameters** | 124M (from scratch) | **DeepGuard iOS** | 98.62% accuracy |
 | **BIE Compression** | 40× with MSE <10⁻⁶ | **Layout Detection** | 92% accuracy |
 | **Research Papers** | 6+ Published | **Certifications** | 16+ |
-| **Open Source Projects** | 44+ | **Blog Tutorials** | 12+ |
-| **PII Detection** | 98.5% (Zynthetix) | **German NER** | +58.3% improvement |
+| **Open Source Projects** | 50+ | **Blog Tutorials** | 12+ |
+| **PII Detection** | 98.5% (Zynthetix) | **RADAR Deepfake** | 95.6% AUC |
 
 </div>
 
@@ -381,12 +398,15 @@ timeline
 
 | 🎯 Goal | 📋 Status |
 | :--- | :--- |
-| Publish BIE compression paper at IEEE/ACM venue | 🔄 In Progress |
-| Release DeepGuard iOS app on App Store | 🔄 In Progress |
-| Launch Zynthetix PII Detection API publicly | 🔄 In Progress |
+| Release **DeepGuard** iOS app on the App Store | 🔄 In Progress |
+| Release **DeepCut** — AI-powered video cut detection iOS app | 🔄 In Progress |
+| Release **MedVault** — Personal health records & AI insights iOS app | 🔄 In Progress |
+| Release **VoiceScribe** — Native macOS voice-to-text app powered by on-device AI | 🔄 In Progress |
+| Release **TerminalVibe** — macOS terminal AI coding assistant (vibe-coding meets CLI) | 🔄 In Progress |
+| Release Zynthetix PII Detection API publicly | 🔄 In Progress |
 | Complete layout-preserving translation research @ IIITH | 🔄 In Progress |
-| Expand ML From Scratch blog to 20+ tutorials | 📅 Planned |
-| Build a multimodal vision-language model from scratch | 📅 Planned |
+| On an epic AI mastery journey — systematically working through **1,300+ curated topics** spanning every domain of AI & ML | 🔄 In Progress |
+| Expand ML From Scratch blog to 20+ deep-dive tutorials | 📅 Planned |
 
 </div>
 
@@ -399,9 +419,10 @@ timeline
 - 🧠 Built a **GPT-2 equivalent (124M parameters)** entirely from scratch — no shortcuts
 - 🗜️ Achieved **40× neural network compression** using my own BIE encoding with MSE < 10⁻⁶
 - 📱 My iOS app detects deepfakes **in under 500ms on-device**, with zero data sent to a server
-- 🌍 My research spans **5 countries' papers**, including IEEE, Zenodo, and IJNRD
+- 🌍 My research spans multiple publication venues — IEEE, Zenodo, and IJNRD
 - ✍️ I write every blog post with full mathematical derivations **and** working Python code
 - 🚀 Founded **Zynthetix** while still in my 3rd year of undergrad
+- 📚 On a relentless mission to master AI end-to-end — working through **1,300+ curated topics** from linear algebra and probability all the way to cutting-edge research
 
 </div>
 
