@@ -132,7 +132,7 @@ I build AI systems end-to-end — from implementing attention mechanisms from sc
 | Project | Description | Highlight |
 |:---|:---|:---|
 | [bit-index-encoding-research-](https://github.com/GruheshKurra/bit-index-encoding-research-) | BIE neural weight compression | 40× compression |
-| [radar_deepfake](https://github.com/GruheshKurra/radar_deepfake) | Hybrid RAG deepfake detection | Best Paper, IEEE ICACCS |
+| [radar_deepfake](https://github.com/GruheshKurra/radar_deepfake) | Hybrid RAG deepfake detection | Published, Zenodo |
 | [Clinical-Trial-Similarity-Analysis](https://github.com/GruheshKurra/Clinical-Trial-Similarity-Analysis) | PubMedBERT clinical NLP pipeline | 99.5% accuracy |
 | [GraphNeuralNetworks-GNN-](https://github.com/GruheshKurra/GraphNeuralNetworks-GNN-) | GCN, GraphSAGE, GAT implementations | 81.9% accuracy |
 | [Bayesian-Networks](https://github.com/GruheshKurra/Bayesian-Networks) | Probabilistic graphical models | Inference & learning |
