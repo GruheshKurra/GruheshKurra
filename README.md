@@ -304,7 +304,6 @@ timeline
 | AWS Cloud Practitioner | Amazon Web Services |
 | AWS Solutions Architect | Amazon Web Services |
 | OCI Architect Associate | Oracle |
-| OCI Generative AI Professional | Oracle |
 | Advanced Automation Pro | Automation Anywhere |
 | Enterprise App Developer | Red Hat |
 | Build LLMs from Scratch | Visuara |
