@@ -170,7 +170,13 @@ I build AI systems end-to-end — from implementing attention mechanisms from sc
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=GruheshKurra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GruheshKurra&theme=tokyonight" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GruheshKurra&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GruheshKurra&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GruheshKurra&theme=tokyonight" width="32%"/>
 
 <br/><br/>
 
