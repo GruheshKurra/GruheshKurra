@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=200&section=header&text=Karthik%20Kurra&fontSize=68&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Researcher%20%26%20Builder%20%7C%20Founder%20%40%20Zynthetix&descAlignY=58&descSize=17&descColor=9aa5ce"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=1&pause=99999&color=7aa2f7&center=true&vCenter=true&repeat=false&width=600&height=80&lines=Karthik+Kurra" alt="Karthik Kurra"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=1&pause=99999&color=9aa5ce&center=true&vCenter=true&repeat=false&width=700&height=40&lines=AI%2FML+Researcher+%26+Builder+%7C+Founder+%40+Zynthetix" alt="subtitle"/>
 
 <br/>
 
@@ -151,7 +153,7 @@ I build AI systems end-to-end — from implementing attention mechanisms from sc
 <div align="center">
 
 <a href="https://github.com/GruheshKurra">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GruheshKurra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GruheshKurra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="48%"/>
 </a>
 <a href="https://github.com/GruheshKurra">
   <img src="https://streak-stats.demolab.com?user=GruheshKurra&theme=tokyonight&hide_border=true" width="48%"/>
@@ -160,8 +162,25 @@ I build AI systems end-to-end — from implementing attention mechanisms from sc
 <br/><br/>
 
 <a href="https://github.com/GruheshKurra">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GruheshKurra&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="48%"/>
+</a>
+<a href="https://github.com/GruheshKurra">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GruheshKurra&theme=tokyonight&utcOffset=5.5" width="48%"/>
+</a>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=GruheshKurra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+
+<br/><br/>
+
+<a href="https://github.com/GruheshKurra">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GruheshKurra&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </a>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/GruheshKurra/GruheshKurra/output/github-snake-dark.svg" alt="contribution snake"/>
 
 </div>
 
@@ -270,7 +289,7 @@ Open to collaborating on:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b26&height=120&section=footer"/>
+![footer](https://img.shields.io/badge/─────────────────────────────────────────────────────-1a1b26?style=flat-square&labelColor=1a1b26)
 
 **"From scratch — because that's the only way to actually understand it."**
 
