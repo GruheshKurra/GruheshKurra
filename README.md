@@ -7,6 +7,7 @@
 <br/>
 
 <a href="https://karthik.zynthetix.in/"><img src="https://img.shields.io/badge/Portfolio-karthik.zynthetix.in-7aa2f7?style=flat-square&labelColor=1a1b26&logo=safari&logoColor=7aa2f7"/></a>
+<a href="https://github.com/Zynthetix"><img src="https://img.shields.io/badge/Org-Zynthetix-7aa2f7?style=flat-square&labelColor=1a1b26&logo=github&logoColor=7aa2f7"/></a>
 <a href="https://linkedin.com/in/gruhesh-sri-sai-karthik-kurra-178249227"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&labelColor=1a1b26&logo=linkedin&logoColor=0A66C2"/></a>
 <a href="https://blogs.zynthetix.in/"><img src="https://img.shields.io/badge/Blog-ML%20From%20Scratch-9ece6a?style=flat-square&labelColor=1a1b26&logo=hashnode&logoColor=9ece6a"/></a>
 <a href="https://huggingface.co/karthik-2905"><img src="https://img.shields.io/badge/HuggingFace-karthik--2905-e0af68?style=flat-square&labelColor=1a1b26&logo=huggingface&logoColor=e0af68"/></a>
