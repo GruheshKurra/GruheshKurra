@@ -155,7 +155,7 @@ I build AI systems end-to-end — from implementing attention mechanisms from sc
 <div align="center">
 
 <a href="https://github.com/GruheshKurra">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GruheshKurra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GruheshKurra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="48%"/>
 </a>
 <a href="https://github.com/GruheshKurra">
   <img src="https://streak-stats.demolab.com?user=GruheshKurra&theme=tokyonight&hide_border=true" width="48%"/>
@@ -164,21 +164,11 @@ I build AI systems end-to-end — from implementing attention mechanisms from sc
 <br/><br/>
 
 <a href="https://github.com/GruheshKurra">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GruheshKurra&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GruheshKurra&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="48%"/>
 </a>
 <a href="https://github.com/GruheshKurra">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GruheshKurra&theme=tokyonight&utcOffset=5.5" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GruheshKurra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=false&show=reviews,prs_merged" width="48%"/>
 </a>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GruheshKurra&theme=tokyonight" width="100%"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GruheshKurra&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GruheshKurra&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GruheshKurra&theme=tokyonight" width="32%"/>
 
 <br/><br/>
 
