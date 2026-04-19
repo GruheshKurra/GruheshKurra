@@ -11,6 +11,8 @@
 <a href="https://blogs.zynthetix.in/"><img src="https://img.shields.io/badge/Blog-ML%20From%20Scratch-9ece6a?style=flat-square&labelColor=1a1b26&logo=hashnode&logoColor=9ece6a"/></a>
 <a href="https://huggingface.co/karthik-2905"><img src="https://img.shields.io/badge/HuggingFace-karthik--2905-e0af68?style=flat-square&labelColor=1a1b26&logo=huggingface&logoColor=e0af68"/></a>
 <a href="https://x.com/Karthik__kurra"><img src="https://img.shields.io/badge/Twitter-@Karthik__kurra-c0caf5?style=flat-square&labelColor=1a1b26&logo=x&logoColor=c0caf5"/></a>
+<a href="https://www.threads.com/@karthik__kurra"><img src="https://img.shields.io/badge/Threads-@karthik__kurra-000000?style=flat-square&labelColor=1a1b26&logo=threads&logoColor=white"/></a>
+<a href="https://dev.to/gruhesh_kurra_6eb933146da"><img src="https://img.shields.io/badge/Dev.to-Articles-9ece6a?style=flat-square&labelColor=1a1b26&logo=devdotto&logoColor=9ece6a"/></a>
 <a href="mailto:gruheshkurra2@gmail.com"><img src="https://img.shields.io/badge/Email-gruheshkurra2%40gmail.com-f7768e?style=flat-square&labelColor=1a1b26&logo=gmail&logoColor=f7768e"/></a>
 
 <br/><br/>
@@ -281,6 +283,8 @@ Each post at [blogs.zynthetix.in](https://blogs.zynthetix.in/) starts from the m
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-e0af68?style=for-the-badge&logo=huggingface&logoColor=1a1b26)](https://huggingface.co/karthik-2905)
 [![Dev.to](https://img.shields.io/badge/Dev.to-c0caf5?style=for-the-badge&logo=devdotto&logoColor=1a1b26)](https://dev.to/gruhesh_kurra_6eb933146da)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Karthik__kurra)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@karthik__kurra)
+[![Dev.to](https://img.shields.io/badge/Dev.to-c0caf5?style=for-the-badge&logo=devdotto&logoColor=1a1b26)](https://dev.to/gruhesh_kurra_6eb933146da)
 [![Email](https://img.shields.io/badge/Email-f7768e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gruheshkurra2@gmail.com)
 
 <br/>
