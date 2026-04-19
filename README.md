@@ -39,7 +39,7 @@
 
 ## About Me
 
-I build AI systems end-to-end — from implementing attention mechanisms from scratch to deploying deepfake detectors that run entirely on-device in under 500ms. Currently focused on independent AI/ML research and developing **Zynthetix**, my synthetic data platform. I completed my **B.Tech CSE at KL University with a 9.72 CGPA**, published **6 papers** across IEEE, IJNRD, and Zenodo, and write a blog where I implement ML algorithms from the math up — no black boxes. `sleep: insufficient`.
+I build AI systems end-to-end — from implementing attention mechanisms from scratch to deploying deepfake detectors that run entirely on-device in under 500ms. Currently building **Zynthetix Krew**, an autonomous multi-agent developer tool, while doing independent AI/ML research. I completed my **B.Tech CSE at KL University with a 9.72 CGPA**, published **7 papers** across IEEE, IJNRD, and Zenodo, and write a blog where I implement ML algorithms from the math up — no black boxes. `sleep: insufficient`.
 
 ---
 
@@ -49,9 +49,9 @@ I build AI systems end-to-end — from implementing attention mechanisms from sc
 
 | | Metric | Value |
 |:---:|:---|:---:|
-| 📄 | Research papers published (IEEE, IJNRD, Zenodo) | **6+** |
+| 📄 | Research papers published (IEEE, IJNRD, Zenodo) | **7+** |
 | 🗂️ | Open source projects | **50+** |
-| 🏅 | Professional certifications | **16+** |
+| 🏅 | Professional certifications | **17+** |
 | 🧠 | GPT-2 parameters implemented from scratch | **124M** |
 | 🗜️ | Neural weight compression ratio (BIE), MSE < 10⁻⁶ | **40×** |
 | 📱 | DeepGuard iOS deepfake detection accuracy | **98.62%** |
@@ -68,6 +68,7 @@ I build AI systems end-to-end — from implementing attention mechanisms from sc
 
 | Paper | Key Result | Venue | Year |
 |:---|:---|:---|:---|
+| **RADAR: Reasoning-Augmented Deepfake Artifact Recognition via Multi-Branch Evidence Aggregation** | Three-branch architecture (STAM + BADM + AADM) with recurrent cross-attention for cross-dataset generalization | IJECE | 2026 *(Under Review)* |
 | **Morphology-Aware Nested Character Embeddings for Word Representation** | +2–8% English NER, +58.3% German NER over baselines | IEEE ICCCMLA | 2025 |
 | **[BIE: Bit-Index Encoding for Neural Network Weight Compression](https://zenodo.org/records/17217218)** | 40× compression with MSE < 10⁻⁶ — no meaningful accuracy loss | Zenodo | 2025 |
 | **[Hybrid RAG-Enhanced Deepfake Detection](https://zenodo.org/records/16732053)** | RAG-augmented detection pipeline combining retrieval with visual classification | Zenodo | 2024 |
@@ -293,7 +294,7 @@ timeline
 ## Certifications
 
 <details>
-<summary><b>16+ Certifications</b></summary>
+<summary><b>17+ Certifications</b></summary>
 <br/>
 
 <div align="center">
@@ -316,6 +317,7 @@ timeline
 | Oracle Database | Oracle |
 | SAC | SAP |
 | StreetCause | StreetCause |
+| Become a Linear Algebra Master | Udemy |
 
 </div>
 </details>
@@ -332,6 +334,7 @@ timeline
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-e0af68?style=for-the-badge&logo=huggingface&logoColor=1a1b26)](https://huggingface.co/karthik-2905)
 [![Dev.to](https://img.shields.io/badge/Dev.to-c0caf5?style=for-the-badge&logo=devdotto&logoColor=1a1b26)](https://dev.to/gruhesh_kurra_6eb933146da)
 [![Email](https://img.shields.io/badge/Email-f7768e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gruheshkurra2@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Karthik__kurra)
 
 <br/>
 
