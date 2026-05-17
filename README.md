@@ -51,10 +51,12 @@ location: India · Remote-first
 |:---|:---|:---|
 | [**FirstGPTFromScratch**](https://github.com/GruheshKurra/FirstGPTFromScratch) | GPT-2 (124M) from scratch — architecture, BPE tokenizer, training loop | PyTorch |
 | [**TransformersFromScratch**](https://github.com/GruheshKurra/TransformersFromScratch) | "Attention Is All You Need" replicated end-to-end with BLEU eval | PyTorch |
-| [**DeepGuard**](https://github.com/GruheshKurra/Deepguard) | iOS on-device deepfake detector — EfficientNet, Core ML, <500ms inference | Swift, Core ML, FastAPI |
+| [**DeepGuard**](https://github.com/GruheshKurra/Deepguard) · [▶ demo](https://www.youtube.com/watch?v=4MmHJNjLRy4) | iOS on-device deepfake detector — EfficientNet-B1, 26MB Core ML, <500ms inference. 98.62% on 25k images, trained 55min on M4 | Swift, Core ML, FastAPI |
 | [**BIE: Bit-Index Encoding**](https://github.com/GruheshKurra/bit-index-encoding-research-) | Neural weight compression — 40× ratio, MSE < 10⁻⁶ on tested layers | PyTorch, NumPy |
 | [**Zynthetix-SWE-Agent**](https://github.com/GruheshKurra/Zynthetix-SWE-Agent) | Autonomous agent — reads GitHub issues, opens PRs via GitHub Actions | Python, LLM APIs |
 | [**Clinical-Trial-Similarity**](https://github.com/GruheshKurra/Clinical-Trial-Similarity-Analysis) | PubMedBERT pipeline for trial-matching on clinical text | HuggingFace, FAISS |
+| [**NL2SQL**](https://github.com/GruheshKurra/nl2sql-pretrained) | Natural language → SQL translation, perplexity 1.42 | HuggingFace, Transformers |
+| [**Diffusion From Scratch**](https://github.com/GruheshKurra/DiffusionModelFromScratch) | DDPM from math to generated images, ~130K params, full noise schedule | PyTorch |
 
 <details>
 <summary><b>More from-scratch implementations</b></summary>
@@ -185,6 +187,17 @@ Topics: Linear/Logistic Regression · KNN · Naive Bayes · Decision Trees · Ra
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7aa2f7?style=for-the-badge&logo=safari&logoColor=white)](https://gruheshkurra.com/)
 
 **Reply within 24h** · Open to remote AI/ML research roles
+
+<br/>
+
+*Open to collaborating on:*
+
+![Transformer Research](https://img.shields.io/badge/Transformer%20Research-1a1b26?style=for-the-badge)
+![LLM Development](https://img.shields.io/badge/LLM%20Development-1a1b26?style=for-the-badge)
+![iOS On-Device AI](https://img.shields.io/badge/iOS%20On--Device%20AI-1a1b26?style=for-the-badge)
+![Vision-Language Models](https://img.shields.io/badge/Vision--Language%20Models-1a1b26?style=for-the-badge)
+![Neural Compression](https://img.shields.io/badge/Neural%20Compression-1a1b26?style=for-the-badge)
+![Agentic Systems](https://img.shields.io/badge/Agentic%20Systems-1a1b26?style=for-the-badge)
 
 </div>
 
