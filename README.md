@@ -1,39 +1,51 @@
+<!-- HEADER -->
+<a href="https://github.com/GruheshKurra">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Karthik%20Kurra&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Research%20Engineer%20%C2%B7%20Transformers%20%C2%B7%20Neural%20Compression%20%C2%B7%20On-Device%20AI&descAlignY=58&descSize=18" alt="Karthik Kurra header"/>
+</a>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&pause=1000&color=7AA2F7&center=true&vCenter=true&width=720&lines=Karthik+Kurra;AI%2FML+Research+Engineer;Transformers+from+scratch;Neural+compression+%E2%80%94+40x;On-device+AI+%E2%80%94+iOS+%E2%9C%93" alt="Karthik Kurra"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=720&lines=Building+AI+systems+from+the+math+up;Transformers+%E2%80%A2+Diffusion+%E2%80%A2+Attention+%E2%80%94+from+scratch;Neural+weight+compression+%E2%80%94+40x+ratio;iOS+on-device+inference+%E2%80%94+%3C500ms;IEEE+ICCCMLA+2025+%E2%80%94+published" alt="typing"/>
 
-**AI/ML Research Engineer** · Transformers · Neural Compression · On-Device AI
-Remote-first · Based in India 🇮🇳
+<br/>
 
-<a href="https://karthik.zynthetix.in/"><img src="https://img.shields.io/badge/Portfolio-7aa2f7?style=flat-square&labelColor=1a1b26&logo=safari&logoColor=7aa2f7"/></a>
-<a href="https://linkedin.com/in/gruhesh-sri-sai-karthik-kurra-178249227"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&labelColor=1a1b26&logo=linkedin&logoColor=0A66C2"/></a>
-<a href="https://blogs.zynthetix.in/"><img src="https://img.shields.io/badge/Blog-9ece6a?style=flat-square&labelColor=1a1b26&logo=hashnode&logoColor=9ece6a"/></a>
-<a href="https://huggingface.co/karthik-2905"><img src="https://img.shields.io/badge/HuggingFace-e0af68?style=flat-square&labelColor=1a1b26&logo=huggingface&logoColor=e0af68"/></a>
-<a href="https://x.com/Karthik__kurra"><img src="https://img.shields.io/badge/Twitter-c0caf5?style=flat-square&labelColor=1a1b26&logo=x&logoColor=c0caf5"/></a>
-<a href="mailto:gruheshkurra2@gmail.com"><img src="https://img.shields.io/badge/Email-f7768e?style=flat-square&labelColor=1a1b26&logo=gmail&logoColor=f7768e"/></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-karthik.zynthetix.in-7aa2f7?style=for-the-badge&labelColor=1a1b26&logo=safari&logoColor=7aa2f7)](https://karthik.zynthetix.in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=1a1b26&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/gruhesh-sri-sai-karthik-kurra-178249227)
+[![Blog](https://img.shields.io/badge/Blog-ML%20from%20Scratch-9ece6a?style=for-the-badge&labelColor=1a1b26&logo=hashnode&logoColor=9ece6a)](https://blogs.zynthetix.in/)
+[![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-e0af68?style=for-the-badge&labelColor=1a1b26)](https://huggingface.co/karthik-2905)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-c0caf5?style=for-the-badge&labelColor=1a1b26&logo=x&logoColor=c0caf5)](https://x.com/Karthik__kurra)
+[![Email](https://img.shields.io/badge/Email-Reach%20out-f7768e?style=for-the-badge&labelColor=1a1b26&logo=gmail&logoColor=f7768e)](mailto:gruheshkurra2@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=GruheshKurra&label=Profile+Views&color=7aa2f7&style=flat-square&labelColor=1a1b26"/>
+<br/>
+
+![Followers](https://img.shields.io/github/followers/GruheshKurra?style=for-the-badge&logo=github&labelColor=1a1b26&color=7aa2f7&label=Followers)
+![Stars](https://img.shields.io/github/stars/GruheshKurra?style=for-the-badge&logo=github&labelColor=1a1b26&color=e0af68&label=Total%20Stars)
+![Profile views](https://komarev.com/ghpvc/?username=GruheshKurra&label=Profile+views&color=9ece6a&style=for-the-badge&labelColor=1a1b26)
 
 </div>
 
 ---
 
-## About
+## 👋 About
 
 I build AI systems from the math up — re-implementing transformers, diffusion, and attention mechanisms from scratch, then shipping them where they matter (on-device, in production). Currently building **Zynthetix Krew**, an autonomous multi-agent developer tool, alongside independent research on neural weight compression and deepfake forensics.
 
 Published in **IEEE ICCCMLA 2025** on morphology-aware embeddings. B.Tech CSE, KL University (9.72 CGPA, 2021–2025).
 
-**Currently working on:**
-- Zynthetix Krew — multi-agent SWE tooling
-- RADAR — multi-branch deepfake detection (under review, IJECE 2026)
-- BIE — neural weight compression follow-up experiments
-
-**Open to:** remote AI/ML research engineering roles · collaboration on transformer research, neural compression, on-device inference.
+```yaml
+focus:
+  - Zynthetix Krew       # multi-agent SWE tooling
+  - RADAR                # deepfake detection (under review, IJECE 2026)
+  - BIE                  # neural weight compression — follow-up experiments
+open_to:
+  - Remote AI/ML research engineering roles
+  - Collaboration on transformer research, neural compression, on-device inference
+location: India · Remote-first
+```
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 | Project | What it does | Stack |
 |:---|:---|:---|
@@ -64,7 +76,7 @@ Published in **IEEE ICCCMLA 2025** on morphology-aware embeddings. B.Tech CSE, K
 
 ---
 
-## Research
+## 📄 Research
 
 | Paper | Venue | Year |
 |:---|:---|:---|
@@ -78,7 +90,7 @@ Published in **IEEE ICCCMLA 2025** on morphology-aware embeddings. B.Tech CSE, K
 
 ---
 
-## Writing
+## ✍️ Writing
 
 I write [**blogs.zynthetix.in**](https://blogs.zynthetix.in/) — ML algorithms from the math up. Each post derives the equations, then implements in working code. No wrappers, no shortcuts.
 
@@ -86,25 +98,44 @@ I write [**blogs.zynthetix.in**](https://blogs.zynthetix.in/) — ML algorithms 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-Topics so far: Linear/Logistic Regression · KNN · Naive Bayes · Decision Trees · Random Forest · SVM · K-Means · t-SNE · UMAP.
+Topics: Linear/Logistic Regression · KNN · Naive Bayes · Decision Trees · Random Forest · SVM · K-Means · t-SNE · UMAP.
 
 ---
 
-## Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,swift,ts,react,fastapi,aws,docker,postgres&perline=10)](https://skillicons.dev)
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge&labelColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Deployment & Tools**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Core ML](https://img.shields.io/badge/Core%20ML-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 </div>
 
-**Core:** Python · PyTorch · HuggingFace · NumPy
-**Deployment:** FastAPI · Docker · Core ML · AWS
-**Also:** TypeScript · React · Swift · C++
-
 ---
 
-## Experience
+## 💼 Experience
 
 ```
 2025 – now    Founder / Builder · Zynthetix Krew (autonomous multi-agent SWE)
@@ -114,20 +145,22 @@ Topics so far: Linear/Logistic Regression · KNN · Naive Bayes · Decision Tree
 
 ---
 
-## GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/GruheshKurra?style=for-the-badge&logo=github&labelColor=1a1b26&color=7aa2f7)
-![Stars](https://img.shields.io/github/stars/GruheshKurra?style=for-the-badge&logo=github&labelColor=1a1b26&color=e0af68)
-![Profile views](https://img.shields.io/badge/dynamic/json?label=Profile%20Views&query=count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fgruheshkurra-readme%2Fviews&style=for-the-badge&labelColor=1a1b26&color=9ece6a)
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=GruheshKurra&theme=tokyonight&hide_border=true" width="60%"/>
+<!-- streak: demolab.com — proven reliable -->
+<img src="https://streak-stats.demolab.com?user=GruheshKurra&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%"/>
 
 <br/><br/>
 
+<!-- stats: faster mirror with 60s cache, less rate-limited -->
+<img src="https://readme-stats-fast.vercel.app/api?username=GruheshKurra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="48%"/>
+<img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=GruheshKurra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,jupyter%20notebook" width="48%"/>
+
+<br/><br/>
+
+<!-- self-hosted snake — always reliable -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GruheshKurra/GruheshKurra/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GruheshKurra/GruheshKurra/output/github-snake.svg" />
@@ -136,22 +169,29 @@ Topics so far: Linear/Logistic Regression · KNN · Naive Bayes · Decision Tree
 
 <br/><br/>
 
-<sub>📊 Detailed stats: <a href="https://github.com/GruheshKurra?tab=repositories">repos</a> · <a href="https://github.com/GruheshKurra?tab=stars">starred</a> · <a href="https://github.com/GruheshKurra?tab=achievements">achievements</a></sub>
+<!-- metrics: generated by GitHub Action into this repo — fully reliable once token added -->
+<img src="https://raw.githubusercontent.com/GruheshKurra/GruheshKurra/main/github-metrics.svg" width="100%" onerror="this.style.display='none'"/>
 
 </div>
 
 ---
 
-## Contact
-
-Best ways to reach me: [email](mailto:gruheshkurra2@gmail.com) · [LinkedIn](https://linkedin.com/in/gruhesh-sri-sai-karthik-kurra-178249227) · [portfolio](https://karthik.zynthetix.in/)
-
-Open to remote AI/ML research roles. Reply within 24h.
+## 📫 Contact
 
 <div align="center">
 
+[![Email](https://img.shields.io/badge/Email-gruheshkurra2%40gmail.com-f7768e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gruheshkurra2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Message%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gruhesh-sri-sai-karthik-kurra-178249227)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7aa2f7?style=for-the-badge&logo=safari&logoColor=white)](https://karthik.zynthetix.in/)
+
+**Reply within 24h** · Open to remote AI/ML research roles
+
+</div>
+
 ---
 
-*"From scratch — because that's the only way to actually understand it."*
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=From%20scratch%20%E2%80%94%20because%20that%27s%20the%20only%20way%20to%20actually%20understand%20it.&fontSize=14&fontColor=ffffff&fontAlignY=70" alt="footer"/>
 
 </div>
