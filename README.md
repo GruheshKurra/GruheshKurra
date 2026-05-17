@@ -35,23 +35,6 @@ Published in **IEEE ICCCMLA 2025** on morphology-aware embeddings. B.Tech CSE, K
 
 ## Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/GruheshKurra/FirstGPTFromScratch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GruheshKurra&repo=FirstGPTFromScratch&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%"/>
-</a>
-<a href="https://github.com/GruheshKurra/TransformersFromScratch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GruheshKurra&repo=TransformersFromScratch&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%"/>
-</a>
-<a href="https://github.com/GruheshKurra/Deepguard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GruheshKurra&repo=Deepguard&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%"/>
-</a>
-<a href="https://github.com/GruheshKurra/bit-index-encoding-research-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GruheshKurra&repo=bit-index-encoding-research-&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%"/>
-</a>
-
-</div>
-
 | Project | What it does | Stack |
 |:---|:---|:---|
 | [**FirstGPTFromScratch**](https://github.com/GruheshKurra/FirstGPTFromScratch) | GPT-2 (124M) from scratch — architecture, BPE tokenizer, training loop | PyTorch |
@@ -135,29 +118,25 @@ Topics so far: Linear/Logistic Regression · KNN · Naive Bayes · Decision Tree
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=GruheshKurra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=GruheshKurra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400" width="48%"/>
-<img src="https://streak-stats.demolab.com?user=GruheshKurra&theme=tokyonight&hide_border=true" width="48%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GruheshKurra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,jupyter%20notebook&cache_seconds=86400" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=GruheshKurra&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GruheshKurra&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+![Followers](https://img.shields.io/github/followers/GruheshKurra?style=for-the-badge&logo=github&labelColor=1a1b26&color=7aa2f7)
+![Stars](https://img.shields.io/github/stars/GruheshKurra?style=for-the-badge&logo=github&labelColor=1a1b26&color=e0af68)
+![Profile views](https://img.shields.io/badge/dynamic/json?label=Profile%20Views&query=count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fgruheshkurra-readme%2Fviews&style=for-the-badge&labelColor=1a1b26&color=9ece6a)
 
 <br/>
+
+<img src="https://streak-stats.demolab.com?user=GruheshKurra&theme=tokyonight&hide_border=true" width="60%"/>
+
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GruheshKurra/GruheshKurra/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GruheshKurra/GruheshKurra/output/github-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/GruheshKurra/GruheshKurra/output/github-snake.svg" />
 </picture>
+
+<br/><br/>
+
+<sub>📊 Detailed stats: <a href="https://github.com/GruheshKurra?tab=repositories">repos</a> · <a href="https://github.com/GruheshKurra?tab=stars">starred</a> · <a href="https://github.com/GruheshKurra?tab=achievements">achievements</a></sub>
 
 </div>
 
