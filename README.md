@@ -22,7 +22,7 @@ Remote-first · Based in India 🇮🇳
 
 I build AI systems from the math up — re-implementing transformers, diffusion, and attention mechanisms from scratch, then shipping them where they matter (on-device, in production). Currently building **Zynthetix Krew**, an autonomous multi-agent developer tool, alongside independent research on neural weight compression and deepfake forensics.
 
-Recently: research intern at **IIIT Hyderabad** on layout-preserving document translation. Published in **IEEE ICCCMLA 2025** on morphology-aware embeddings. B.Tech CSE, KL University (9.72 CGPA).
+Published in **IEEE ICCCMLA 2025** on morphology-aware embeddings. B.Tech CSE, KL University (9.72 CGPA, 2021–2025).
 
 **Currently working on:**
 - Zynthetix Krew — multi-agent SWE tooling
@@ -125,10 +125,7 @@ Topics so far: Linear/Logistic Regression · KNN · Naive Bayes · Decision Tree
 
 ```
 2025 – now    Founder / Builder · Zynthetix Krew (autonomous multi-agent SWE)
-2024 – 2025   Research Intern · IIIT Hyderabad (document translation)
-2024 – 2025   AI Integration Engineer · InfoAjax (Azure OpenAI agents)
-2024 – 2025   WSO2 API Developer · InfoAjax (PLDT telecom integrations)
-2024          AI/ML Research Training · iHub-Data, IIIT Hyderabad (6-month)
+2024 – 2025   Founder · Zynthetix (synthetic data platform, PII detection)
 2023          Data Science Intern · XtraLeap India
 ```
 
