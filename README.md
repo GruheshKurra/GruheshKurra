@@ -9,9 +9,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-karthik.zynthetix.in-7aa2f7?style=for-the-badge&labelColor=1a1b26&logo=safari&logoColor=7aa2f7)](https://karthik.zynthetix.in/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gruheshkurra.com-7aa2f7?style=for-the-badge&labelColor=1a1b26&logo=safari&logoColor=7aa2f7)](https://gruheshkurra.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=1a1b26&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/gruhesh-sri-sai-karthik-kurra-178249227)
-[![Blog](https://img.shields.io/badge/Blog-ML%20from%20Scratch-9ece6a?style=for-the-badge&labelColor=1a1b26&logo=hashnode&logoColor=9ece6a)](https://blogs.zynthetix.in/)
+[![Blog](https://img.shields.io/badge/Blog-ML%20from%20Scratch-9ece6a?style=for-the-badge&labelColor=1a1b26&logo=hashnode&logoColor=9ece6a)](https://blogs.gruheshkurra.com/)
 [![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-e0af68?style=for-the-badge&labelColor=1a1b26)](https://huggingface.co/karthik-2905)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-c0caf5?style=for-the-badge&labelColor=1a1b26&logo=x&logoColor=c0caf5)](https://x.com/Karthik__kurra)
 [![Email](https://img.shields.io/badge/Email-Reach%20out-f7768e?style=for-the-badge&labelColor=1a1b26&logo=gmail&logoColor=f7768e)](mailto:gruheshkurra2@gmail.com)
@@ -92,7 +92,7 @@ location: India · Remote-first
 
 ## ✍️ Writing
 
-I write [**blogs.zynthetix.in**](https://blogs.zynthetix.in/) — ML algorithms from the math up. Each post derives the equations, then implements in working code. No wrappers, no shortcuts.
+I write [**blogs.gruheshkurra.com**](https://blogs.gruheshkurra.com/) — ML algorithms from the math up. Each post derives the equations, then implements in working code. No wrappers, no shortcuts.
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
@@ -182,7 +182,7 @@ Topics: Linear/Logistic Regression · KNN · Naive Bayes · Decision Trees · Ra
 
 [![Email](https://img.shields.io/badge/Email-gruheshkurra2%40gmail.com-f7768e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gruheshkurra2@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Message%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gruhesh-sri-sai-karthik-kurra-178249227)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7aa2f7?style=for-the-badge&logo=safari&logoColor=white)](https://karthik.zynthetix.in/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7aa2f7?style=for-the-badge&logo=safari&logoColor=white)](https://gruheshkurra.com/)
 
 **Reply within 24h** · Open to remote AI/ML research roles
 
