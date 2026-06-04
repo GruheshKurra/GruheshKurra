@@ -117,13 +117,7 @@ location: India · Remote-first
 I write [**blogs.gruheshkurra.com**](https://blogs.gruheshkurra.com/) — AI and ML from the math up. Each post derives the equations, then implements them in working code. No wrappers, no shortcuts.
 
 ### Latest posts
-<!-- BLOG-POST-LIST:START -->
-[How Attention Works in Transformers: Queries, Keys and Values](https://blogs.gruheshkurra.com/blog/attention-in-transformers-explained/)<br>
-[How GPT Actually Works: A Visual Guide to Transformers](https://blogs.gruheshkurra.com/blog/what-is-a-gpt-visual-intro/)<br>
-[Linear Algebra for Machine Learning: The Series That Made It Click](https://blogs.gruheshkurra.com/blog/essence-of-linear-algebra/)<br>
-[Backpropagation from Scratch: Build an Autograd Engine in Python](https://blogs.gruheshkurra.com/blog/build-autograd-from-scratch/)<br>
-[Build GPT-2 from Scratch in PyTorch: A Full Walkthrough](https://blogs.gruheshkurra.com/blog/build-gpt2-from-scratch/)<br>
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->[How Attention Works in Transformers: Queries, Keys and Values](https://blogs.gruheshkurra.com/blog/attention-in-transformers-explained/)<br>[How GPT Actually Works: A Visual Guide to Transformers](https://blogs.gruheshkurra.com/blog/what-is-a-gpt-visual-intro/)<br>[Linear Algebra for Machine Learning: The Series That Made It Click](https://blogs.gruheshkurra.com/blog/essence-of-linear-algebra/)<br>[Backpropagation from Scratch: Build an Autograd Engine in Python](https://blogs.gruheshkurra.com/blog/build-autograd-from-scratch/)<br>[Build GPT-2 from Scratch in PyTorch: A Full Walkthrough](https://blogs.gruheshkurra.com/blog/build-gpt2-from-scratch/)<br><!-- BLOG-POST-LIST:END -->
 
 Topics: How GPTs work · Attention (queries/keys/values) · Backpropagation & autograd · Building GPT-2 from scratch · Linear algebra for ML · plus the classic-ML-from-scratch series.
 
