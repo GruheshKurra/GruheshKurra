@@ -59,20 +59,40 @@ location: India · Remote-first
 | [**Diffusion From Scratch**](https://github.com/GruheshKurra/DiffusionModelFromScratch) | DDPM from math to generated images, ~130K params, full noise schedule | PyTorch |
 
 <details>
-<summary><b>More from-scratch implementations</b></summary>
+<summary><b>The full from-scratch collection</b> — 25+ algorithms rebuilt from the math, no high-level libraries</summary>
 
+**Deep Learning & Generative**
 | Repo | Topic |
 |:---|:---|
 | [AttentionMechanisms](https://github.com/GruheshKurra/AttentionMechanisms) | Multi-head attention deep-dive |
 | [DiffusionModelFromScratch](https://github.com/GruheshKurra/DiffusionModelFromScratch) | DDPM from math to samples |
 | [GAN_Implementation](https://github.com/GruheshKurra/GAN_Implementation) | GAN on MNIST, multiple architectures |
 | [VariationalAutoencoders](https://github.com/GruheshKurra/VariationalAutoencoders) | VAE with latent-space analysis |
-| [SVM-Implementation-From-Scratch](https://github.com/GruheshKurra/SVM-Implementation-From-Scratch) | SMO optimizer, kernel tricks |
-| [random-forest-from-scratch](https://github.com/GruheshKurra/random-forest-from-scratch) | Bootstrapping, feature importance, no sklearn |
-| [GraphNeuralNetworks](https://github.com/GruheshKurra/GraphNeuralNetworks-GNN-) | GCN, GraphSAGE, GAT |
 | [SequenceModeling](https://github.com/GruheshKurra/SequenceModeling) | RNN, LSTM, GRU from scratch |
-| [Bayesian-Networks](https://github.com/GruheshKurra/Bayesian-Networks) | Probabilistic graphical models |
-| [AnomalyDetection](https://github.com/GruheshKurra/AnomalyDetection) | Anomaly detection algorithms |
+| [GraphNeuralNetworks](https://github.com/GruheshKurra/GraphNeuralNetworks-GNN-) | GCN, GraphSAGE, GAT |
+
+**Reinforcement Learning**
+| Repo | Topic |
+|:---|:---|
+| [TemporalDifferenceLearning](https://github.com/GruheshKurra/TemporalDifferenceLearning) | TD(0), SARSA, Q-learning |
+| [MonteCarloMethods](https://github.com/GruheshKurra/MonteCarloMethods) | MC prediction & control |
+| [MarkovsDecisionPlane](https://github.com/GruheshKurra/MarkovsDecisionPlane) | MDPs, value & policy iteration |
+
+**Classic ML (no sklearn)**
+| Repo | Topic |
+|:---|:---|
+| [SVM-Implementation-From-Scratch](https://github.com/GruheshKurra/SVM-Implementation-From-Scratch) | SMO optimizer, kernel tricks |
+| [random-forest-from-scratch](https://github.com/GruheshKurra/random-forest-from-scratch) | Bootstrapping, feature importance |
+| [decision-trees-from-scratch](https://github.com/GruheshKurra/decision-trees-from-scratch) | CART, entropy/Gini splits |
+| [logistic-regression-impl](https://github.com/GruheshKurra/logistic-regression-impl) · [linear-regression-impl](https://github.com/GruheshKurra/linear-regression-impl) | Gradient descent from first principles |
+| [naive-bayes-implementation](https://github.com/GruheshKurra/naive-bayes-implementation) · [knn-implementation](https://github.com/GruheshKurra/knn-implementation) | Probabilistic & instance-based |
+| [Bayesian-Networks](https://github.com/GruheshKurra/Bayesian-Networks) · [AnomalyDetection](https://github.com/GruheshKurra/AnomalyDetection) | PGMs & outlier detection |
+
+**Clustering & Dimensionality Reduction**
+| Repo | Topic |
+|:---|:---|
+| [k-means-clustering](https://github.com/GruheshKurra/k-means-clustering) · [dbscan-clustering](https://github.com/GruheshKurra/dbscan-clustering) · [hierarchical-clustering](https://github.com/GruheshKurra/hierarchical-clustering) | Full clustering suite |
+| [tsne-from-scratch](https://github.com/GruheshKurra/tsne-from-scratch) · [umap-dimensionality-reduction](https://github.com/GruheshKurra/umap-dimensionality-reduction) · [dimensionality-reduction](https://github.com/GruheshKurra/dimensionality-reduction) | PCA, t-SNE, UMAP |
 
 </details>
 
@@ -83,7 +103,7 @@ location: India · Remote-first
 | Paper | Venue | Year |
 |:---|:---|:---|
 | Morphology-Aware Nested Character Embeddings for Word Representation | **IEEE ICCCMLA** (peer-reviewed) | 2025 |
-| RADAR: Reasoning-Augmented Deepfake Artifact Recognition | IJECE *(under review)* | 2026 |
+| [RADAR: Reasoning-Augmented Deepfake Artifact Recognition](https://github.com/GruheshKurra/radar_deepfake) | IJECE *(under review)* | 2026 |
 | [BIE: Bit-Index Encoding for Neural Network Weight Compression](https://zenodo.org/records/17217218) | Preprint (Zenodo) | 2025 |
 | [Hybrid RAG-Enhanced Deepfake Detection](https://zenodo.org/records/16732053) | Preprint (Zenodo) | 2024 |
 | [Dynamic Auto-Finetuning of LLMs via Confidence-Driven Knowledge Integration](https://ijnrd.org/papers/IJNRD2411189.pdf) | IJNRD | 2024 |
@@ -94,13 +114,18 @@ location: India · Remote-first
 
 ## ✍️ Writing
 
-I write [**blogs.gruheshkurra.com**](https://blogs.gruheshkurra.com/) — ML algorithms from the math up. Each post derives the equations, then implements in working code. No wrappers, no shortcuts.
+I write [**blogs.gruheshkurra.com**](https://blogs.gruheshkurra.com/) — AI and ML from the math up. Each post derives the equations, then implements them in working code. No wrappers, no shortcuts.
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [How Attention Works in Transformers: Queries, Keys & Values](https://blogs.gruheshkurra.com/blog/attention-in-transformers-explained/) — Query/key/value, the attention pattern, masking, and multi-head attention, with the real GPT-3 parameter counts.
+- [How GPT Actually Works: A Visual Guide to Transformers](https://blogs.gruheshkurra.com/blog/what-is-a-gpt-visual-intro/) — Tokens, embeddings, why directions in vector space mean something, softmax and temperature.
+- [Linear Algebra for Machine Learning: The Series That Made It Click](https://blogs.gruheshkurra.com/blog/essence-of-linear-algebra/) — Matrices as transformations, eigenvectors, and the geometric intuition behind ML notation.
+- [Build GPT-2 from Scratch in PyTorch: A Full Walkthrough](https://blogs.gruheshkurra.com/blog/build-gpt2-from-scratch/) — Causal self-attention, transformer blocks, weight tying, and a working training loop (124M params).
+- [Backpropagation from Scratch: Build an Autograd Engine in Python](https://blogs.gruheshkurra.com/blog/build-autograd-from-scratch/) — Computation graphs, the chain rule, and reverse-mode autodiff in ~80 lines.
 <!-- BLOG-POST-LIST:END -->
 
-Topics: Linear/Logistic Regression · KNN · Naive Bayes · Decision Trees · Random Forest · SVM · K-Means · t-SNE · UMAP.
+Topics: How GPTs work · Attention (queries/keys/values) · Backpropagation & autograd · Building GPT-2 from scratch · Linear algebra for ML · plus the classic-ML-from-scratch series.
 
 ---
 
