@@ -17,4 +17,4 @@ jobs:
         with:
           feed_list: "https://blogs.gruheshkurra.com/feed.xml"
           max_post_count: 5
-          template: "- [$title]($url) — $description"
+          template: "[$title]($url)<br>"
