@@ -144,12 +144,12 @@ IELTS Academic **7.5** · Cambridge C1 Advanced
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GruheshKurra&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GruheshKurra&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=html,css,jupyter%20notebook" width="48%" alt="Top languages" />
+<img src="https://readme-stats-fast.vercel.app/api?username=GruheshKurra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="GitHub stats" />
+<img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=GruheshKurra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,jupyter%20notebook" height="165" alt="Top languages" />
 
-<br/><br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=GruheshKurra&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=GruheshKurra&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165" alt="GitHub streak" />
 
 </div>
 
