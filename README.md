@@ -35,7 +35,6 @@ Published in **IEEE ICCCMLA 2025** on morphology-aware embeddings. B.Tech CSE, K
 ```yaml
 focus:
   - Zynthetix Krew       # multi-agent SWE tooling
-  - RADAR                # deepfake detection (under review, IJECE 2026)
   - BIE                  # neural weight compression — follow-up experiments
 open_to:
   - Remote AI/ML research engineering roles
@@ -102,13 +101,12 @@ location: India · Remote-first
 
 | Paper | Venue | Year |
 |:---|:---|:---|
-| Morphology-Aware Nested Character Embeddings for Word Representation | **IEEE ICCCMLA** (peer-reviewed) | 2025 |
-| [RADAR: Reasoning-Augmented Deepfake Artifact Recognition](https://github.com/GruheshKurra/radar_deepfake) | IJECE *(under review)* | 2026 |
+| [Morphology-Aware Nested Character Embeddings for Word Representation](https://ieeexplore.ieee.org/document/11580466) | **IEEE ICCCMLA** (peer-reviewed) | 2025 |
 | [BIE: Bit-Index Encoding for Neural Network Weight Compression](https://zenodo.org/records/17217218) | Preprint (Zenodo) | 2025 |
 | [Hybrid RAG-Enhanced Deepfake Detection](https://zenodo.org/records/16732053) | Preprint (Zenodo) | 2024 |
-| [Dynamic Auto-Finetuning of LLMs via Confidence-Driven Knowledge Integration](https://ijnrd.org/papers/IJNRD2411189.pdf) | IJNRD | 2024 |
-| [Global Remote RAM Sharing: A Distributed Computing Framework](https://ijnrd.org/papers/IJNRD2412277.pdf) | IJNRD | 2024 |
-| [Voice-Activated AI for Computer Interaction](https://ijnrd.org/papers/IJNRD2501080.pdf) | IJNRD | 2025 |
+| Dynamic Auto-Finetuning of LLMs via Confidence-Driven Knowledge Integration | IJNRD | 2024 |
+| Global Remote RAM Sharing: A Distributed Computing Framework | IJNRD | 2024 |
+| Voice-Activated AI for Computer Interaction | IJNRD | 2025 |
 
 ---
 
