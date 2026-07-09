@@ -1,6 +1,7 @@
 # Gruhesh Sri Sai Karthik Kurra
 
-**AI/ML research engineer · builder** · Hyderabad, India · Remote-first
+**AI Research Engineer** · LLMs, CV & generative models from scratch · research → production  
+Hyderabad, India · Remote-first
 
 [Portfolio](https://gruheshkurra.com) · [Blog](https://blogs.gruheshkurra.com) · [LinkedIn](https://linkedin.com/in/gruhesh-sri-sai-karthik-kurra-178249227) · [Hugging Face](https://huggingface.co/karthik-2905) · [X](https://x.com/Karthik__kurra) · [Email](mailto:gruheshkurra2@gmail.com)
 
@@ -8,9 +9,9 @@
 
 ## About
 
-I build AI systems from the math up — transformers, diffusion, and attention re-implemented from scratch, then shipped to production and on-device.
+AI research engineer focused on building ML systems from the ground up — transformers, diffusion, and attention re-implemented from scratch, then shipped on-device and into production. Work spans model optimization, neural compression, deepfake forensics, and synthetic data.
 
-Published in **IEEE ICCCMLA 2025** (morphology-aware embeddings). Independent work on neural weight compression and deepfake forensics. B.Tech CSE, KL University (CGPA **9.72/10**, 2021–2025).
+**6** published papers (IEEE, Zenodo, IJNRD) including **IEEE ICCCMLA 2025** on morphology-aware embeddings. B.Tech CSE, KL University (CGPA **9.72/10**, 2021–2025). AWS, TensorFlow, and WSO2 certified.
 
 Open to remote AI/ML research engineering roles and collaborations on transformers, neural compression, and on-device inference.
 
@@ -138,22 +139,19 @@ IELTS Academic **7.5** · Cambridge C1 Advanced
 
 ## GitHub activity
 
+Metrics and the contribution snake are **regenerated daily** by GitHub Actions in this repo (not a frozen screenshot). They update on schedule / push to `main` — not on every page view.
+
 <div align="center">
 
-<img src="https://readme-stats-fast.vercel.app/api?username=GruheshKurra&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub stats" />
-<img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=GruheshKurra&layout=compact&theme=default&hide_border=true&langs_count=8&hide=html,css,jupyter%20notebook" width="48%" alt="Top languages" />
+<img src="https://raw.githubusercontent.com/GruheshKurra/GruheshKurra/main/github-metrics.svg" width="100%" alt="GitHub metrics — refreshed daily by Actions" />
 
 <br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GruheshKurra/GruheshKurra/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GruheshKurra/GruheshKurra/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/GruheshKurra/GruheshKurra/output/github-snake.svg" />
+  <img alt="Contribution snake — refreshed daily by Actions" src="https://raw.githubusercontent.com/GruheshKurra/GruheshKurra/output/github-snake.svg" width="100%" />
 </picture>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/GruheshKurra/GruheshKurra/main/github-metrics.svg" width="100%" alt="GitHub metrics" />
 
 </div>
 
