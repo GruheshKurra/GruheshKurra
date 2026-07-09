@@ -139,19 +139,14 @@ IELTS Academic **7.5** · Cambridge C1 Advanced
 
 ## GitHub activity
 
-Metrics and the contribution snake are **regenerated daily** by GitHub Actions in this repo (not a frozen screenshot). They update on schedule / push to `main` — not on every page view.
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GruheshKurra/GruheshKurra/main/github-metrics.svg" width="100%" alt="GitHub metrics — refreshed daily by Actions" />
+<img src="https://github-readme-stats.vercel.app/api?username=GruheshKurra&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GruheshKurra&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=html,css,jupyter%20notebook" width="48%" alt="Top languages" />
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GruheshKurra/GruheshKurra/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GruheshKurra/GruheshKurra/output/github-snake.svg" />
-  <img alt="Contribution snake — refreshed daily by Actions" src="https://raw.githubusercontent.com/GruheshKurra/GruheshKurra/output/github-snake.svg" width="100%" />
-</picture>
+<img src="https://streak-stats.demolab.com?user=GruheshKurra&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%" alt="GitHub streak" />
 
 </div>
 
