@@ -1,6 +1,7 @@
 # Gruhesh Sri Sai Karthik Kurra
 
 **AI Research Engineer** · LLMs, CV & generative models from scratch · research → production  
+**Incoming MSc Computing (AI & ML)** @ Imperial College London  
 Hyderabad, India · Remote-first
 
 [Portfolio](https://gruheshkurra.com) · [Blog](https://blogs.gruheshkurra.com) · [LinkedIn](https://linkedin.com/in/gruhesh-sri-sai-karthik-kurra-178249227) · [Hugging Face](https://huggingface.co/karthik-2905) · [X](https://x.com/Karthik__kurra) · [Email](mailto:gruheshkurra2@gmail.com)
@@ -11,7 +12,7 @@ Hyderabad, India · Remote-first
 
 AI research engineer focused on building ML systems from the ground up — transformers, diffusion, and attention re-implemented from scratch, then shipped on-device and into production. Work spans model optimization, neural compression, deepfake forensics, and synthetic data.
 
-**6** published papers (IEEE, Zenodo, IJNRD) including **IEEE ICCCMLA 2025** on morphology-aware embeddings. B.Tech CSE, KL University (CGPA **9.72/10**, 2021–2025). AWS, TensorFlow, and WSO2 certified.
+**Incoming MSc Computing (AI & ML)** at Imperial College London. **6** published papers (IEEE, Zenodo, IJNRD) including **IEEE ICCCMLA 2025** on morphology-aware embeddings. B.Tech CSE, KL University (CGPA **9.72/10**, 2021–2025). AWS, TensorFlow, and WSO2 certified.
 
 Open to remote AI/ML research engineering roles and collaborations on transformers, neural compression, and on-device inference.
 
@@ -130,6 +131,8 @@ I write at [blogs.gruheshkurra.com](https://blogs.gruheshkurra.com) — AI/ML fr
 ---
 
 ## Education
+
+**Incoming MSc Computing (AI & ML)** — Imperial College London
 
 **B.Tech in Computer Science and Engineering** — KL University, Hyderabad · Aug 2021 – May 2025 · CGPA **9.72 / 10**
 
