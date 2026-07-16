@@ -116,7 +116,7 @@ I write at [blogs.gruheshkurra.com](https://blogs.gruheshkurra.com) — AI/ML fr
 
 ### Latest posts
 
-<!-- BLOG-POST-LIST:START -->[GPT Math Explained: The Full Forward Pass Beyond Attention](https://blogs.gruheshkurra.com/blog/gpt-math-beyond-attention/)<br>[Adam and AdamW Explained: How Modern LLMs Actually Update Their Weights](https://blogs.gruheshkurra.com/blog/adam-optimizer-explained/)<br>[Cross-Entropy Loss Explained: From Logits to Language Model Training](https://blogs.gruheshkurra.com/blog/cross-entropy-loss-explained/)<br>[Byte Pair Encoding &lpar;BPE&rpar; Explained: How GPT Tokenizers Turn Text Into Numbers](https://blogs.gruheshkurra.com/blog/byte-pair-encoding-from-scratch/)<br>[Positional Encoding Explained: How Transformers Learn Word Order](https://blogs.gruheshkurra.com/blog/positional-encoding-explained/)<br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->[Build a Mini LLM from Scratch in NumPy: RoPE, GQA, SwiGLU Visual Guide](https://blogs.gruheshkurra.com/blog/build-mini-llm-numpy-from-scratch/)<br>[GPT Math Explained: The Full Forward Pass Beyond Attention](https://blogs.gruheshkurra.com/blog/gpt-math-beyond-attention/)<br>[Adam and AdamW Explained: How Modern LLMs Actually Update Their Weights](https://blogs.gruheshkurra.com/blog/adam-optimizer-explained/)<br>[Cross-Entropy Loss Explained: From Logits to Language Model Training](https://blogs.gruheshkurra.com/blog/cross-entropy-loss-explained/)<br>[Byte Pair Encoding &lpar;BPE&rpar; Explained: How GPT Tokenizers Turn Text Into Numbers](https://blogs.gruheshkurra.com/blog/byte-pair-encoding-from-scratch/)<br><!-- BLOG-POST-LIST:END -->
 
 ---
 
