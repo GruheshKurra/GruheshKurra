@@ -108,6 +108,14 @@ Open to remote AI/ML research engineering roles and collaborations on transforme
 | Global Remote RAM Sharing: A Novel Framework for Distributed Computational Systems | IJNRD | 2024 |
 | Voice-Activated AI for Seamless Computer Interaction | IJNRD | 2025 |
 
+**Preprints & working papers**
+
+| Paper | Status | Year |
+|:---|:---|:---|
+| Prism Tuning: Repulsion-Trained Seed Embeddings in a Frozen Transformer for Non-Redundant Generation | Preprint | 2026 |
+| RADAR: Reasoning-Augmented Deepfake Artifact Recognition via Multi-Branch Evidence Aggregation | Preprint | 2026 |
+| [Dual-Stream Artifact Detection with Iterative Evidence Refinement for Frame-Level Deepfake Recognition](https://github.com/GruheshKurra/radar_deepfake) | Preprint — code + 227k-frame corpus public | 2026 |
+
 ---
 
 ## Writing
