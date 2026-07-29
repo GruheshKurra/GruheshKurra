@@ -12,7 +12,7 @@ Hyderabad, India · Remote-first
 
 AI research engineer focused on building ML systems from the ground up — transformers, diffusion, and attention re-implemented from scratch, then shipped on-device and into production. Work spans model optimization, neural compression, deepfake forensics, and synthetic data.
 
-**Incoming MSc Computing (AI & ML)** at Imperial College London. **6** published papers (IEEE, Zenodo, IJNRD) including **IEEE ICCCMLA 2025** on morphology-aware embeddings. B.Tech CSE, KL University (CGPA **9.72/10**, 2021–2025). AWS, TensorFlow, and WSO2 certified.
+**Incoming MSc Computing (AI & ML)** at Imperial College London. **6** published papers (IEEE, Zenodo, IJNRD) including **IEEE ICCCMLA 2025** on morphology-aware embeddings, plus **2 under review at IEEE NEPCON 2026**. B.Tech CSE, KL University (CGPA **9.72/10**, 2021–2025). AWS, TensorFlow, and WSO2 certified.
 
 Open to remote AI/ML research engineering roles and collaborations on transformers, neural compression, and on-device inference.
 
@@ -108,13 +108,13 @@ Open to remote AI/ML research engineering roles and collaborations on transforme
 | Global Remote RAM Sharing: A Novel Framework for Distributed Computational Systems | IJNRD | 2024 |
 | Voice-Activated AI for Seamless Computer Interaction | IJNRD | 2025 |
 
-**Preprints & working papers**
+**Under review & working papers**
 
 | Paper | Status | Year |
 |:---|:---|:---|
-| Prism Tuning: Repulsion-Trained Seed Embeddings in a Frozen Transformer for Non-Redundant Generation | Preprint | 2026 |
+| Prism Tuning: Repulsion-Trained Seed Embeddings in a Frozen Transformer for Non-Redundant Generation | Under review — **IEEE NEPCON 2026** | 2026 |
+| [Dual-Stream Artifact Detection with Iterative Evidence Refinement for Frame-Level Deepfake Recognition](https://github.com/GruheshKurra/radar_deepfake) | Under review — **IEEE NEPCON 2026**; code + 227k-frame corpus public | 2026 |
 | RADAR: Reasoning-Augmented Deepfake Artifact Recognition via Multi-Branch Evidence Aggregation | Preprint | 2026 |
-| [Dual-Stream Artifact Detection with Iterative Evidence Refinement for Frame-Level Deepfake Recognition](https://github.com/GruheshKurra/radar_deepfake) | Preprint — code + 227k-frame corpus public | 2026 |
 
 ---
 
