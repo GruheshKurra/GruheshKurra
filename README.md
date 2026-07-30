@@ -2,6 +2,7 @@
 
 **AI Research Engineer** · LLMs, CV & generative models from scratch · research → production  
 **Incoming MSc Computing (AI & ML)** @ Imperial College London  
+🏆 **1st place — Global Challenge Lab 2026**, Imperial College London  
 Hyderabad, India · Remote-first
 
 [Portfolio](https://gruheshkurra.com) · [Blog](https://blogs.gruheshkurra.com) · [LinkedIn](https://linkedin.com/in/gruhesh-sri-sai-karthik-kurra-178249227) · [Hugging Face](https://huggingface.co/karthik-2905) · [X](https://x.com/Karthik__kurra) · [Email](mailto:gruheshkurra2@gmail.com)
@@ -145,6 +146,22 @@ I write at [blogs.gruheshkurra.com](https://blogs.gruheshkurra.com) — AI/ML fr
 **B.Tech in Computer Science and Engineering** — KL University, Hyderabad · Aug 2021 – May 2025 · CGPA **9.72 / 10**
 
 IELTS Academic **7.5** · Cambridge C1 Advanced
+
+---
+
+## Awards
+
+**1st Place — Global Challenge Lab 2026**, Imperial College London · July 2026
+
+Imperial's global innovation sprint: 1,000+ students from partner universities worldwide, 14 days, four tracks, one Demo Day slot. Won with **OrbitOps** — a vendor-neutral reliability layer for satellite onboard AI:
+
+- Inject radiation-style faults **before launch** and measure what breaks
+- Watch the model **in orbit** with known-answer probes — catches silent degradation that never crashes and never lowers confidence
+- **Roll back** to a clean copy the moment it breaks
+
+Five people, five disciplines (AI/ML ×2, aerospace, physics/mechanical, finance).
+
+Earlier: 1st Place — University Webathon (2022) · 2nd Place — Design Expo (2022–23) · SAC Momentum Award, KL University (2023–25).
 
 ---
 
