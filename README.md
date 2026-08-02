@@ -5,7 +5,7 @@
 🏆 **1st place — Global Challenge Lab 2026**, Imperial College London  
 Hyderabad, India · Remote-first
 
-[Portfolio](https://gruheshkurra.com) · [Blog](https://blogs.gruheshkurra.com) · [LinkedIn](https://linkedin.com/in/gruhesh-sri-sai-karthik-kurra-178249227) · [Hugging Face](https://huggingface.co/karthik-2905) · [X](https://x.com/Karthik__kurra) · [Email](mailto:gruheshkurra2@gmail.com)
+[Portfolio](https://gruheshkurra.com) · [Blog](https://blogs.gruheshkurra.com) · [LinkedIn](https://www.linkedin.com/in/gruheshkurra/) · [Hugging Face](https://huggingface.co/karthik-2905) · [X](https://x.com/Karthik__kurra) · [Email](mailto:gruheshkurra2@gmail.com)
 
 ---
 
@@ -206,7 +206,7 @@ Earlier: 1st Place — University Webathon (2022) · 2nd Place — Design Expo (
 
 ## Contact
 
-[gruheshkurra2@gmail.com](mailto:gruheshkurra2@gmail.com) · [LinkedIn](https://linkedin.com/in/gruhesh-sri-sai-karthik-kurra-178249227) · [gruheshkurra.com](https://gruheshkurra.com)
+[gruheshkurra2@gmail.com](mailto:gruheshkurra2@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gruheshkurra/) · [gruheshkurra.com](https://gruheshkurra.com)
 
 Open to remote AI/ML research roles and collaborations on transformer research, neural compression, on-device AI, and agentic systems.
 
@@ -219,7 +219,7 @@ Open to remote AI/ML research roles and collaborations on transformer research, 
 | Blog — AI/ML deep dives | [blogs.gruheshkurra.com](https://blogs.gruheshkurra.com) |
 | Portfolio | [gruheshkurra.com](https://gruheshkurra.com) |
 | Hugging Face | [karthik-2905](https://huggingface.co/karthik-2905) |
-| LinkedIn | [gruhesh-sri-sai-karthik-kurra](https://linkedin.com/in/gruhesh-sri-sai-karthik-kurra-178249227) |
+| LinkedIn | [gruheshkurra](https://www.linkedin.com/in/gruheshkurra/) |
 | X | [@Karthik__kurra](https://x.com/Karthik__kurra) |
 | DEV | [dev.to/gruhesh_kurra](https://dev.to/gruhesh_kurra_6eb933146da) |
 
