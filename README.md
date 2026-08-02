@@ -121,7 +121,31 @@ Open to remote AI/ML research engineering roles and collaborations on transforme
 
 ## Writing
 
-I write at [blogs.gruheshkurra.com](https://blogs.gruheshkurra.com) — AI/ML from the math up: derive the equations, then implement them. No wrappers.
+I write at **[blogs.gruheshkurra.com](https://blogs.gruheshkurra.com)** — AI and machine learning from the math up: derive the equations by hand, work a numeric example, then implement it. No wrappers, no hand-waving.
+
+### AI from Scratch — the full series
+
+Linear algebra through a working GPT-2, in order. Every post has the derivation, real numbers from the actual config, and code that runs.
+
+| # | Post | Topic |
+|:--|:---|:---|
+| 1 | [Linear Algebra for Machine Learning: The Visual Intuition](https://blogs.gruheshkurra.com/blog/essence-of-linear-algebra/) | Vectors, matrices, eigenvectors |
+| 2 | [Backpropagation from Scratch: Build an Autograd Engine](https://blogs.gruheshkurra.com/blog/build-autograd-from-scratch/) | Reverse-mode autodiff |
+| 3 | [Numerical Gradient Checking: Debug Your Autograd Engine](https://blogs.gruheshkurra.com/blog/numerical-gradient-checking-explained/) | Central differences |
+| 4 | [Byte Pair Encoding (BPE) Explained: How GPT Tokenizers Work](https://blogs.gruheshkurra.com/blog/byte-pair-encoding-from-scratch/) | Tokenization, merge rules |
+| 5 | [Token Embeddings Explained: How LLMs Turn IDs Into Vectors](https://blogs.gruheshkurra.com/blog/token-embeddings-explained/) | Embedding matrix, gather vs one-hot |
+| 6 | [Positional Encoding Explained: How Transformers Learn Order](https://blogs.gruheshkurra.com/blog/positional-encoding-explained/) | Learned vs sinusoidal |
+| 7 | [Cross-Entropy Loss Explained: From Logits to LLM Training](https://blogs.gruheshkurra.com/blog/cross-entropy-loss-explained/) | Softmax + NLL |
+| 8 | [Adam and AdamW Explained: How LLMs Update Their Weights](https://blogs.gruheshkurra.com/blog/adam-optimizer-explained/) | Momentum, RMSprop, decoupled decay |
+| 9 | [How GPT Actually Works: A Visual Guide to Transformers](https://blogs.gruheshkurra.com/blog/what-is-a-gpt-visual-intro/) | Plain-English transformer tour |
+| 10 | [How Attention Works in Transformers: Queries, Keys, Values](https://blogs.gruheshkurra.com/blog/attention-in-transformers-explained/) | Attention pattern, multi-head |
+| 11 | [Transformer from Scratch: Forward Pass and Backprop by Hand](https://blogs.gruheshkurra.com/blog/transformer-from-scratch-forward-backward-math/) | One training step, worked |
+| 12 | [GPT Math Explained: The Full Forward Pass Beyond Attention](https://blogs.gruheshkurra.com/blog/gpt-math-beyond-attention/) | Token IDs → loss → AdamW |
+| 13 | [Build GPT-2 from Scratch in PyTorch: A Full Walkthrough](https://blogs.gruheshkurra.com/blog/build-gpt2-from-scratch/) | 124M params, trained locally |
+| 14 | [DeepSeek V4 Explained: Long-Context Engineering and Math](https://blogs.gruheshkurra.com/blog/deepseek-v4-engineering-explained/) | Sparse attention, KV-cache scaling |
+| 15 | [Build a Mini LLM from Scratch in NumPy: RoPE, GQA, SwiGLU](https://blogs.gruheshkurra.com/blog/build-mini-llm-numpy-from-scratch/) | 3.87M chat model, pure NumPy |
+
+**Browse:** [All posts](https://blogs.gruheshkurra.com/ai-explanations/) · [Series](https://blogs.gruheshkurra.com/series/ai/) · [Topics](https://blogs.gruheshkurra.com/tags/) · [Library](https://blogs.gruheshkurra.com/library/) · [Papers](https://blogs.gruheshkurra.com/papers/) · [AI News](https://blogs.gruheshkurra.com/news/) · [RSS](https://blogs.gruheshkurra.com/feed.xml)
 
 ### Latest posts
 
@@ -185,3 +209,18 @@ Earlier: 1st Place — University Webathon (2022) · 2nd Place — Design Expo (
 [gruheshkurra2@gmail.com](mailto:gruheshkurra2@gmail.com) · [LinkedIn](https://linkedin.com/in/gruhesh-sri-sai-karthik-kurra-178249227) · [gruheshkurra.com](https://gruheshkurra.com)
 
 Open to remote AI/ML research roles and collaborations on transformer research, neural compression, on-device AI, and agentic systems.
+
+---
+
+### Elsewhere
+
+| Where | Link |
+|:---|:---|
+| Blog — AI/ML deep dives | [blogs.gruheshkurra.com](https://blogs.gruheshkurra.com) |
+| Portfolio | [gruheshkurra.com](https://gruheshkurra.com) |
+| Hugging Face | [karthik-2905](https://huggingface.co/karthik-2905) |
+| LinkedIn | [gruhesh-sri-sai-karthik-kurra](https://linkedin.com/in/gruhesh-sri-sai-karthik-kurra-178249227) |
+| X | [@Karthik__kurra](https://x.com/Karthik__kurra) |
+| DEV | [dev.to/gruhesh_kurra](https://dev.to/gruhesh_kurra_6eb933146da) |
+
+<sub>Also found as Gruhesh Kurra · Karthik Kurra · Gruhesh Sri Sai Karthik · Gruhesh Karthik.</sub>
