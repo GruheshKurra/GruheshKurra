@@ -159,7 +159,7 @@ Linear algebra through a working GPT-2, in order. Every post has the derivation,
 
 ### Latest posts
 
-<!-- BLOG-POST-LIST:START --><a href="https://blogs.gruheshkurra.com/blog/natural-language-inference-explained/">Natural Language Inference Explained: Entailment in NLP</a><br/><a href="https://blogs.gruheshkurra.com/blog/build-mini-llm-numpy-from-scratch/">Build a Mini LLM from Scratch in NumPy: RoPE, GQA, SwiGLU</a><br/><a href="https://blogs.gruheshkurra.com/blog/gpt-math-beyond-attention/">GPT Math Explained: The Full Forward Pass Beyond Attention</a><br/><a href="https://blogs.gruheshkurra.com/blog/adam-optimizer-explained/">Adam and AdamW Explained: How LLMs Update Their Weights</a><br/><a href="https://blogs.gruheshkurra.com/blog/cross-entropy-loss-explained/">Cross-Entropy Loss Explained: From Logits to LLM Training</a><br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><a href="https://blogs.gruheshkurra.com/blog/looped-transformers-explained/">Looped Transformers Explained: Recurrent Depth and Astra</a><br/><a href="https://blogs.gruheshkurra.com/blog/natural-language-inference-explained/">Natural Language Inference Explained: Entailment in NLP</a><br/><a href="https://blogs.gruheshkurra.com/blog/build-mini-llm-numpy-from-scratch/">Build a Mini LLM from Scratch in NumPy: RoPE, GQA, SwiGLU</a><br/><a href="https://blogs.gruheshkurra.com/blog/gpt-math-beyond-attention/">GPT Math Explained: The Full Forward Pass Beyond Attention</a><br/><a href="https://blogs.gruheshkurra.com/blog/adam-optimizer-explained/">Adam and AdamW Explained: How LLMs Update Their Weights</a><br/><!-- BLOG-POST-LIST:END -->
 
 ---
 
