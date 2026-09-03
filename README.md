@@ -1,22 +1,22 @@
 # Gruhesh Sri Sai Karthik Kurra
 
-AI research engineer. LLMs, generative models and neural compression, built from the math up.
+Incoming MSc Computing (AI & ML), Imperial College London. First author of an accepted IEEE ICCCMLA 2025 paper on morphology-aware embeddings, and of a 3.9M-parameter language model in pure NumPy with its own autograd.
 
-MSc Computing (AI & ML), Imperial College London, from Sep 2026 · 1st place, Global Challenge Lab 2026
+Seeking a research engineering internship in model training, evaluation, or efficient inference.
 
-Hyderabad, India → London, UK from Sep 2026 · Remote-friendly
+London, UK (from Sep 2026)
 
-[Portfolio](https://gruheshkurra.com) · [Blog](https://blogs.gruheshkurra.com) · [LinkedIn](https://www.linkedin.com/in/gruheshkurra/) · [Hugging Face](https://huggingface.co/karthik-2905) · [ORCID](https://orcid.org/0009-0002-0558-2882) · [X](https://x.com/Karthik__kurra) · [Email](mailto:gruheshkurra2@gmail.com)
+[Portfolio](https://gruheshkurra.com) · [Blog](https://blogs.gruheshkurra.com) · [LinkedIn](https://www.linkedin.com/in/gruheshkurra/) · [Hugging Face](https://huggingface.co/karthik-2905) · [Kaggle](https://www.kaggle.com/gruheshkurra) · [ORCID](https://orcid.org/0009-0002-0558-2882) · [X](https://x.com/Karthik__kurra) · [Email](mailto:gruheshkurra2@gmail.com)
 
-[About](#about) · [Now](#now) · [Selected work](#selected-work) · [Research](#research) · [Writing](#writing) · [Experience](#experience) · [Stack](#stack) · [Education](#education) · [Certifications](#certifications) · [Awards](#awards) · [Contact](#contact)
+[About](#about) · [Now](#now) · [Selected work](#selected-work) · [Research](#research) · [Writing](#writing) · [Research experience](#research-experience) · [Industry](#industry-experience) · [Leadership](#leadership) · [Stack](#stack) · [Education](#education) · [Certifications](#certifications) · [Awards](#awards) · [Contact](#contact)
 
 ---
 
 ## About
 
-I build machine learning systems from the maths up: transformers, diffusion and attention re-implemented from the equations, then shipped on-device and into production. Work spans model optimisation, neural weight compression, deepfake forensics and synthetic data.
+I build machine learning systems from the maths up: transformers, diffusion and attention re-implemented from the equations, then converted for on-device inference. Work spans model training and evaluation, neural weight compression, deepfake forensics and synthetic-data architecture.
 
-IEEE ICCCMLA 2025 (MANCE: morphology-aware embeddings), plus open work on Zenodo and IJNRD, and 2 papers under review at IEEE NEPCON 2026. B.Tech CSE, KL University, CGPA 9.72/10 (2021–2025). AWS, TensorFlow, Oracle, Red Hat and WSO2 certified.
+IEEE ICCCMLA 2025 (MANCE: morphology-aware embeddings), a 3,869,184-parameter NumPy language model with custom autograd, plus open work on Zenodo and IJNRD, and 2 papers under review at IEEE NEPCON 2026. B.Tech CSE, KL University, CGPA 9.72/10 (2021–2025). AWS, TensorFlow, Oracle, Red Hat and WSO2 certified.
 
 ---
 
@@ -24,10 +24,10 @@ IEEE ICCCMLA 2025 (MANCE: morphology-aware embeddings), plus open work on Zenodo
 
 | | |
 |:---|:---|
-| Sep 2026 | MSc Computing (AI & ML), Imperial College London |
+| Sep 2026 | MSc Computing (AI & ML), Imperial College London *(incoming)* |
 | Writing | *AI from Scratch*: 15-post series, linear algebra through a working GPT-2 |
 | Under review | Two papers at IEEE NEPCON 2026: Prism Tuning · Dual-Stream |
-| Open to | Remote AI/ML research engineering roles; collaboration on transformers, compression and on-device inference |
+| Open to | Research engineering internships in model training, evaluation, or efficient inference; collaboration on transformers, compression and on-device inference |
 
 ---
 
@@ -35,19 +35,23 @@ IEEE ICCCMLA 2025 (MANCE: morphology-aware embeddings), plus open work on Zenodo
 
 | Project | What it is | Links |
 |:---|:---|:---|
+| NumPy language model (AL-1 A) | Decoder-only LM in pure NumPy with a custom autograd engine: **3,869,184** params, 4 layers, d_model 256, GQA (8 query / 2 KV heads), SwiGLU, RoPE, QK-Norm, pre-LN RMSNorm, tied embeddings, 256-token context, KV-cache. Byte-level BPE (4,096 vocab, 3,835 merges). Pretrained on DailyDialog (1.62M training tokens, 2,000 steps) then SFT on 19,375 EmpatheticDialogues conversations with assistant-only loss. 78 unit tests across 12 files | [Code](https://github.com/GruheshKurra/core-language-model) · [HF](https://huggingface.co/karthik-2905/model-a-scratch) |
+| Qwen3-0.6B tool-calling (AL-1 B) | LoRA SFT of Qwen3-0.6B (rank 16, α=32, dropout 0.05) with TRL `SFTTrainer` and assistant-only loss on 1,423 examples (945 tool, 478 chat), 3 epochs on a RunPod RTX A6000. Five file-system and shell tools in Hermes format. On n=12 greedy eval: tool-name accuracy 0.50 → 1.00, full-call exact match **0.50 → 0.917 (11/12)** | [Code](https://github.com/GruheshKurra/AL1-model-B) · [HF](https://huggingface.co/karthik-2905/AL1-model-B) |
 | MANCE | Nested character embeddings for morphology: +58.3 pp on morphological-variant sentiment (91.67% vs 33.33% Word2Vec); 99.0% DBpedia, 93.5% AG News, 81.3% F1 on GermEval NER | [Code](https://github.com/GruheshKurra/MANCE-NLP) · [IEEE](https://ieeexplore.ieee.org/document/11580466) |
-| Dual-Stream Deepfake Detection | Two orthogonal evidence branches (Sobel boundary + FFT artifact) with iterative cross-attention refinement: 96.3% AUC video-disjoint, 87.1% on Celeb-DF alone; 227k frames, code, corpus and leakage audit all public | [Code + data](https://github.com/GruheshKurra/radar_deepfake) · [Kaggle](https://www.kaggle.com/datasets/gruheshkurra/radar-deepfake-frames) |
-| DeepGuard | On-device iOS deepfake detector: EfficientNet-B1 compressed to a 26 MB Core ML model, &lt;500 ms inference, 98.62% on 25k images | [Code](https://github.com/GruheshKurra/Deepguard) · [Demo](https://www.youtube.com/watch?v=4MmHJNjLRy4) |
-| BIE | Bit-index encoding for neural weight compression: 40× at 95% sparsity, MSE &lt; 10⁻⁶ | [Code](https://github.com/GruheshKurra/bit-index-encoding-research-) · [Zenodo](https://zenodo.org/records/17217218) |
-| OrbitOps | Reliability layer for satellite onboard AI: pre-launch fault injection, in-orbit known-answer monitoring, rollback. Won Global Challenge Lab 2026 | [Demo code](https://github.com/GruheshKurra/OrbitOps-Demo) |
-| Hybrid RAG Deepfake | Privacy-first detector: retrieval plus visual anomaly scoring; 94.8% accuracy / 94.6% F1 | [Zenodo](https://zenodo.org/records/16732053) |
-| GPT-2 / Transformers | GPT-2 (124M) and *Attention Is All You Need* rebuilt from scratch, with BLEU benchmarks | [GPT-2](https://github.com/GruheshKurra/FirstGPTFromScratch) · [Transformers](https://github.com/GruheshKurra/TransformersFromScratch) |
+| Dual-Stream Deepfake Detection | Two orthogonal evidence branches (Sobel boundary + multi-band FFT) with iterative cross-attention refinement; trained on **227,504** frames from FaceForensics++, Celeb-DF v2, and WildDeepfake. 96.3% AUC video-disjoint, 87.1% on Celeb-DF alone; code, corpus, audit script and checkpoint all public | [Code + data](https://github.com/GruheshKurra/radar_deepfake) · [Kaggle](https://www.kaggle.com/datasets/gruheshkurra/radar-deepfake-frames) |
+| DeepGuard | On-device iOS deepfake detector: EfficientNet-B1 trained on 25k images to 98.62% in 55 minutes on an Apple M4, converted to a 26 MB Core ML model, under 500 ms per image. Trained and converted; not a shipped product | [Code](https://github.com/GruheshKurra/Deepguard) · [Demo](https://www.youtube.com/watch?v=4MmHJNjLRy4) |
+| BIE | Bit-index encoding for neural weight compression: up to 40× at reconstruction MSE below 10⁻⁶; Numba JIT sparse matmul, strongest against baselines at sparsity above 70% | [Code](https://github.com/GruheshKurra/bit-index-encoding-research-) · [Zenodo](https://zenodo.org/records/17217218) |
+| OrbitOps | Vendor-neutral reliability layer for satellite onboard AI: pre-launch radiation-style fault injection, in-orbit known-answer probes (silent degradation), rollback to a clean copy. Won Global Challenge Lab 2026 with Team Corio | — |
+| Hybrid RAG Deepfake | Privacy-first detector: RAG over CLIP embeddings with FAISS, visual inconsistency analysis, and an uncertainty-aware classifier, processed locally; 94.8% accuracy / 94.6% F1 | [Zenodo](https://zenodo.org/records/16732053) |
+| GPT-2 / Transformers | GPT-2 (124M) in PyTorch with a BPE tokeniser and full training loop, trained locally (blog post 13 is the walkthrough); encoder-decoder Transformer of *Attention Is All You Need* replicated with BLEU benchmarks | [GPT-2](https://github.com/GruheshKurra/FirstGPTFromScratch) · [Transformers](https://github.com/GruheshKurra/TransformersFromScratch) |
 | NL2SQL | Natural language → SQL with attention; perplexity 1.42 | [Code](https://github.com/GruheshKurra/nl2sql-pretrained) |
-| Clinical Trial Similarity | PubMedBERT + FAISS retrieval over trial records: 99.5% similarity accuracy | [Code](https://github.com/GruheshKurra/Clinical-Trial-Similarity-Analysis) |
-| Zynthetix SWE Agent | Agent that reads GitHub issues and opens PRs via GitHub Actions only (no always-on server) | [Code](https://github.com/GruheshKurra/Zynthetix-SWE-Agent) |
+| Clinical Trial Similarity | PubMedBERT + FAISS retrieval over trial records: 99.5% similarity accuracy (self-reported) | [Code](https://github.com/GruheshKurra/Clinical-Trial-Similarity-Analysis) |
+| LLaMA-style training recipe | LLaMA-style decoder (RMSNorm, RoPE, SwiGLU) with a training recipe in PyTorch | [Code](https://github.com/GruheshKurra/LLamaModel) |
+
+**Also:** [AI Voice Assistant for Windows](https://github.com/GruheshKurra/AI-Voice-Assistant-for-Windows) · [WSO2 on Kubernetes](https://github.com/GruheshKurra/WSO2-Kubernetes-Support) · [FarmCare](https://github.com/GruheshKurra/Farmcare) · [healthcareAI](https://github.com/GruheshKurra/healthcareAI) · [NLP / LLM study path](https://github.com/GruheshKurra/awesome-ai-roadmaps)
 
 <details>
-<summary>From-scratch collection: 25+ algorithms rebuilt from the math, no library wrappers</summary>
+<summary>From-scratch collection: algorithms rebuilt from the math, no library wrappers</summary>
 
 **Deep learning and generative models**
 
@@ -94,24 +98,34 @@ IEEE ICCCMLA 2025 (MANCE: morphology-aware embeddings), plus open work on Zenodo
 
 ORCID [0009-0002-0558-2882](https://orcid.org/0009-0002-0558-2882)
 
-**Published**
+**Accepted**
 
 | Paper | Venue | Year |
 |:---|:---|:---|
-| [Morphology-Aware Nested Character Embeddings for Word Representation](https://ieeexplore.ieee.org/document/11580466) | IEEE ICCCMLA | 2025 |
-| [BIE: Bit-Index Encoding for Neural Network Weight Compression](https://zenodo.org/records/17217218) | Zenodo | 2025 |
-| [Hybrid RAG-Enhanced Deepfake Detection](https://zenodo.org/records/16732053) | Zenodo | 2024 |
-| Dynamic Auto-Finetuning of Language Models Based on Confidence-Driven Knowledge Integration | IJNRD | 2024 |
-| Global Remote RAM Sharing: A Novel Framework for Distributed Computational Systems | IJNRD | 2024 |
-| Voice-Activated AI for Seamless Computer Interaction | IJNRD | 2025 |
+| [Morphology-Aware Nested Character Embeddings for Word Representation (MANCE)](https://ieeexplore.ieee.org/document/11580466)<br/><sub>Gruhesh Sri Sai Karthik Kurra, Chandanasree Moparthi, Prathipati Manish Chowdary, Pavan Kumar Pagadala</sub> | IEEE ICCCMLA | 2025 |
 
-**Under review and working papers** (none of these are accepted or published)
+**Under review** (none of these are accepted or published)
 
 | Paper | Status | Year |
 |:---|:---|:---|
-| Prism Tuning: Repulsion-Trained Seed Embeddings in a Frozen Transformer for Non-Redundant Generation | Under review, IEEE NEPCON 2026. Architecture and formulation paper; no empirical results claimed | 2026 |
-| [Dual-Stream Artifact Detection with Iterative Evidence Refinement for Frame-Level Deepfake Recognition](https://github.com/GruheshKurra/radar_deepfake) | Under review, IEEE NEPCON 2026. Code, 227k-frame corpus and leakage self-audit released | 2026 |
-| RADAR: Reasoning-Augmented Deepfake Artifact Recognition via Multi-Branch Evidence Aggregation | Preprint: design paper, no measured results | 2026 |
+| Prism Tuning: Repulsion-Trained Seed Embeddings in a Frozen Transformer for Non-Redundant Generation<br/><sub>Gruhesh Sri Sai Karthik Kurra, Pavan Kumar Pagadala, Malathy Batumalay, Sushma Reddy Koduru</sub> | Under review, IEEE NEPCON 2026. Architecture and formulation paper; no empirical results claimed | 2026 |
+| [Dual-Stream Artifact Detection with Iterative Evidence Refinement for Frame-Level Deepfake Recognition](https://github.com/GruheshKurra/radar_deepfake)<br/><sub>Gruhesh Sri Sai Karthik Kurra, Pavan Kumar Pagadala, Malathy Batumalay, Veda Boddapati</sub> | Under review, IEEE NEPCON 2026. Code, 227,504-frame corpus and leakage self-audit released | 2026 |
+
+**Preprints** (open research with DOI, not peer-reviewed)
+
+| Paper | Venue | Year |
+|:---|:---|:---|
+| [BIE: Bit-Index Encoding for Efficient Neural Network Weight Compression](https://zenodo.org/records/17217218)<br/><sub>Gruhesh Sri Sai Karthik Kurra</sub> | Zenodo · DOI 10.5281/zenodo.17217218 | 2025 |
+| [Hybrid RAG-Enhanced Deepfake Detection: Combining Retrieval-Augmented Generation with Visual Inconsistency Analysis](https://zenodo.org/records/16732053)<br/><sub>Gruhesh Sri Sai Karthik Kurra</sub> | Zenodo | 2024 |
+| RADAR: Reasoning-Augmented Deepfake Artifact Recognition via Multi-Branch Evidence Aggregation<br/><sub>Gruhesh Sri Sai Karthik Kurra</sub> | Preprint: three branches (skin texture, boundary aliasing, AI-generation fingerprints) into an iterative cross-attention module (R-Former). Architecture and evaluation protocol only; empirical results are in the Dual-Stream companion | 2026 |
+
+**Journal articles (IJNRD)** — titles unlinked
+
+| Paper | Venue | Year |
+|:---|:---|:---|
+| Voice-Activated AI for Seamless Computer Interaction | IJNRD | Jan 2025 |
+| Global Remote RAM Sharing: A Novel Framework for Distributed Computational Systems | IJNRD | Dec 2024 |
+| Dynamic Auto-Finetuning of Language Models Based on Confidence-Driven Knowledge Integration | IJNRD | Nov 2024 |
 
 ---
 
@@ -121,7 +135,7 @@ I write at [blogs.gruheshkurra.com](https://blogs.gruheshkurra.com): AI and mach
 
 ### AI from Scratch: the full series
 
-Linear algebra through a working GPT-2, in order. Every post has the derivation, real numbers from the actual config, and code that runs.
+Linear algebra through a working GPT-2, in order. Every post has the derivation, real numbers from the actual config, and code that runs. Covers reverse-mode autograd and gradient checking, byte-pair encoding, embeddings and positional encoding, cross-entropy and AdamW, attention and a full Transformer forward and backward pass by hand, GPT-2 (124M) in PyTorch, DeepSeek V4 long-context engineering, and the 3.87M-parameter NumPy chat model above.
 
 | # | Post | Topic |
 |:--|:---|:---|
@@ -149,34 +163,45 @@ Linear algebra through a working GPT-2, in order. Every post has the derivation,
 
 ---
 
-## Experience
+## Research experience
+
+<table>
+<tr>
+<td width="44"><img src="assets/org-logos/iiith.png" width="40" height="40" alt="IIIT Hyderabad"></td>
+<td><b>Research Intern</b> · IIIT Hyderabad · Dec 2024 – Jun 2025<br/>Layout-preserving document translation: ViT layout detection at 92%, character-metric font detection, K-means colour palettes at 88%. FastAPI + Tesseract OCR for English, Hindi, Telugu, and German, keeping source fonts, colours, and page structure. Live demo at the IIIT Hyderabad research expo (May 2025). <a href="https://youtu.be/rcvSuBcBjyg">Demo</a></td>
+</tr>
+<tr>
+<td><img src="assets/org-logos/ihub.png" width="40" height="40" alt="iHub-Data"></td>
+<td><b>AI &amp; ML Research Trainee</b> · iHub-Data, IIIT Hyderabad · May – Oct 2024<br/>Six-month faculty-mentored programme: architecture design, LLM fundamentals, prompting, fine-tuning, quantisation, and deployment. OCR and document-vision methods later reused in the layout-translation project.</td>
+</tr>
+</table>
+
+---
+
+## Industry experience
 
 <table>
 <tr>
 <td width="44"><img src="assets/org-logos/infoajax.png" width="40" height="40" alt="InfoAjax"></td>
-<td><b>AI Integration Engineer</b> · InfoAjax Consulting · Oct – Nov 2025<br/>Azure OpenAI agents for schema mapping; React + FastAPI live monitoring; Azure AD via Microsoft Graph.</td>
+<td><b>AI Integration Engineer</b> · InfoAjax Consulting · Oct – Nov 2025<br/>Integration layer between enterprise apps and cybersecurity services; Azure OpenAI agents for schema mapping; Android and Apple enterprise apps to Azure; Azure-to-Salesforce proofs of concept; React 18 + FastAPI + WebSocket live monitoring; Azure AD via Microsoft Graph. Prototyped a screenshot-driven click/type agent (POC only; not reliable in real time).</td>
 </tr>
 <tr>
 <td><img src="assets/org-logos/wso2.png" width="40" height="40" alt="WSO2"></td>
-<td><b>WSO2 API Developer</b> · InfoAjax Consulting · Oct 2024 – Jun 2025<br/>Production REST APIs for PLDT (Philippines telecom); GitLab vault secrets; Choreo hosting under SLA.</td>
-</tr>
-<tr>
-<td><img src="assets/org-logos/iiith.png" width="40" height="40" alt="IIIT Hyderabad"></td>
-<td><b>Research Intern</b> · IIIT Hyderabad · Dec 2024 – Jun 2025<br/>Layout-preserving document translation: ViT layout detection at 92%, multi-language OCR; research expo demos.</td>
-</tr>
-<tr>
-<td><img src="assets/org-logos/ihub.png" width="40" height="40" alt="iHub-Data"></td>
-<td><b>AI &amp; ML Research Trainee</b> · iHub-Data, IIIT Hyderabad · May – Oct 2024<br/>Six-month research apprenticeship: LLM fundamentals, fine-tuning, quantisation, deployment.</td>
+<td><b>WSO2 API Developer</b> · InfoAjax Consulting · Oct 2024 – Jun 2025<br/>Production REST ticketing APIs for PLDT (Philippines telecom) in WSO2 Integration Studio; GitLab vault secrets; Choreo hosting under SLA.</td>
 </tr>
 <tr>
 <td><img src="assets/org-logos/zynthetix.png" width="40" height="40" alt="Zynthetix"></td>
-<td><b>Founder &amp; CEO</b> · Zynthetix · Mar 2024 – Jan 2025<br/>Synthetic data platform (GANs, VAEs) with hierarchical generators and transformer-based PII detection; led a 3-person team.</td>
-</tr>
-<tr>
-<td><img src="assets/org-logos/xtraleap.jpg" width="40" height="40" alt="Xtraleap"></td>
-<td><b>Data Science Intern</b> · Xtraleap India · Jul – Oct 2023<br/>ML pipelines: EDA, feature engineering, model evaluation with pandas, NumPy and scikit-learn.</td>
+<td><b>Founder &amp; CEO</b> · Zynthetix · Mar 2024 – Jan 2025<br/>Designed a privacy-preserving synthetic-data architecture: a parent model coordinates hundreds of specialised child models to generate tabular, image, and text data without duplication. The same non-redundancy idea became Prism Tuning.</td>
 </tr>
 </table>
+
+---
+
+## Leadership
+
+**Technical Lead** · Student Activity Council, KL University · 2023–2025 · SAC Momentum Award
+
+Mentored 20+ juniors in web development and ML; ran technical workshops for 100+ students; coordinated 15+ technical events.
 
 ---
 
@@ -184,11 +209,13 @@ Linear algebra through a working GPT-2, in order. Every post has the derivation,
 
 | Area | Tools |
 |:---|:---|
-| Primary | Python · PyTorch · Hugging Face Transformers · NumPy · FastAPI · Docker · Git · Azure OpenAI |
-| Research focus | LLMs · transformers and attention · generative models (GANs, VAEs, DDPM) · GNNs · model compression (quantisation, pruning, bit-index encoding) · RAG · on-device inference and Core ML · synthetic data |
-| Also use | TensorFlow · LangChain · LlamaIndex · scikit-learn · React · Next.js · TypeScript · React Native · Swift · TailwindCSS |
-| Cloud and data | AWS (EC2, S3, Lambda) · Azure (AD, OpenAI, Graph) · GCP · WSO2 · CI/CD · PostgreSQL · MongoDB · Supabase · Redis |
-| Languages | Python · TypeScript / JavaScript · Java · C · C++ · SQL · R · Swift |
+| Primary | Python · PyTorch · NumPy (own autograd) · Hugging Face Transformers · TRL · PEFT / LoRA · FastAPI · Docker · Git |
+| Research focus | LLMs · GQA, RoPE, SwiGLU, RMSNorm, KV-cache · byte-level BPE · tool-calling SFT · generative models (GANs, VAEs, DDPM) · GNNs · RAG · model compression (LoRA, quantisation, pruning, BIE) · on-device Core ML |
+| Vision and documents | EfficientNet · Vision Transformers · CLIP · OpenCV · Tesseract OCR · deepfake / artifact detection (Sobel / FFT) · layout, font and colour-palette extraction |
+| Also use | TensorFlow · Keras · LangChain · LlamaIndex · scikit-learn · pandas · React 18 · Next.js · TypeScript · Swift / SwiftUI · React Native · TailwindCSS |
+| Cloud and data | AWS (EC2, S3, Lambda) · Azure (AD, OpenAI, Graph) · GCP · OCI · RunPod · WSO2 · Kubernetes · CI/CD · PostgreSQL · MySQL · MongoDB · Redis · FAISS · Supabase |
+| Integration | WSO2 Integration Studio · Micro Integrator · Choreo · Microsoft Graph · Salesforce · Automation Anywhere |
+| Languages | Python · TypeScript / JavaScript · Java · C · C++ · SQL · Swift · Shell · R |
 
 ---
 
@@ -198,7 +225,7 @@ MSc Computing (Artificial Intelligence and Machine Learning), Imperial College L
 
 B.Tech, Computer Science and Engineering, KL University, Hyderabad · Aug 2021 – May 2025 · CGPA 9.72 / 10
 
-IELTS Academic 7.5 · Cambridge C1 Advanced
+IELTS Academic overall 7.5 (CEFR C1)
 
 ---
 
@@ -251,17 +278,21 @@ IELTS Academic 7.5 · Cambridge C1 Advanced
 
 ## Awards
 
-**1st Place, Global Challenge Lab 2026, Imperial College London** · July 2026
+**1st Place, Global Challenge Lab 2026, Imperial College London** · July 2026 · £1,500 team prize
 
-Imperial Enterprise Lab and Futurize's global innovation sprint: 1,000+ students from partner universities worldwide, 14 days, four tracks, one Demo Day. Won with OrbitOps, a vendor-neutral reliability layer for satellite onboard AI:
+Imperial Enterprise Lab and Futurize's global innovation sprint: 1,000+ students from partner universities worldwide, 14 days, four tracks, one Demo Day. Team Corio (five people: AI/ML ×2, aerospace, physics and mechanical, finance) won with OrbitOps, a vendor-neutral reliability layer for satellite onboard AI:
 
 - Inject radiation-style faults before launch and measure what actually breaks
 - Watch the model in orbit with known-answer probes (catches silent degradation that never crashes and never lowers confidence)
 - Roll back to a clean copy the moment it breaks
 
-Five people, five disciplines: AI/ML ×2, aerospace, physics and mechanical, finance. I led the AI/ML work and technical strategy.
+I led the AI/ML work and technical strategy.
 
-Earlier: 1st Place, University Webathon (2022) · 2nd Place, Design Expo (2022–23) · Technical Lead, Student Activity Council, KL University (2023–25), SAC Momentum Award.
+**1st Place, University Webathon**, KL University (2022): diet-management platform with personalised meal planning, calorie tracking, and nutritional recommendations, built in a 4-hour hackathon against 50+ teams.
+
+**2nd Place, Design Expo**, KL University (2022–23): Arduino smart switchboard for IoT home automation with real-time energy monitoring and mobile-app control.
+
+**SAC Momentum Award**, Student Activity Council, KL University (2023–25). See [Leadership](#leadership).
 
 ---
 
@@ -292,7 +323,7 @@ Earlier: 1st Place, University Webathon (2022) · 2nd Place, Design Expo (2022�
 
 [gruheshkurra2@gmail.com](mailto:gruheshkurra2@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gruheshkurra/) · [gruheshkurra.com](https://gruheshkurra.com)
 
-Open to remote AI/ML research roles and to collaboration on transformer research, neural compression, on-device AI and agentic systems.
+Open to research engineering internships in model training, evaluation, or efficient inference, and to collaboration on transformer research, LLM development, on-device AI, vision-language models, neural compression, and agentic systems.
 
 | Where | Link |
 |:---|:---|
