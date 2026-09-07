@@ -1,37 +1,91 @@
-# Gruhesh Sri Sai Karthik Kurra
+<p align="center">
+  <img src="assets/profile-header.svg" width="100%" alt="Karthik Kurra. Machine learning, from the maths up. Model training, evaluation, and efficient inference.">
+</p>
 
-Incoming MSc Computing (AI & ML), Imperial College London. First author of an accepted IEEE ICCCMLA 2025 paper on morphology-aware embeddings, and of a 3.9M-parameter language model in pure NumPy with its own autograd.
+<h1 align="center">Gruhesh Sri Sai Karthik Kurra</h1>
 
-Seeking a research engineering internship in model training, evaluation, or efficient inference.
+<p align="center">
+  Incoming MSc Computing (AI &amp; ML), Imperial College London<br/>
+  First-author research · Language models from scratch · On-device ML
+</p>
 
-London, UK (from Sep 2026)
+<p align="center">
+  <a href="https://gruheshkurra.com">Portfolio</a> &nbsp; / &nbsp;
+  <a href="https://blogs.gruheshkurra.com">Writing</a> &nbsp; / &nbsp;
+  <a href="https://huggingface.co/karthik-2905">Hugging Face</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/gruheshkurra/">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="mailto:gruheshkurra2@gmail.com">Email</a>
+</p>
 
-[Portfolio](https://gruheshkurra.com) · [Blog](https://blogs.gruheshkurra.com) · [LinkedIn](https://www.linkedin.com/in/gruheshkurra/) · [Hugging Face](https://huggingface.co/karthik-2905) · [Kaggle](https://www.kaggle.com/gruheshkurra) · [ORCID](https://orcid.org/0009-0002-0558-2882) · [X](https://x.com/Karthik__kurra) · [Email](mailto:gruheshkurra2@gmail.com)
-
-[About](#about) · [Now](#now) · [Selected work](#selected-work) · [Research](#research) · [Writing](#writing) · [Research experience](#research-experience) · [Industry](#industry-experience) · [Leadership](#leadership) · [Stack](#stack) · [Education](#education) · [Certifications](#certifications) · [Awards](#awards) · [Contact](#contact)
-
----
-
-## About
-
-I build machine learning systems from the maths up: transformers, diffusion and attention re-implemented from the equations, then converted for on-device inference. Work spans model training and evaluation, neural weight compression, deepfake forensics and synthetic-data architecture.
-
-IEEE ICCCMLA 2025 (MANCE: morphology-aware embeddings), a 3,869,184-parameter NumPy language model with custom autograd, plus open work on Zenodo and IJNRD, and 2 papers under review at IEEE NEPCON 2026. B.Tech CSE, KL University, CGPA 9.72/10 (2021–2025). AWS, TensorFlow, Oracle, Red Hat and WSO2 certified.
-
----
-
-## Now
-
-| | |
-|:---|:---|
-| Sep 2026 | MSc Computing (AI & ML), Imperial College London *(incoming)* |
-| Writing | *AI from Scratch*: 15-post series, linear algebra through a working GPT-2 |
-| Under review | Two papers at IEEE NEPCON 2026: Prism Tuning · Dual-Stream |
-| Open to | Research engineering internships in model training, evaluation, or efficient inference; collaboration on transformers, compression and on-device inference |
+<p align="center"><sub><a href="#selected-work">Selected work</a> &nbsp; · &nbsp; <a href="#research">Research</a> &nbsp; · &nbsp; <a href="#writing">Writing</a> &nbsp; · &nbsp; <a href="#background">Background</a> &nbsp; · &nbsp; <a href="#contact">Contact</a></sub></p>
 
 ---
+
+I build machine learning systems from the maths up: derive the equations, implement the model, then train, evaluate, and work towards on-device inference. My work spans language models, neural weight compression, and deepfake detection.
+
+I’m seeking a research engineering internship in model training, evaluation, or efficient inference. I’m due to start at Imperial in September 2026.
 
 ## Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <sub>01 / LANGUAGE MODELLING</sub>
+  <h3><a href="https://github.com/GruheshKurra/core-language-model">A language model in pure NumPy</a></h3>
+  <p>3.87M parameters. My own autograd engine.</p>
+  <p>A decoder-only model with RoPE, grouped-query attention, SwiGLU, and a KV-cache. Pretrained on DailyDialog, then fine-tuned on EmpatheticDialogues.</p>
+  <p><sub>78 unit tests across 12 files.</sub></p>
+  <p><a href="https://github.com/GruheshKurra/core-language-model">Code</a> &nbsp; · &nbsp; <a href="https://huggingface.co/karthik-2905/model-a-scratch">Model</a></p>
+</td>
+<td width="50%" valign="top">
+  <sub>02 / POST-TRAINING</sub>
+  <h3><a href="https://github.com/GruheshKurra/AL1-model-B">Teaching Qwen3 to call tools</a></h3>
+  <p>Qwen3-0.6B · LoRA · Five tools</p>
+  <p>Supervised fine-tuning on 1,423 tool and chat examples, with assistant-only loss and Hermes-format tool calls.</p>
+  <p><sub>Full-call exact match: 6/12 → 11/12 on a small, greedy evaluation.</sub></p>
+  <p><a href="https://github.com/GruheshKurra/AL1-model-B">Code</a> &nbsp; · &nbsp; <a href="https://huggingface.co/karthik-2905/AL1-model-B">Model</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <sub>03 / NLP RESEARCH</sub>
+  <h3><a href="https://github.com/GruheshKurra/MANCE-NLP">Morphology-aware embeddings</a></h3>
+  <p>MANCE · IEEE ICCCMLA 2025, accepted</p>
+  <p>Nested character embeddings for word representation. Evaluated on text classification, morphological variants, and named-entity recognition.</p>
+  <p><sub>First-author paper.</sub></p>
+  <p><a href="https://github.com/GruheshKurra/MANCE-NLP">Code</a> &nbsp; · &nbsp; <a href="https://ieeexplore.ieee.org/document/11580466">Paper</a></p>
+</td>
+<td width="50%" valign="top">
+  <sub>04 / DEEPFAKE FORENSICS</sub>
+  <h3><a href="https://github.com/GruheshKurra/radar_deepfake">Two streams of visual evidence</a></h3>
+  <p>227,504 frames · Public code and data</p>
+  <p>Sobel boundaries and multi-band FFT features, combined through iterative cross-attention. Includes a checkpoint and leakage self-audit.</p>
+  <p><sub>96.3% AUC on a video-disjoint split; 87.1% on Celeb-DF alone.</sub></p>
+  <p><a href="https://github.com/GruheshKurra/radar_deepfake">Code</a> &nbsp; · &nbsp; <a href="https://www.kaggle.com/datasets/gruheshkurra/radar-deepfake-frames">Dataset</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <sub>05 / ON-DEVICE ML</sub>
+  <h3><a href="https://github.com/GruheshKurra/Deepguard">DeepGuard for iOS</a></h3>
+  <p>26 MB Core ML model</p>
+  <p>An EfficientNet-B1 deepfake detector trained on an Apple M4 and converted for local inference on iOS.</p>
+  <p><sub>Under 500 ms per image. Trained and converted; not a shipped product.</sub></p>
+  <p><a href="https://github.com/GruheshKurra/Deepguard">Code</a> &nbsp; · &nbsp; <a href="https://www.youtube.com/watch?v=4MmHJNjLRy4">Demo</a></p>
+</td>
+<td width="50%" valign="top">
+  <sub>06 / MODEL COMPRESSION</sub>
+  <h3><a href="https://github.com/GruheshKurra/bit-index-encoding-research-">Bit-index encoding</a></h3>
+  <p>BIE · Neural weight compression</p>
+  <p>Bit-index encoding with Numba JIT sparse matrix multiplication. Strongest against baselines above 70% sparsity.</p>
+  <p><sub>Up to 40× compression at reconstruction MSE below 10⁻⁶. Preprint.</sub></p>
+  <p><a href="https://github.com/GruheshKurra/bit-index-encoding-research-">Code</a> &nbsp; · &nbsp; <a href="https://zenodo.org/records/17217218">Preprint</a></p>
+</td>
+</tr>
+</table>
+
+<details>
+<summary>Project catalogue and technical details</summary>
 
 | Project | What it is | Links |
 |:---|:---|:---|
@@ -41,7 +95,7 @@ IEEE ICCCMLA 2025 (MANCE: morphology-aware embeddings), a 3,869,184-parameter Nu
 | Dual-Stream Deepfake Detection | Two orthogonal evidence branches (Sobel boundary + multi-band FFT) with iterative cross-attention refinement; trained on **227,504** frames from FaceForensics++, Celeb-DF v2, and WildDeepfake. 96.3% AUC video-disjoint, 87.1% on Celeb-DF alone; code, corpus, audit script and checkpoint all public | [Code + data](https://github.com/GruheshKurra/radar_deepfake) · [Kaggle](https://www.kaggle.com/datasets/gruheshkurra/radar-deepfake-frames) |
 | DeepGuard | On-device iOS deepfake detector: EfficientNet-B1 trained on 25k images to 98.62% in 55 minutes on an Apple M4, converted to a 26 MB Core ML model, under 500 ms per image. Trained and converted; not a shipped product | [Code](https://github.com/GruheshKurra/Deepguard) · [Demo](https://www.youtube.com/watch?v=4MmHJNjLRy4) |
 | BIE | Bit-index encoding for neural weight compression: up to 40× at reconstruction MSE below 10⁻⁶; Numba JIT sparse matmul, strongest against baselines at sparsity above 70% | [Code](https://github.com/GruheshKurra/bit-index-encoding-research-) · [Zenodo](https://zenodo.org/records/17217218) |
-| OrbitOps | Vendor-neutral reliability layer for satellite onboard AI: pre-launch radiation-style fault injection, in-orbit known-answer probes (silent degradation), rollback to a clean copy. Won Global Challenge Lab 2026 with Team Corio | — |
+| OrbitOps | Vendor-neutral reliability layer for satellite onboard AI: pre-launch radiation-style fault injection, in-orbit known-answer probes (silent degradation), rollback to a clean copy. Won Global Challenge Lab 2026 with Team Corio | No public repository |
 | Hybrid RAG Deepfake | Privacy-first detector: RAG over CLIP embeddings with FAISS, visual inconsistency analysis, and an uncertainty-aware classifier, processed locally; 94.8% accuracy / 94.6% F1 | [Zenodo](https://zenodo.org/records/16732053) |
 | GPT-2 / Transformers | GPT-2 (124M) in PyTorch with a BPE tokeniser and full training loop, trained locally (blog post 13 is the walkthrough); encoder-decoder Transformer of *Attention Is All You Need* replicated with BLEU benchmarks | [GPT-2](https://github.com/GruheshKurra/FirstGPTFromScratch) · [Transformers](https://github.com/GruheshKurra/TransformersFromScratch) |
 | NL2SQL | Natural language → SQL with attention; perplexity 1.42 | [Code](https://github.com/GruheshKurra/nl2sql-pretrained) |
@@ -49,6 +103,8 @@ IEEE ICCCMLA 2025 (MANCE: morphology-aware embeddings), a 3,869,184-parameter Nu
 | LLaMA-style training recipe | LLaMA-style decoder (RMSNorm, RoPE, SwiGLU) with a training recipe in PyTorch | [Code](https://github.com/GruheshKurra/LLamaModel) |
 
 **Also:** [AI Voice Assistant for Windows](https://github.com/GruheshKurra/AI-Voice-Assistant-for-Windows) · [WSO2 on Kubernetes](https://github.com/GruheshKurra/WSO2-Kubernetes-Support) · [FarmCare](https://github.com/GruheshKurra/Farmcare) · [healthcareAI](https://github.com/GruheshKurra/healthcareAI) · [NLP / LLM study path](https://github.com/GruheshKurra/awesome-ai-roadmaps)
+
+</details>
 
 <details>
 <summary>From-scratch collection: algorithms rebuilt from the math, no library wrappers</summary>
@@ -92,9 +148,16 @@ IEEE ICCCMLA 2025 (MANCE: morphology-aware embeddings), a 3,869,184-parameter Nu
 
 </details>
 
----
-
 ## Research
+
+My research covers morphology-aware word representations, neural weight compression, and deepfake forensics.
+
+- [MANCE](https://ieeexplore.ieee.org/document/11580466): first-author paper accepted at IEEE ICCCMLA 2025.
+- Prism Tuning and [Dual-Stream](https://github.com/GruheshKurra/radar_deepfake): submitted to IEEE NEPCON 2026; under review as recorded in September 2026.
+- [BIE](https://zenodo.org/records/17217218) and [Hybrid RAG Deepfake Detection](https://zenodo.org/records/16732053): open preprints, not peer-reviewed.
+
+<details>
+<summary>Publication record, co-authors, and research scope</summary>
 
 ORCID [0009-0002-0558-2882](https://orcid.org/0009-0002-0558-2882)
 
@@ -119,7 +182,7 @@ ORCID [0009-0002-0558-2882](https://orcid.org/0009-0002-0558-2882)
 | [Hybrid RAG-Enhanced Deepfake Detection: Combining Retrieval-Augmented Generation with Visual Inconsistency Analysis](https://zenodo.org/records/16732053)<br/><sub>Gruhesh Sri Sai Karthik Kurra</sub> | Zenodo | 2024 |
 | RADAR: Reasoning-Augmented Deepfake Artifact Recognition via Multi-Branch Evidence Aggregation<br/><sub>Gruhesh Sri Sai Karthik Kurra</sub> | Preprint: three branches (skin texture, boundary aliasing, AI-generation fingerprints) into an iterative cross-attention module (R-Former). Architecture and evaluation protocol only; empirical results are in the Dual-Stream companion | 2026 |
 
-**Journal articles (IJNRD)** — titles unlinked
+**Journal articles (IJNRD)**
 
 | Paper | Venue | Year |
 |:---|:---|:---|
@@ -127,15 +190,19 @@ ORCID [0009-0002-0558-2882](https://orcid.org/0009-0002-0558-2882)
 | Global Remote RAM Sharing: A Novel Framework for Distributed Computational Systems | IJNRD | Dec 2024 |
 | Dynamic Auto-Finetuning of Language Models Based on Confidence-Driven Knowledge Integration | IJNRD | Nov 2024 |
 
----
+</details>
 
 ## Writing
 
-I write at [blogs.gruheshkurra.com](https://blogs.gruheshkurra.com): AI and machine learning from the maths up. Derive the equations by hand, work a numeric example, then implement it. No wrappers, no hand-waving.
+I write [AI from Scratch](https://blogs.gruheshkurra.com/series/ai/): 15 posts from linear algebra to a working GPT-2 and a NumPy language model. Derive the equations by hand, work a numeric example, then implement it.
 
-### AI from Scratch: the full series
+| Start with the maths | Build the machinery | Train a language model |
+|:---|:---|:---|
+| [Visual linear algebra](https://blogs.gruheshkurra.com/blog/essence-of-linear-algebra/) | [Build an autograd engine](https://blogs.gruheshkurra.com/blog/build-autograd-from-scratch/) | [GPT-2 in PyTorch](https://blogs.gruheshkurra.com/blog/build-gpt2-from-scratch/) |
+| [Attention, step by step](https://blogs.gruheshkurra.com/blog/attention-in-transformers-explained/) | [Build a BPE tokeniser](https://blogs.gruheshkurra.com/blog/byte-pair-encoding-from-scratch/) | [A mini LLM in NumPy](https://blogs.gruheshkurra.com/blog/build-mini-llm-numpy-from-scratch/) |
 
-Linear algebra through a working GPT-2, in order. Every post has the derivation, real numbers from the actual config, and code that runs. Covers reverse-mode autograd and gradient checking, byte-pair encoding, embeddings and positional encoding, cross-entropy and AdamW, attention and a full Transformer forward and backward pass by hand, GPT-2 (124M) in PyTorch, DeepSeek V4 long-context engineering, and the 3.87M-parameter NumPy chat model above.
+<details>
+<summary>Read the full 15-post series</summary>
 
 | # | Post | Topic |
 |:--|:---|:---|
@@ -157,13 +224,33 @@ Linear algebra through a working GPT-2, in order. Every post has the derivation,
 
 [All posts](https://blogs.gruheshkurra.com/ai-explanations/) · [Series](https://blogs.gruheshkurra.com/series/ai/) · [Topics](https://blogs.gruheshkurra.com/tags/) · [Library](https://blogs.gruheshkurra.com/library/) · [RSS](https://blogs.gruheshkurra.com/feed.xml)
 
-### Latest posts
+</details>
+
+<details>
+<summary>Latest posts · updated automatically</summary>
 
 <!-- BLOG-POST-LIST:START --><a href="https://blogs.gruheshkurra.com/blog/natural-language-inference-explained/">Natural Language Inference Explained: Entailment in NLP</a><br/><a href="https://blogs.gruheshkurra.com/blog/build-mini-llm-numpy-from-scratch/">Build a Mini LLM from Scratch in NumPy: RoPE, GQA, SwiGLU</a><br/><a href="https://blogs.gruheshkurra.com/blog/gpt-math-beyond-attention/">GPT Math Explained: The Full Forward Pass Beyond Attention</a><br/><a href="https://blogs.gruheshkurra.com/blog/adam-optimizer-explained/">Adam and AdamW Explained: How LLMs Update Their Weights</a><br/><a href="https://blogs.gruheshkurra.com/blog/cross-entropy-loss-explained/">Cross-Entropy Loss Explained: From Logits to LLM Training</a><br/><!-- BLOG-POST-LIST:END -->
 
----
+</details>
 
-## Research experience
+## Background
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <sub>EDUCATION</sub>
+  <h3>Imperial College London</h3>
+  <p>Incoming MSc Computing<br/>Artificial Intelligence and Machine Learning<br/><sub>September 2026 – September 2027</sub></p>
+  <p>B.Tech Computer Science and Engineering<br/>KL University, Hyderabad · 2021–2025<br/><sub>CGPA 9.72 / 10</sub></p>
+</td>
+<td width="50%" valign="top">
+  <sub>GLOBAL CHALLENGE LAB 2026</sub>
+  <h3>1st place with Team Corio</h3>
+  <p>I led AI/ML and technical strategy for OrbitOps, a reliability layer for satellite onboard AI.</p>
+  <p>Pre-launch fault injection, in-orbit probes, and rollback to a clean copy.<br/><sub>Imperial College London · £1,500 team prize</sub></p>
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
@@ -176,9 +263,8 @@ Linear algebra through a working GPT-2, in order. Every post has the derivation,
 </tr>
 </table>
 
----
-
-## Industry experience
+<details>
+<summary>Industry experience and leadership</summary>
 
 <table>
 <tr>
@@ -195,17 +281,73 @@ Linear algebra through a working GPT-2, in order. Every post has the derivation,
 </tr>
 </table>
 
----
-
-## Leadership
-
 **Technical Lead** · Student Activity Council, KL University · 2023–2025 · SAC Momentum Award
 
 Mentored 20+ juniors in web development and ML; ran technical workshops for 100+ students; coordinated 15+ technical events.
 
----
+</details>
 
-## Stack
+<details>
+<summary>Awards and qualifications</summary>
+
+**1st Place, Global Challenge Lab 2026, Imperial College London** · July 2026 · £1,500 team prize
+
+Imperial Enterprise Lab and Futurize's global innovation sprint: 1,000+ students from partner universities worldwide, 14 days, four tracks, one Demo Day. Team Corio (five people: AI/ML ×2, aerospace, physics and mechanical, finance) won with OrbitOps, a vendor-neutral reliability layer for satellite onboard AI:
+
+- Inject radiation-style faults before launch and measure what breaks
+- Watch the model in orbit with known-answer probes (catches silent degradation that never crashes and never lowers confidence)
+- Roll back to a clean copy the moment it breaks
+
+I led the AI/ML work and technical strategy.
+
+**1st Place, University Webathon**, KL University (2022): diet-management platform with personalised meal planning, calorie tracking, and nutritional recommendations, built in a 4-hour hackathon against 50+ teams.
+
+**2nd Place, Design Expo**, KL University (2022–23): Arduino smart switchboard for IoT home automation with real-time energy monitoring and mobile-app control.
+
+**SAC Momentum Award**, Student Activity Council, KL University (2023–25).
+
+IELTS Academic: 7.5 overall (CEFR C1).
+
+</details>
+
+<details>
+<summary>20 certificates · cloud, ML, integration, and community</summary>
+
+Each link opens the original certificate image. Dates below are the recorded award years.
+
+| Certificate | Issuer / year |
+|:---|:---|
+| [Global Challenge Lab 2026](certificates/global-challenge-lab-2026.jpg) | Imperial · 1st place · 2026 |
+| [TensorFlow Developer](certificates/tensorflow-developer.jpg) | Google · 2024 |
+| [Solutions Architect · Associate](certificates/aws-solutions-architect.jpg) | AWS · 2023 |
+| [Cloud Practitioner](certificates/aws-cloud-practitioner.jpg) | AWS · 2023 |
+| [OCI Architect Associate](certificates/oracle-architect.jpg) | Oracle · 2023 |
+| [OCI Generative AI Professional](certificates/oracle-genai.jpg) | Oracle · 2024 |
+| [Enterprise Application Developer](certificates/redhat-developer.jpg) | Red Hat · 2024 |
+| [Micro Integrator Developer V4](certificates/wso2-mi-developer.jpg) | WSO2 · 2025 |
+| [Micro Integrator Practitioner V4](certificates/wso2-mi-practitioner.jpg) | WSO2 · 2025 |
+| [Oracle Database](certificates/oracle-database.jpg) | Oracle · 2023 |
+| [Advanced Automation Professional](certificates/automation-anywhere.jpg) | Automation Anywhere · 2024 |
+| [6-Month AI/ML Training](certificates/iiit-training.jpg) | IIIT Hyderabad · 2024 |
+| [Build LLMs From Scratch](certificates/visuara-llms.jpg) | Visuara · 2024 |
+| [MCP Unit 1](certificates/hf-mcp-unit1.jpg) | Hugging Face · 2024 |
+| [MCP Unit 3](certificates/hf-mcp-unit3.jpg) | Hugging Face · 2024 |
+| [Google GDG](certificates/google-gdg.jpg) | GDG · 2025 |
+| [Linear Algebra Master](certificates/udemy-linear-algebra.jpg) | Udemy · 2026 |
+| [Deep Learning with Python](certificates/udemy-deep-learning.jpg) | Udemy · 2026 |
+| [SAC Appreciation](certificates/sac-appreciation.jpg) | KL University · 2022–23 |
+| [Volunteer](certificates/streetcause.jpg) | Street Cause · 2023–24 |
+
+</details>
+
+## Toolkit
+
+`Python` `PyTorch` `NumPy` `Transformers` `TRL` `PEFT / LoRA` `FastAPI` `Docker` `Git`
+
+I use these across model training, evaluation, and inference. For vision and on-device work: OpenCV, Vision Transformers, CLIP, and Core ML.
+
+<details>
+<summary>Full stack by area</summary>
 
 | Area | Tools |
 |:---|:---|
@@ -217,86 +359,10 @@ Mentored 20+ juniors in web development and ML; ran technical workshops for 100+
 | Integration | WSO2 Integration Studio · Micro Integrator · Choreo · Microsoft Graph · Salesforce · Automation Anywhere |
 | Languages | Python · TypeScript / JavaScript · Java · C · C++ · SQL · Swift · Shell · R |
 
----
-
-## Education
-
-MSc Computing (Artificial Intelligence and Machine Learning), Imperial College London · Sep 2026 – Sep 2027 *(incoming)*
-
-B.Tech, Computer Science and Engineering, KL University, Hyderabad · Aug 2021 – May 2025 · CGPA 9.72 / 10
-
-IELTS Academic overall 7.5 (CEFR C1)
-
----
-
-## Certifications
-
-20 certificates. Click a card to open the full image.
-
-<table>
-  <tr>
-    <td align="center" valign="top" width="25%"><a href="certificates/global-challenge-lab-2026.jpg"><img src="certificates/global-challenge-lab-2026.jpg" width="160" alt="Global Challenge Lab 2026, 1st place"></a><br/>Global Challenge Lab 2026<br/><sub>Imperial · 1st place · 2026</sub></td>
-    <td align="center" valign="top" width="25%"><a href="certificates/tensorflow-developer.jpg"><img src="certificates/tensorflow-developer.jpg" width="160" alt="TensorFlow Developer Certificate"></a><br/>TensorFlow Developer<br/><sub>Google · 2024</sub></td>
-    <td align="center" valign="top" width="25%"><a href="certificates/aws-solutions-architect.jpg"><img src="certificates/aws-solutions-architect.jpg" width="160" alt="AWS Solutions Architect Associate"></a><br/>Solutions Architect – Associate<br/><sub>AWS · 2023</sub></td>
-    <td align="center" valign="top" width="25%"><a href="certificates/aws-cloud-practitioner.jpg"><img src="certificates/aws-cloud-practitioner.jpg" width="160" alt="AWS Cloud Practitioner"></a><br/>Cloud Practitioner<br/><sub>AWS · 2023</sub></td>
-  </tr>
-  <tr>
-    <td align="center" valign="top"><a href="certificates/oracle-architect.jpg"><img src="certificates/oracle-architect.jpg" width="160" alt="Oracle Cloud Infrastructure Architect Associate"></a><br/>OCI Architect Associate<br/><sub>Oracle · 2023</sub></td>
-    <td align="center" valign="top"><a href="certificates/oracle-genai.jpg"><img src="certificates/oracle-genai.jpg" width="160" alt="Oracle Generative AI Professional"></a><br/>OCI Generative AI Professional<br/><sub>Oracle · 2024</sub></td>
-    <td align="center" valign="top"><a href="certificates/redhat-developer.jpg"><img src="certificates/redhat-developer.jpg" width="160" alt="Red Hat Enterprise Application Developer"></a><br/>Enterprise Application Developer<br/><sub>Red Hat · 2024</sub></td>
-    <td align="center" valign="top"><a href="certificates/wso2-mi-developer.jpg"><img src="certificates/wso2-mi-developer.jpg" width="160" alt="WSO2 Micro Integrator Developer V4"></a><br/>Micro Integrator Developer V4<br/><sub>WSO2 · 2025</sub></td>
-  </tr>
-</table>
-
-<details>
-<summary>More certificates (12)</summary>
-
-<table>
-  <tr>
-    <td align="center" valign="top" width="25%"><a href="certificates/wso2-mi-practitioner.jpg"><img src="certificates/wso2-mi-practitioner.jpg" width="160" alt="WSO2 Micro Integrator Practitioner V4"></a><br/>Micro Integrator Practitioner V4<br/><sub>WSO2 · 2025</sub></td>
-    <td align="center" valign="top" width="25%"><a href="certificates/oracle-database.jpg"><img src="certificates/oracle-database.jpg" width="160" alt="Oracle Database Certificate"></a><br/>Oracle Database<br/><sub>Oracle · 2023</sub></td>
-    <td align="center" valign="top" width="25%"><a href="certificates/automation-anywhere.jpg"><img src="certificates/automation-anywhere.jpg" width="160" alt="Certified Advanced Automation Professional"></a><br/>Advanced Automation Professional<br/><sub>Automation Anywhere · 2024</sub></td>
-    <td align="center" valign="top" width="25%"><a href="certificates/iiit-training.jpg"><img src="certificates/iiit-training.jpg" width="160" alt="IIIT Hyderabad 6-month AI/ML training"></a><br/>6-Month AI/ML Training<br/><sub>IIIT Hyderabad · 2024</sub></td>
-  </tr>
-  <tr>
-    <td align="center" valign="top"><a href="certificates/visuara-llms.jpg"><img src="certificates/visuara-llms.jpg" width="160" alt="Build Large Language Models From Scratch"></a><br/>Build LLMs From Scratch<br/><sub>Visuara · 2024</sub></td>
-    <td align="center" valign="top"><a href="certificates/hf-mcp-unit1.jpg"><img src="certificates/hf-mcp-unit1.jpg" width="160" alt="Hugging Face MCP Unit 1"></a><br/>MCP Unit 1<br/><sub>Hugging Face · 2024</sub></td>
-    <td align="center" valign="top"><a href="certificates/hf-mcp-unit3.jpg"><img src="certificates/hf-mcp-unit3.jpg" width="160" alt="Hugging Face MCP Unit 3"></a><br/>MCP Unit 3<br/><sub>Hugging Face · 2024</sub></td>
-    <td align="center" valign="top"><a href="certificates/google-gdg.jpg"><img src="certificates/google-gdg.jpg" width="160" alt="Google Developer Groups certificate"></a><br/>Google GDG<br/><sub>GDG · 2025</sub></td>
-  </tr>
-  <tr>
-    <td align="center" valign="top"><a href="certificates/udemy-linear-algebra.jpg"><img src="certificates/udemy-linear-algebra.jpg" width="160" alt="Become a Linear Algebra Master"></a><br/>Linear Algebra Master<br/><sub>Udemy · 2026</sub></td>
-    <td align="center" valign="top"><a href="certificates/udemy-deep-learning.jpg"><img src="certificates/udemy-deep-learning.jpg" width="160" alt="A Deep Understanding of Deep Learning"></a><br/>Deep Learning with Python<br/><sub>Udemy · 2026</sub></td>
-    <td align="center" valign="top"><a href="certificates/sac-appreciation.jpg"><img src="certificates/sac-appreciation.jpg" width="160" alt="Student Activity Center certificate"></a><br/>SAC Appreciation<br/><sub>KL University · 2022–23</sub></td>
-    <td align="center" valign="top"><a href="certificates/streetcause.jpg"><img src="certificates/streetcause.jpg" width="160" alt="Street Cause volunteer certificate"></a><br/>Volunteer<br/><sub>Street Cause · 2023–24</sub></td>
-  </tr>
-</table>
-
 </details>
 
----
-
-## Awards
-
-**1st Place, Global Challenge Lab 2026, Imperial College London** · July 2026 · £1,500 team prize
-
-Imperial Enterprise Lab and Futurize's global innovation sprint: 1,000+ students from partner universities worldwide, 14 days, four tracks, one Demo Day. Team Corio (five people: AI/ML ×2, aerospace, physics and mechanical, finance) won with OrbitOps, a vendor-neutral reliability layer for satellite onboard AI:
-
-- Inject radiation-style faults before launch and measure what actually breaks
-- Watch the model in orbit with known-answer probes (catches silent degradation that never crashes and never lowers confidence)
-- Roll back to a clean copy the moment it breaks
-
-I led the AI/ML work and technical strategy.
-
-**1st Place, University Webathon**, KL University (2022): diet-management platform with personalised meal planning, calorie tracking, and nutritional recommendations, built in a 4-hour hackathon against 50+ teams.
-
-**2nd Place, Design Expo**, KL University (2022–23): Arduino smart switchboard for IoT home automation with real-time energy monitoring and mobile-app control.
-
-**SAC Momentum Award**, Student Activity Council, KL University (2023–25). See [Leadership](#leadership).
-
----
-
-## GitHub activity
+<details>
+<summary>GitHub activity and contribution graph</summary>
 
 <div align="center">
 
@@ -317,23 +383,14 @@ I led the AI/ML work and technical strategy.
 
 </details>
 
----
+</details>
 
 ## Contact
 
-[gruheshkurra2@gmail.com](mailto:gruheshkurra2@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gruheshkurra/) · [gruheshkurra.com](https://gruheshkurra.com)
+For research engineering internships or collaboration on language models, compression, and on-device inference:
 
-Open to research engineering internships in model training, evaluation, or efficient inference, and to collaboration on transformer research, LLM development, on-device AI, vision-language models, neural compression, and agentic systems.
+[gruheshkurra2@gmail.com](mailto:gruheshkurra2@gmail.com) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/gruheshkurra/) &nbsp; · &nbsp; [Portfolio](https://gruheshkurra.com)
 
-| Where | Link |
-|:---|:---|
-| Blog: AI/ML deep dives | [blogs.gruheshkurra.com](https://blogs.gruheshkurra.com) |
-| Portfolio | [gruheshkurra.com](https://gruheshkurra.com) |
-| Hugging Face | [karthik-2905](https://huggingface.co/karthik-2905) |
-| Kaggle | [gruheshkurra](https://www.kaggle.com/gruheshkurra) |
-| ORCID | [0009-0002-0558-2882](https://orcid.org/0009-0002-0558-2882) |
-| LinkedIn | [gruheshkurra](https://www.linkedin.com/in/gruheshkurra/) |
-| X | [@Karthik__kurra](https://x.com/Karthik__kurra) |
-| DEV | [dev.to/gruhesh_kurra](https://dev.to/gruhesh_kurra_6eb933146da) |
+[Hugging Face](https://huggingface.co/karthik-2905) · [Kaggle](https://www.kaggle.com/gruheshkurra) · [ORCID](https://orcid.org/0009-0002-0558-2882) · [X](https://x.com/Karthik__kurra) · [DEV](https://dev.to/gruhesh_kurra_6eb933146da) · [RSS](https://blogs.gruheshkurra.com/feed.xml)
 
 <sub>Also found as Gruhesh Kurra · Karthik Kurra · Gruhesh Sri Sai Karthik · Gruhesh Karthik.</sub>
