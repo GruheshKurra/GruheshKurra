@@ -31,7 +31,7 @@ THEMES = {
 
 CARDS = [
     {
-        "slug": "numpy-lm", "tag": "01  LANGUAGE MODELS",
+        "slug": "numpy-lm", "tag": "01  Language Models",
         "title": "A language model in pure NumPy",
         "body": "Decoder-only transformer on my own autograd engine: RoPE, grouped-query "
                 "attention, SwiGLU, QK-Norm and a KV-cache. Pretrained on DailyDialog, "
@@ -39,14 +39,14 @@ CARDS = [
         "metric": "3.87M", "label": "parameters · 78 unit tests",
     },
     {
-        "slug": "qwen-tools", "tag": "02  POST-TRAINING",
+        "slug": "qwen-tools", "tag": "02  Post-Training",
         "title": "Teaching Qwen3-0.6B to call tools",
         "body": "LoRA fine-tune with TRL on 1,423 tool and chat examples. Assistant-only "
                 "loss and five file and shell tools in Hermes format.",
         "metric": "6 → 11/12", "label": "exact tool calls, greedy eval",
     },
     {
-        "slug": "dual-stream", "tag": "03  DEEPFAKE FORENSICS",
+        "slug": "dual-stream", "tag": "03  Deepfake Forensics",
         "title": "Dual-Stream deepfake detection",
         "body": "Sobel boundary and multi-band FFT streams, fused by iterative "
                 "cross-attention. 227,504 frames; code, data and checkpoint are public.",
@@ -60,14 +60,14 @@ CARDS = [
         "metric": "99.0%", "label": "DBpedia · 93.5% AG News",
     },
     {
-        "slug": "deepguard", "tag": "05  ON-DEVICE ML",
+        "slug": "deepguard", "tag": "05  On-Device ML",
         "title": "DeepGuard for iOS",
         "body": "EfficientNet-B1 deepfake detector trained on 25k images on an Apple M4, "
                 "then converted to Core ML for local inference.",
         "metric": "26 MB", "label": "Core ML model · under 500 ms",
     },
     {
-        "slug": "bie", "tag": "06  MODEL COMPRESSION",
+        "slug": "bie", "tag": "06  Model Compression",
         "title": "Bit-index encoding",
         "body": "Stores sparse weights as the positions of nonzero bits, with Numba "
                 "sparse matrix multiplication that runs on the compressed form.",
@@ -115,7 +115,7 @@ def header(t):
         f'<rect width="{w}" height="{h}" rx="16" fill="{t["panel"]}"/>',
         f'<rect x=".5" y=".5" width="{w - 1}" height="{h - 1}" rx="15.5" stroke="{t["line"]}"/>',
         f'<g font-family="{FONT}">',
-        f'<text x="64" y="84" font-family="{MONO}" font-size="16" letter-spacing="3" fill="{t["accent"]}">GRUHESH SRI SAI KARTHIK KURRA</text>',
+        f'<text x="64" y="84" font-size="19" font-weight="600" fill="{t["accent"]}">Gruhesh Sri Sai Karthik Kurra</text>',
         f'<text x="60" y="170" font-size="60" font-weight="700" letter-spacing="-1.5" fill="{t["text"]}">I write the maths,</text>',
         f'<text x="60" y="240" font-size="60" font-weight="700" letter-spacing="-1.5" fill="{t["accent"]}">then I train the model.</text>',
         f'<text x="64" y="304" font-size="21" fill="{t["muted"]}">MSc Computing (AI &amp; ML) · Imperial College London · 2026–27</text>',
@@ -180,7 +180,7 @@ def card(c, t):
         f'<rect x=".5" y=".5" width="{w - 1}" height="{h - 1}" rx="14" fill="{t["panel"]}" stroke="{t["line"]}"/>',
         f'<path d="M1 28V272" stroke="{t["accent"]}" stroke-width="3"/>',
         f'<g font-family="{FONT}">',
-        f'<text x="{pad}" y="50" font-family="{MONO}" font-size="14" letter-spacing="1.5" fill="{t["accent"]}">{escape(c["tag"])}</text>',
+        f'<text x="{pad}" y="50" font-size="15" font-weight="600" fill="{t["accent"]}">{escape(c["tag"])}</text>',
         f'<text x="{pad}" y="92" font-size="26" font-weight="700" fill="{t["text"]}">{escape(c["title"])}</text>',
     ]
     lines = wrap(c["body"], 18, w - 2 * pad)

@@ -3,7 +3,7 @@
 <rect x=".5" y=".5" width="599" height="299" rx="14" fill="#161b22" stroke="#30363d"/>
 <path d="M1 28V272" stroke="#7ee2b8" stroke-width="3"/>
 <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
-<text x="36" y="50" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="1.5" fill="#7ee2b8">02  POST-TRAINING</text>
+<text x="36" y="50" font-size="15" font-weight="600" fill="#7ee2b8">02  Post-Training</text>
 <text x="36" y="92" font-size="26" font-weight="700" fill="#e6edf3">Teaching Qwen3-0.6B to call tools</text>
 <text x="36" y="128" font-size="18" fill="#8b949e">LoRA fine-tune with TRL on 1,423 tool and chat examples.</text>
 <text x="36" y="154" font-size="18" fill="#8b949e">Assistant-only loss and five file and shell tools in Hermes</text>
