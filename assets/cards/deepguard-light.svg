@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" fill="none" role="img">
+<title>DeepGuard for iOS. EfficientNet-B1 deepfake detector trained on 25k images on an Apple M4, then converted to Core ML for local inference. 26 MB Core ML model · under 500 ms.</title>
+<rect x=".5" y=".5" width="599" height="299" rx="14" fill="#f6f8fa" stroke="#d0d7de"/>
+<path d="M1 28V272" stroke="#0a7f5a" stroke-width="3"/>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<text x="36" y="50" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="1.5" fill="#0a7f5a">05  ON-DEVICE ML</text>
+<text x="36" y="92" font-size="26" font-weight="700" fill="#1f2328">DeepGuard for iOS</text>
+<text x="36" y="128" font-size="18" fill="#59636e">EfficientNet-B1 deepfake detector trained on 25k images on an</text>
+<text x="36" y="154" font-size="18" fill="#59636e">Apple M4, then converted to Core ML for local inference.</text>
+<path d="M36 226H564" stroke="#d0d7de"/>
+<text x="36" y="268" font-size="30" font-weight="700" fill="#0a7f5a">26 MB</text>
+<text x="530" y="265" text-anchor="end" font-size="16" fill="#59636e">Core ML model · under 500 ms</text>
+<text x="564" y="266" text-anchor="end" font-size="22" fill="#0969da">→</text>
+</g></svg>
