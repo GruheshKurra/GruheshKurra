@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://gruheshkurra.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0a7f5a?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;<a href="https://blogs.gruheshkurra.com"><img alt="Blog" src="https://img.shields.io/badge/Blog-1f6feb?style=for-the-badge&logo=rss&logoColor=white" /></a>&nbsp;<a href="https://huggingface.co/karthik-2905"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>&nbsp;<a href="https://www.linkedin.com/in/gruheshkurra/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;<a href="https://orcid.org/0009-0002-0558-2882"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>&nbsp;<a href="mailto:gruheshkurra2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://gruheshkurra.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0a7f5a?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;<a href="https://blogs.gruheshkurra.com"><img alt="Blog" src="https://img.shields.io/badge/Blog-1f6feb?style=for-the-badge&logo=rss&logoColor=white" /></a>&nbsp;<a href="https://huggingface.co/karthik-2905"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>&nbsp;<a href="https://www.linkedin.com/in/gruheshkurra/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;<a href="https://orcid.org/0009-0002-0558-2882"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>&nbsp;<a href="mailto:gruheshkurracareers@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -45,7 +45,7 @@ I'm looking for **research engineering and ML internships** in model training, e
 
 <img alt="1st place, Global Challenge Lab 2026" src="https://img.shields.io/badge/1st%20place-Global%20Challenge%20Lab%202026-0a7f5a?style=flat-square&logo=starship&logoColor=white" />
 <img alt="First-author IEEE paper" src="https://img.shields.io/badge/First--author-IEEE%20ICCCMLA%202025-00629B?style=flat-square&logo=ieee&logoColor=white" />
-<img alt="Two papers under review" src="https://img.shields.io/badge/Under%20review-2%20papers%20at%20IEEE%20NEPCON%202026-d29922?style=flat-square" />
+<img alt="Two papers accepted at IEEE NEPCON 2026" src="https://img.shields.io/badge/Accepted-2%20papers%20at%20IEEE%20NEPCON%202026-2ea44f?style=flat-square" />
 <img alt="Imperial College London" src="https://img.shields.io/badge/Imperial-MSc%202026%E2%80%932027-0000CD?style=flat-square" />
 
 </div>
@@ -95,11 +95,11 @@ A Sobel-edge boundary stream and a multi-band Fourier frequency stream, combined
 
 ### [MANCE: morphology-aware word embeddings](https://github.com/GruheshKurra/MANCE-NLP)
 
-<img src="https://img.shields.io/badge/NLP-embeddings-8957e5?style=flat-square" alt="NLP" /> <img src="https://img.shields.io/badge/IEEE-ICCCMLA%202025-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE ICCCMLA 2025" />
+<img src="https://img.shields.io/badge/NLP-embeddings-8957e5?style=flat-square" alt="NLP" /> <img src="https://img.shields.io/badge/IEEE-ICCCMLA%202025-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE ICCCMLA 2025" /> <img src="https://img.shields.io/badge/German%20NER-63.0%20vs%2048.2%20F1-2ea44f?style=flat-square" alt="German NER 63.0 vs 48.2 F1" />
 
-Word representations built from nested character sequences, so related word forms can share information. The work explores recurrent, convolutional, and Transformer encoders for classification and named entity recognition. **First-author paper accepted at IEEE ICCCMLA 2025.**
+Every word is built from its characters by a character-level Transformer, so related forms like *play* and *plays* share most of their computation and unseen words never become `<unk>`. In a seeded re-implementation (3 seeds), it reaches **63.0 F1 on GermEval 2014 German NER against 48.2** for word embeddings with the same encoder, and matches them on AG News (91.0%) and DBpedia (98.5%). Ablations show the character order and encoder both matter. **First-author paper, published in IEEE Xplore.**
 
-[Paper on IEEE Xplore](https://ieeexplore.ieee.org/document/11580466)
+[Paper on IEEE Xplore](https://ieeexplore.ieee.org/document/11580466) · [Results and run files](https://github.com/GruheshKurra/MANCE-NLP/tree/main/experiments)
 
 </td>
 </tr>
@@ -119,11 +119,11 @@ An EfficientNet-B1 classifier trained on 25,000 images using Apple Silicon and c
 
 ### [Bit-Index Encoding](https://github.com/GruheshKurra/bit-index-encoding-research-)
 
-<img src="https://img.shields.io/badge/Numba-kernels-00A3E0?style=flat-square&logo=numba&logoColor=white" alt="Numba" /> <img src="https://img.shields.io/badge/model-compression-2ea88a?style=flat-square" alt="Model compression" />
+<img src="https://img.shields.io/badge/Numba-kernels-00A3E0?style=flat-square&logo=numba&logoColor=white" alt="Numba" /> <img src="https://img.shields.io/badge/model-compression-2ea88a?style=flat-square" alt="Model compression" /> <img src="https://img.shields.io/badge/95%25%20sparse-44.5%C3%97%20smaller-2ea44f?style=flat-square" alt="44.5x smaller at 95% sparsity" />
 
-Experiments in compressing sparse neural-network weights by storing nonzero bit positions. Includes Numba sparse matrix multiplication kernels and benchmarks for computing with the compressed representation.
+A storage format for pruned weight matrices. Gaps between nonzeros are Golomb–Rice coded (close to the entropy limit), values are 8-bit codes stored as bitplanes, and a row-parallel Numba kernel multiplies on the result. At 95% sparsity it is **44.5× smaller than float32 at 0.6% error**, against 25.7× for CSR with the same values; on GPT-2 small, perplexity stays at the int8 level.
 
-[Preprint on Zenodo](https://zenodo.org/records/17217218)
+[Paper (Zenodo, v2)](https://doi.org/10.5281/zenodo.17217217) · [Results](https://github.com/GruheshKurra/bit-index-encoding-research-/blob/main/experiments/RESULTS.md)
 
 </td>
 </tr>
@@ -135,10 +135,10 @@ I work on word representation, model compression, and the evidence used by detec
 
 | Paper | Status |
 | :-- | :-- |
-| [Morphology-Aware Nested Character Embeddings for Word Representation](https://ieeexplore.ieee.org/document/11580466) | <img src="https://img.shields.io/badge/Accepted-IEEE%20ICCCMLA%202025-2ea44f?style=flat-square" alt="Accepted, IEEE ICCCMLA 2025" /> |
-| [Dual-Stream Artifact Detection with Iterative Evidence Refinement for Frame-Level Deepfake Recognition](https://github.com/GruheshKurra/radar_deepfake) | <img src="https://img.shields.io/badge/Under%20review-IEEE%20NEPCON%202026-d29922?style=flat-square" alt="Under review, IEEE NEPCON 2026" /> |
-| Prism Tuning: Repulsion-Trained Seed Embeddings in a Frozen Transformer for Non-Redundant Generation | <img src="https://img.shields.io/badge/Under%20review-IEEE%20NEPCON%202026-d29922?style=flat-square" alt="Under review, IEEE NEPCON 2026" /><br/><sub>Method paper; empirical evaluation pending</sub> |
-| [BIE: Bit-Index Encoding for Efficient Neural Network Weight Compression](https://zenodo.org/records/17217218) | <img src="https://img.shields.io/badge/Preprint-Zenodo%202025-6e7781?style=flat-square" alt="Preprint, Zenodo, 2025" /> |
+| [Morphology-Aware Nested Character Embeddings for Word Representation](https://ieeexplore.ieee.org/document/11580466) | <img src="https://img.shields.io/badge/Published-IEEE%20ICCCMLA%202025-2ea44f?style=flat-square" alt="Published, IEEE ICCCMLA 2025" /> |
+| [Dual-Stream Artifact Detection with Iterative Evidence Refinement for Frame-Level Deepfake Recognition](https://github.com/GruheshKurra/radar_deepfake) | <img src="https://img.shields.io/badge/Accepted-IEEE%20NEPCON%202026-2ea44f?style=flat-square" alt="Accepted, IEEE NEPCON 2026" /> |
+| Prism Tuning: Repulsion-Trained Seed Embeddings in a Frozen Transformer for Non-Redundant Generation | <img src="https://img.shields.io/badge/Accepted-IEEE%20NEPCON%202026-2ea44f?style=flat-square" alt="Accepted, IEEE NEPCON 2026" /><br/><sub>Method paper; empirical evaluation pending</sub> |
+| [BIE: Bit-Index Encoding of Sparse Neural Network Weights](https://doi.org/10.5281/zenodo.17217217) | <img src="https://img.shields.io/badge/Preprint-Zenodo%202026%20(v2)-6e7781?style=flat-square" alt="Preprint, Zenodo, 2026, version 2" /> |
 | [Hybrid RAG-Enhanced Deepfake Detection: A Novel Approach Combining Retrieval-Augmented Generation with Visual Inconsistency Analysis](https://zenodo.org/records/16732053) | <img src="https://img.shields.io/badge/Preprint-Zenodo%202025-6e7781?style=flat-square" alt="Preprint, Zenodo, 2025" /><br/><sub>Architecture and evaluation plan</sub> |
 | RADAR: Reasoning-Augmented Deepfake Artifact Recognition via Multi-Branch Evidence Aggregation | <img src="https://img.shields.io/badge/Preprint-2026-6e7781?style=flat-square" alt="Preprint, 2026" /><br/><sub>Architecture and evaluation protocol</sub> |
 
@@ -305,6 +305,6 @@ I write [**AI from Scratch**](https://blogs.gruheshkurra.com/series/ai/), a seri
 
 ## Let's talk
 
-For research engineering opportunities or collaboration on language models, model compression, and on-device inference, reach me at [gruheshkurra2@gmail.com](mailto:gruheshkurra2@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/gruheshkurra/).
+For research engineering opportunities or collaboration on language models, model compression, and on-device inference, reach me at [gruheshkurracareers@gmail.com](mailto:gruheshkurracareers@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/gruheshkurra/).
 
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0b3d2e,55:0a7f5a,100:1f6feb" />
