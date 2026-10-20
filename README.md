@@ -60,7 +60,7 @@ Before Imperial I studied Computer Science and Engineering at KL University, Hyd
 <b>Prism Tuning: Repulsion-Trained Seed Embeddings in a Frozen Transformer for Non-Redundant Generation</b><br/>
 <b>Gruhesh Sri Sai Karthik Kurra</b>, Pavan Kumar Pagadala, Malathy Batumalay, Sushma Reddy Koduru<br/>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/status-accepted-dark.svg" /><img src="assets/readme/status-accepted-light.svg" height="22" align="absmiddle" alt="Accepted" /></picture> <i>IEEE NEPCON 2026 · presentation December 2026</i>
-<p>K seed vectors are added to the input embeddings of a frozen transformer and trained only by a repulsion loss, so one prompt gives K different outputs in one batched pass, with no sampling and filtering at inference. The paper gives the method and its formulation; running the experiments is my next step.</p>
+<p>K seed vectors are added to the input embeddings of a frozen transformer and trained only by a repulsion loss, so one prompt gives K different outputs in one batched pass, with no sampling and filtering at inference. The paper gives the method and its formulation. Follow-up (Oct 2026): a redesigned version, tested in pre-registered GPU experiments on Qwen2.5, did not significantly beat tuned min-p sampling; the main suspected cause is the training data.</p>
 </td>
 </tr>
 <tr>
