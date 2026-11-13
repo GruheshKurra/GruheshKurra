@@ -56,7 +56,7 @@ I'm looking for funded PhD positions in language models and NLP, starting Octobe
 - **Oct 2026:** Version 2 of [BIE](https://doi.org/10.5281/zenodo.17217217) is on Zenodo. It has a new storage format and a full measured evaluation.
 - **Sep 2026:** Started the MSc in Computing (AI and Machine Learning) at Imperial College London.
 - **Jul 2026:** My team won **first place** at Imperial's Global Challenge Lab, a 14-day sprint with over 1,000 students. I led the AI work on OrbitOps, a reliability layer for satellite onboard AI.
-- **2026:** Two papers, Dual-Stream and Prism Tuning, accepted at IEEE NEPCON 2026.
+- **2026:** Dual-Stream accepted at IEEE NEPCON 2026.
 - **2025:** MANCE published at IEEE ICCCMLA 2025 (IEEE Xplore).
 
 ## Publications
@@ -72,7 +72,7 @@ I'm looking for funded PhD positions in language models and NLP, starting Octobe
 </tr>
 <tr>
 <td width="200" valign="top"><img src="assets/projects/thumb-prism.svg" width="190" alt="" /></td>
-<td valign="top"><b>Prism Tuning: Repulsion-Trained Seed Embeddings in a Frozen Transformer for Non-Redundant Generation</b><br/><b>Gruhesh Sri Sai Karthik Kurra</b>, Pavan Kumar Pagadala, Malathy Batumalay, Sushma Reddy Koduru<br/><i>IEEE NEPCON 2026 · Accepted, presentation December 2026</i><br/>Only K seed vectors are trained. They are added to the input embeddings of a frozen transformer and pushed apart by a repulsion loss, so one prompt gives K different answers in one batched pass, with no filtering. The paper gives the method and formulation only. In October 2026 I tested a redesigned version in pre-registered GPU experiments on Qwen2.5. It did not significantly beat tuned min-p sampling, and the main suspected cause is the training data.<br/></td>
+<td valign="top"><b>Prism Tuning: Repulsion-Trained Seed Embeddings in a Frozen Transformer for Non-Redundant Generation</b><br/><b>Gruhesh Sri Sai Karthik Kurra</b><br/><i>Preprint · 2026</i><br/>Only K seed vectors are trained. They are added to the input embeddings of a frozen transformer and pushed apart by a repulsion loss, so one prompt gives K different answers in one batched pass, with no filtering. The paper gives the method and formulation only. In October 2026 I tested a redesigned version in pre-registered GPU experiments on Qwen2.5. It did not significantly beat tuned min-p sampling, and the main suspected cause is the training data.<br/></td>
 </tr>
 <tr>
 <td width="200" valign="top"><img src="assets/projects/thumb-bie.svg" width="190" alt="" /></td>
